@@ -1,0 +1,1714 @@
+{
+  "summary_sections": [
+    {
+      "title": "1. Preanestezik İlaçlar, Amaçları ve Seçim Kriterleri",
+      "icon": "💊",
+      "points": [
+        "Tanım: Genel anestezi öncesi hayvana uygulanan, hastayı indüksiyona ve anesteziye hazırlayan, anesteziden sakin uyanmayı sağlayan ilaçlardır (Slayt 2).",
+        "Seçim Kriterleri: Hayvanın yaşı, fiziki durumu, türü, yapılacak operasyonun türü ve süresi ile operasyonun aciliyeti mutlaka göz önünde bulundurulmalıdır (Slayt 2).",
+        "Rutin Kullanım Uyarısı: Preanestezikler rutin kalıplarla değil, her hastanın kendi fizyolojik durumuna göre seçilmelidir (Slayt 3).",
+        "Hipovolemik / Hipotansif Hasta Riski: Tranklizan türevi ilaçlar periferik vazodilatasyon yaparak kan basıncını daha da düşürdüğü için hipovolemik ve hipotansif hastalarda sakıncalıdır (Slayt 3).",
+        "Kullanım Amacı 1 (Sedasyon): Ağrının, huysuzluğun, endişe ve korkunun azaltılması (Slayt 4).",
+        "Kullanım Amacı 2 (Kolay Giriş & Çıkış): Eksitasyonsuz indüksiyon ve postoperatif ağrıyı azaltarak sakin bir uyanma sağlamak (Slayt 4).",
+        "Kullanım Amacı 3 (Yan Etki Eliminasyonu): Ketaminin aşırı salivasyonunu, halotanın bradikardi ve kardiyak disritmisini atropin gibi ilaçlarla ortadan kaldırmak (Slayt 4).",
+        "Kullanım Amacı 4 (Doz Azaltma): Genel anestezik madde miktarını azaltarak hızlı indüksiyon ve erken uyanma temin etmek (Slayt 5).",
+        "Dengeli Anestezi (Balanced Anesthesia): Birçok preanestezik ve genel anestezik ajanın sinerjik şekilde kombine edilerek güvenli bir anestezi oluşturulmasıdır (Slayt 5)."
+      ]
+    },
+    {
+      "title": "2. Antikolinerjikler: Atropin Sülfat",
+      "icon": "🫀",
+      "points": [
+        "Uygulama & Süre: SC, IV ve IM yolla uygulanır. SC yolla 20 dakikada etki başlar, indüksiyondan 20-30 dk önce verilmelidir. Etki süresi 60-90 dakikadır (Slayt 6, 10).",
+        "Vagus Blokajı: Entübasyon, organ manipülasyonu, inhalasyon anestezikleri, ksilazin ve morfinin uyardığı n. vagusu bloke ederek bradikardiyi ve kardiyak output düşüşünü önler (Slayt 6).",
+        "Salivasyon Azaltma: Parasempatik uyarıyı keserek salyayı belirgin azaltır. Salyanın hava yollarına aspirasyonunu önler; özellikle ketaminle birlikte şarttır (Slayt 7).",
+        "Gastrointestinal Etki: Bağırsak motilitesini azaltır; ameliyat sırasında gaz oluşumu, kusma ve ishali engeller (Slayt 7).",
+        "Göz & Pupilla Tür Farklılıkları: Köpeklerde preanestezik dozda midriyazis görülmez! Kedilerde ve atlarda midriyazis oluşturur. Kuşlarda İRİS ÇİZGİLİ KAS yapısında olduğu için atropin kuşlarda midriyazis OLUŞTURMAZ (Slayt 8).",
+        "Göz Kuruluğu & Pomad: Gözyaşı salgısını azaltır; korneayı korumak için göz pomadı sürülmelidir. Ketamin anestezisinde gözler açık kaldığı için pomad uygulaması zorunludur (Slayt 9).",
+        "Bronşlar & Sekresyon Riski: Bronşlarda dilatasyon yapar; ancak kedi ve sığırlarda mukoz sekresyonu koyulaştırdığı için dikkatli olunmalıdır (Slayt 9).",
+        "Dozlar: Köpek ve kedi: 0.02-0.04 mg/kg, Sığır: 0.04-0.06 mg/kg, Koyun-Keçi: 0.7 mg/kg, At: 0.01-0.02 mg/kg (Slayt 10).",
+        "Kontrendikasyonlar: Taşikardisi olanlarda (köpek >140, kedi >160 atım/dk), kongestif kalp hastalarında, konstipasyon ve ileus olgularında kesinlikle kullanılmaz (Slayt 10)."
+      ]
+    },
+    {
+      "title": "3. Tranklizanlar & Fenotiyazinler (Asepromazin)",
+      "icon": "🌿",
+      "points": [
+        "Sınıflandırma: Fenotiyazinler (Chlorpromazine, Promazine, Propionyl promazine/Combelen, Acepromazine/Vetranquil) ve Butirofenonlar (Azaperon, Fluanison, Lenperone, Droperidol) (Slayt 11).",
+        "Genel Etkiler: Endişeyi ortadan kaldırır, relaksiyon, başın tutulamaması ve kulakların düşmesine yol açar. At ve ruminantlarda penis relaksiyonu/prolapsusu görülür (Slayt 12).",
+        "Preanestezik Avantaj: İndüksiyonu kolaylaştırır, anestezik doz ihtiyacını azaltır, kusmayı önler, uyanmada çabalama ve bağırmayı keser (Slayt 13).",
+        "Antiemetik & Taşıt Tutması: Çok küçük dozlarda bile anestezi boyunca kusmayı önler; araba tutmalarında tercih edilir (Slayt 14).",
+        "Antidisritmik Etki: Adrenalin ve halotanın indüklediği ventriküler aritmileri antagonize eder (Slayt 14).",
+        "Periferik Vazodilatasyon Riski: IV yolla uygulandığında damarları genişleterek ısı kaybı (hipotermi) ve hipotansiyona yol açar; ŞOKTAKİ hastalarda kullanılmaz (Slayt 14).",
+        "Nöbet Uyarısı: Nöbet eşiğini düşürdüğü için anamnezinde epilepsi veya kafa travması olan hastalarda kontrendikedir (Slayt 14).",
+        "Bireysel Paradoks Etki: Bazı hayvanlarda sedasyon yerine eksitasyon yapabilir ve bu tablo 48 saat sürebilir (Slayt 14).",
+        "Asepromazin Dozları: Köpek-kedi: 0.03-0.1 mg/kg, At: 0.02-0.04 mg/kg (IV, SC, IM) (Slayt 15)."
+      ]
+    },
+    {
+      "title": "4. Benzodiazepinler: Diazepam ve Midazolam",
+      "icon": "🧘",
+      "points": [
+        "Sınıf Üyeleri: Diazepam ve Midazolam (Slayt 11, 16).",
+        "Sedasyon ve Analjezi Durumu: Sedasyon oluşturmaz ve AĞRI KESİCİ (ANALJEZİK) ÖZELLİĞİ YOKTUR (Slayt 16).",
+        "Etki Alanları: Mükemmel antikonvülzan etkiye ve çok güçlü kas gevşetici özelliklere sahiptir. Ketamin kaynaklı konvülziyon ve kas sertliğini azaltmak için ketaminle kombine edilir (Slayt 16).",
+        "İştah Açıcı Etki (Oreksijenik): İştahsız kedilerde oral 1 mg/kg'a kadar, IV yolla 0.05-0.1 mg/kg dozda iştahın açılmasını sağlar (Slayt 16).",
+        "Kardiyovasküler Güvenlik: KVS ve solunum sistemi üzerine yan etkisi çok azdır. Bu nedenle yüksek anestezi riski taşıyan (ASA III-V) ve yaşlı hastalarda güvenle kullanılır (Slayt 16).",
+        "Diazepam Uygulama Uyarısı: Venöz tromboz ve flebit riskini önlemek için IV enjeksiyonu yavaş yapılmalıdır (Slayt 17).",
+        "Tek Başına Kullanım Riski: Sağlıklı hayvanlarda tek başına uygulandığında eksitasyon yapabileceğinden tek ilaç olarak kullanılmamalıdır (Slayt 17).",
+        "Antidot: Doz aşımı durumunda spesifik antidotu Flumazenil'dir (serum ve oksijen takviyesi ile birlikte) (Slayt 17).",
+        "Dozlar: Köpek (0.1-0.5 mg/kg IV, 0.3-1.0 mg/kg IM), At (0.05-0.2 mg/kg IV), Sığır (0.5-1.0 mg/kg IM) (Slayt 17)."
+      ]
+    },
+    {
+      "title": "5. Alfa-2 Adrenoseptör Agonistleri & Antagonistleri",
+      "icon": "🐴",
+      "points": [
+        "Agonistler: Ksilazin (Xylazine), Detomidin (Detomidine), Medetomidin (Medetomidine) (Slayt 11, 18).",
+        "Temel Etkileri: Güçlü sedasyon, analjezi, bradikardi, ürinasyonda belirgin artış (diürez) (Slayt 18).",
+        "Abortus Riski: Uterus kasılmalarını uyardığı için erken ve geç gebelik döneminde abortusa neden olabilir (gebede kontrendikedir) (Slayt 18).",
+        "Ksilazin Etki Başlangıcı: IM uygulamada 10-15 dk, IV uygulamada 3-5 dk sonra tam etkisini gösterir (Slayt 19).",
+        "Sedasyon vs Analjezi Süresi: Uykulu hal 1-2 saat sürebilir; ANCAK analjezik etkisi 15-30 dk kadar kısa sürelidir. Ağrılı müdahaleler ilk 10-15 dk içinde yapılmalıdır (Slayt 19, 21).",
+        "Doz Artırma Paradoksu: Ksilazin dozunu artırmak sedasyon derinliğini artırmaz; sadece etki süresinin uzamasına neden olur (Slayt 20).",
+        "Toksisite: Yüksek dozlarda solunum sayısı düşer, şiddetli bradikardi ve ciddi AV bloklar şekillenir (Slayt 20).",
+        "Sığır ve Ruminant Duyarlılığı: Buzağılarda 0.11 mg/kg IV veya 0.22 mg/kg IM yatış sağlar. Sığırlarda yutkunma azalır, salya ağızda tutulamaz (Slayt 19, 20).",
+        "Stresli Hayvan Uyarısı: Önceden stres, korku veya ağrı varsa ksilazin yeterli sedasyon sağlayamaz; hayvan sessiz ortamda tutulmalıdır (Slayt 21).",
+        "Spesifik Antagonistler: Yohimbine, Tolazoline, Atipamezole (Slayt 22)."
+      ]
+    },
+    {
+      "title": "6. Opioid Analjezikler ve Nöroleptanaljezi",
+      "icon": "💉",
+      "points": [
+        "Opioid Türevleri: Morfin, Meperidin, Butorfanol, Fentanil (Slayt 23, 57).",
+        "Kedi Uyarısı: Fentanil gibi bazı opioidler kedilerde endişe, korku, konvülziyon ve aşırı hareketlilik (mani) oluşturabileceğinden kedilerde kullanılmamalıdır (Slayt 23).",
+        "Analjezik Güç: Çok güçlü analjeziklerdir; analjezisi zayıf olan halotan, izofluran, ketamin ve barbitüratlarla kombine edilir (Slayt 23).",
+        "Entübasyon Kolaylığı: IV 60 saniyede etki başlar. Yutkunma refleksi devam etse dahi entübasyon kolaylıkla yapılabilir (Slayt 23).",
+        "Solunum Depresyonu: Hem solunum frekansını hem de tidal volümü azaltırlar; mekanik ya da manuel ventilatörle solunum desteği gerekir (Slayt 24).",
+        "Gastrointestinal Etki: Erken dönemde peristaltiği artırarak kusma ve defekasyona yol açar; uzun dönemde peristaltiği azaltarak konstipasyon oluşturur (Slayt 24, 25).",
+        "Pupilla Farkı: Köpeklerde miyozis (daralma), kedilerde ise midriyazis (genişleme) meydana gelir (Slayt 24).",
+        "Morfin Kontrendikasyonları: Karaciğer, böbrek, tiroid hastalarında ve hiperaktif olgularda kullanılmamalıdır (Slayt 25).",
+        "Nöroleptanaljezi: Morfin türevi bir analjezik ile tranklizan bir ajanın kombine edilmesiyle tam bilinç kaybı ve uyku olmadan derin sedasyon ve iyi analjezi sağlanmasıdır (Slayt 57).",
+        "Endikasyon: Genç ve sağlıklı hayvanların rutin indüksiyonuna uygun değildir; yüksek anestezi riski taşıyan hastalarda barbitürat ve ketamine göre güvenli bir alternatiftir (Slayt 58)."
+      ]
+    },
+    {
+      "title": "7. Barbitüratlar: Tiyopental Sodyum ve Fenobarbital",
+      "icon": "🧪",
+      "points": [
+        "Etki Sürelerine Göre Sınıflandırma: 1) Uzun süreli (8-12 st): Fenobarbital, Barbital. 2) Orta süreli (2-6 st): Amobarbital. 3) Kısa süreli (45-90 dk): Pentobarbital, Sekobarbital. 4) Çok kısa süreli (5-15 dk): Tiyopental sodyum, Tiamilal, Metoheksital (Slayt 30).",
+        "Kullanım Alanları: Kısa ve çok kısa süreliler genel anestezi ve indüksiyonda; orta ve uzun süreliler sedasyon ve konvülziyon kontrolünde kullanılır (Slayt 28).",
+        "Hipotermi & Hipotansiyon: Santral ve periferik etkilerle hipotansiyon, bazal metabolizmayı yavaşlatarak hipotermi oluştururlar (Slayt 29).",
+        "Motor Korteks & Endikasyon: Motor korteksi deprese ettiği için striknin zehirlenmesinde, distemper ensefalitinde ve lokal anestezik zehirlenmelerinde endikedir (Slayt 29, 31).",
+        "Thiopental pH ve Enjeksiyon Uyarısı: Açık sarı tozdur. pH'sı 11-12 (aşırı alkali) olduğu için KESİNLİKLE SADECE IV uygulanmalıdır! Doku dışına çıkarsa yangı, şiddetli ağrı ve NEKROZ yapar (Slayt 32).",
+        "İntraarteriyel Enjeksiyon Faciası: Yanlışlıkla artere verilirse endotel hasarı yaparak ekstremitede GANGRENE yol açar (Slayt 33).",
+        "Bolus İndüksiyon: Hesaplanan dozun 1/2'si hızlı, kalanı dengeli şekilde toplam 15 saniyede verilerek I. ve II. eksitasyon dönemleri atlatılır (Slayt 34, 65).",
+        "Refleks ve Derinlik: Anesteziye girişte ilk önce derin bir esneme ve hızlı refleks kaybı gözlenir. Derinlik artırılacaksa başlangıç dozunun en fazla 1/3'ü eklenir (Slayt 36).",
+        "Preanestezik Etkileşimi: Morfin tiyopental doz ihtiyacını %40-50, tranklizanlar %10-25 oranında azaltır (Slayt 36).",
+        "Ötenazi & Letal Doz: Ötenazi amacıyla da kullanılır. Sağlıklı hayvanlarda letal dozu anestezik dozun 6 katıdır (Slayt 40)."
+      ]
+    },
+    {
+      "title": "8. Dissosiyatif Anestezikler: Ketamin ve Zolatil",
+      "icon": "🐱",
+      "points": [
+        "Kataleptik Anestezi: Hayvan uyanık gibi görünür ancak çevresinden tamamen habersizdir. İmmobilizasyon, somatik analjezi ve amnezi oluşur (Slayt 41).",
+        "Aktif Kalan Refleksler: Oküler, oral, laringeal ve yutkunma refleksleri AKTİF KALIR! Gözler açıktır, nistagmus ve pupilla dilatasyonu görülür (Slayt 41, 42).",
+        "Palpebral Refleks Uyarısı: Palpebral refleks çok kuvvetli kaldığından bu refleksle anestezi derinliği ölçülemez (Slayt 43).",
+        "Visseral Analjezi Zayıflığı: Deri ve ekstremite analjezisi iyidir fakat iç organ (visseral) analjezisi zayıftır; ABDOMİNAL CERRAHİDE TEK BAŞINA KULLANILMAZ (Slayt 45).",
+        "Kas Rijiditesi & Kombinasyon: Kas tonusu ve rijidite artar, spontan hareketler olur (barbitüratın tam tersi). Bu yüzden benzodiazepin, ksilazin veya asepromazin ile kombine edilmelidir (Slayt 44, 50).",
+        "Ketamin pH & Eliminasyon: pH 3.5'tir (IM dokuda hafif irritasyon). Köpek ve atta karaciğerde yıkılır. KEDİLERDE ise karaciğer metabolizması çok düşüktür; İDRARLA DEĞİŞMEDEN ATILIR (Slayt 47, 49).",
+        "Kardiyovasküler Stimülasyon: Ketamin kalp atımını, kardiyak outputu ve kan basıncını artırır (Slayt 48).",
+        "Tiletamin/Zolezepam (Zolatil): Tiletamin (dissosiyatif) + Zolezepam (benzodiazepin) 1:1 oranında kombinedir. Zolatil-50'de 125 mg + 125 mg liyofilize toz bulunur (Slayt 51).",
+        "Türler Arası Yarılanma Ömrü Farkı (Kritik Sınav Sorusu): Köpeklerde Tiletamin 1-2 saat, Zolezepam 1 saattir; Zolezepam önce bittiği için KÖPEKLERDE UYANMA SORUNLU ve kas sertliklidir (uyanmada Diazepam gerekir). Kedilerde Tiletamin 2.5 saat, Zolezepam 4.5 saattir; Zolezepam sedasyonu altında uyandıkları için KEDİLERDE UYANMA ÇOK SAKİN VE KALİTELİDİR (Slayt 54, 55)."
+      ]
+    },
+    {
+      "title": "9. Propofol ve Kloral Hidrat",
+      "icon": "🥛",
+      "points": [
+        "Propofol Yapısı & Sepsis Riski: Koruyucu madde içermeyen steril süt beyazı emülsiyondur. Bakteri üremesine çok elverişli olduğundan açılan ampuller 6-8 saat içinde tüketilmelidir (Slayt 59).",
+        "Sadece IV Uygulama: Yalnızca IV uygulanır; ancak damar dışına kaçarsa tiyopental gibi doku hasarı ve nekroz YAPMAZ (Slayt 59).",
+        "Analjezi Eksikliği: Sedatif-hipnotiktir fakat ANALJEZİK ÖZELLİĞİ ÇOK AZDIR (Slayt 60).",
+        "Doz & Uyanma Hızı: Premedikasyonsuzda 6-8 mg/kg IV, premedikasyonlularda 2-4 mg/kg IV verilir (atropine gerek yoktur). Uyanma çok hızlıdır (köpekte 20 dk, kedide 30 dk) (Slayt 60).",
+        "Kloral Hidrat: Renksiz tozdur, %5-10 solüsyonu oral veya IV kullanılır. Küçük hayvanda kullanılmaz, büyük hayvanda ucuzluğu nedeniyle nadir kullanılır (Slayt 61).",
+        "Doku İrritasyonu: Damar dışına çıkması dokuda şiddetli irritasyon oluşturur (Slayt 61).",
+        "Uyanma Süresi Dezavantajı: Genel anestezi dozlarında uyanma süresi aşırı uzar. Bu yüzden modern hekimlikte yalnızca sedasyon amacıyla önerilir (Slayt 61).",
+        "Analjezi Takviyesi: Kloral hidrat sedasyonuna mutlaka lokal veya rejyonel anestezi eklenmelidir (Slayt 62)."
+      ]
+    },
+    {
+      "title": "10. İndüksiyon Teknikleri ve Endotrakeal Entübasyon",
+      "icon": "🫁",
+      "points": [
+        "İndüksiyon Süre Farkı: Tiyopental bolus olarak 10-15 saniyede hızlı verilirken; Ketamin ve Propofol 1-2 dakikalık sürede YAVAŞ verilmelidir (Slayt 65, 67).",
+        "İM İndüksiyon: Damar yolu bulunamayan vahşi hayvanlarda, kedi/köpek yavrularında ve kemirgenlerde tercih edilir. İM doz IV dozun 2-3 KATIDIR (Slayt 68, 69).",
+        "İM vs IV Uyanma Farkı: Kedide ketamin IV verildiğinde 1-2 saatte uyanırken; İM verildiğinde tam uyanma 8-12 saat sürer (Slayt 69).",
+        "Maske İndüksiyonu: İzofluran ile yapılır; derinlik ayarı kolay ve daha az risklidir. En önemli dezavantajı oda havasını kirletmesidir (Slayt 70).",
+        "Entübasyon Avantajları: Atık gazı azaltır, doğrudan oksijen ventilasyonu sağlar, kaflı tüp kusmuk ve salya aspirasyonunu önler (Slayt 71).",
+        "Vagal Refleks Uyarısı: Entübasyon n. vagusu uyararak bradikardi ve hipotansiyona yol açabilir; preanestezik atropin bunu önler (Slayt 72).",
+        "Brahisefalik Irk Zorluğu: Ağız içindeki yumuşak dokular farenks girişini tıkar, trakeaya giriş zorlaşır; ancak hava yolunu açık tutmak için entübasyon şarttır (Slayt 72).",
+        "Kör Atış Entübasyon: Egzotik ve besi hayvanlarında ağız az açıldığı için farenks görülemez ve körleme entübasyon yapılır (Slayt 73).",
+        "Tüpün Fazla İtilmesi: Tüp fazla itilirse bronşlardan birine girer ve yalnızca tek akciğer lobu havalanır (Slayt 73).",
+        "Kaf Nekrozu: Kaf aşırı şişirilirse trakea mukozasında basınç nekrozu oluşur (Slayt 73).",
+        "Ekstübasyon Zamanı (Kritik): Hayvanda YUTKUNMA REFLEKSİ başladığı anda tüp derhal çıkarılmalıdır! Gecikilirse tüp ısırılıp koparılabilir ve trakeada kalabilir (Slayt 74)."
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "kart_id": "pcard_1",
+      "on_yuz": "Dengeli anestezi (balanced anesthesia) ne anlama gelir?",
+      "arka_yuz": "Birçok preanestezik ve genel anestezik maddenin, ilaç dozlarını ve yan etkileri azaltarak etkili ve güvenli bir anestezi sağlamak amacıyla birlikte kullanılmasıdır."
+    },
+    {
+      "kart_id": "pcard_2",
+      "on_yuz": "Hipovolemik ve hipotansif hastalarda tranklizan türevi ilaçlar neden sakıncalıdır?",
+      "arka_yuz": "Periferik vazodilatasyon yaparak kan damarlarını genişlettikleri ve kan basıncını daha da düşürerek şok tablosunu derinleştirdikleri için sakıncalıdır."
+    },
+    {
+      "kart_id": "pcard_3",
+      "on_yuz": "Atropin indüksiyondan ne kadar süre önce ve hangi yolla uygulanmalıdır?",
+      "arka_yuz": "Derialtı (SC) yolla uygulandığında etkisi yaklaşık 20 dakika sonra başladığından, indüksiyondan 20-30 dakika önce uygulanmalıdır."
+    },
+    {
+      "kart_id": "pcard_4",
+      "on_yuz": "Atropin n. vagus uyarımını engelleyerek hangi iki hayati etkiyi önler?",
+      "arka_yuz": "Kalp frekansının aşırı düşmesini (bradikardi) ve buna bağlı gelişen kardiyak output (kalp debisi) azalmasını önler."
+    },
+    {
+      "kart_id": "pcard_5",
+      "on_yuz": "Atropin kuşlarda neden pupillar dilatasyon (midriyazis) oluşturmaz?",
+      "arka_yuz": "Kuşların iris kas yapısı memelilerden farklı olarak düz kas değil çizgili kas liflerinden oluştuğu için atropin midriyazis oluşturamaz."
+    },
+    {
+      "kart_id": "pcard_6",
+      "on_yuz": "Atropin hangi kalp frekansı değerlerinin üzerindeki hastalarda kontrendikedir?",
+      "arka_yuz": "Taşikardisi bulunan köpeklerde dakikada 140, kedilerde dakikada 160 atımın üzerinde atropin kesinlikle kullanılmamalıdır."
+    },
+    {
+      "kart_id": "pcard_7",
+      "on_yuz": "Asepromazinin antiemetik özelliği klinikte hangi durumda özel tercih sebebidir?",
+      "arka_yuz": "Çok küçük dozlarda bile anestezi boyunca kusmayı önlediği için özellikle taşıt tutması (araba tutması) vakalarında tercih edilir."
+    },
+    {
+      "kart_id": "pcard_8",
+      "on_yuz": "Anamnezinde kafa travması veya epilepsi olan hastada fenotiyazinler neden kullanılmaz?",
+      "arka_yuz": "Beyin korteksindeki nöbet eşiğini düşürdükleri ve konvülsiyon oluşturma riskini belirgin şekilde artırdıkları için kontrendikedir."
+    },
+    {
+      "kart_id": "pcard_9",
+      "on_yuz": "Benzodiazepin grubu ilaçların sedasyon ve analjezi (ağrı kesici) özellikleri nasıldır?",
+      "arka_yuz": "Sedasyon oluşturmazlar ve hiçbir ağrı kesici (analjezik) özellikleri yoktur; etkileri kas gevşetici ve antikonvülzandır."
+    },
+    {
+      "kart_id": "pcard_10",
+      "on_yuz": "Benzodiazepinlerin iştahsız kedilerdeki özel klinik kullanım alanı ve dozu nedir?",
+      "arka_yuz": "İştah açıcı etkileri vardır; iştahsız kedilerde oral yolla 1 mg/kg'a kadar, IV yolla 0.05-0.1 mg/kg dozda iştah açmak amacıyla kullanılır."
+    },
+    {
+      "kart_id": "pcard_11",
+      "on_yuz": "Diazepam sağlıklı hayvanlarda tek başına neden kullanılmamalıdır?",
+      "arka_yuz": "Tek başına uygulandığında paradoksal olarak sakinleşme yerine eksitasyon ve huzursuzluk oluşturabileceği için tek ajan olarak önerilmez."
+    },
+    {
+      "kart_id": "pcard_12",
+      "on_yuz": "Diazepama bağlı doz aşımında uygulanan spesifik antagonist (antidot) nedir?",
+      "arka_yuz": "Spesifik antidot Flumazenil'dir; serum fizyolojik infüzyonu ve oksijen desteğiyle birlikte uygulanır."
+    },
+    {
+      "kart_id": "pcard_13",
+      "on_yuz": "Alfa-2 agonistler (ksilazin) gebe hayvanlarda neden kontrendikedir?",
+      "arka_yuz": "Uterus miyometriyum kasılmalarını güçlü şekilde uyardığı için gebeliğin hem erken hem de geç döneminde abortusa neden olabilir."
+    },
+    {
+      "kart_id": "pcard_14",
+      "on_yuz": "Ksilazinin sedatif etkisi ile analjezik etki süresi arasındaki kritik fark nedir?",
+      "arka_yuz": "Uykulu hal ve sedasyon 1-2 saat sürerken, ağrı kesici (analjezik) etki yalnızca 15-30 dakika kadar kısa sürer."
+    },
+    {
+      "kart_id": "pcard_15",
+      "on_yuz": "Ksilazin dozu artırıldığında sedasyon derinliği nasıl değişir?",
+      "arka_yuz": "Artan dozlar sedasyon derinliğini artırmaz; sadece ilacın vücuttaki etki ve uyanma süresinin uzamasına yol açar."
+    },
+    {
+      "kart_id": "pcard_16",
+      "on_yuz": "Fentanil gibi bazı opioid türevleri kedilerde neden kullanılmamalıdır?",
+      "arka_yuz": "Kedilerde sakinleşme yerine şiddetli endişe, korku, konvülziyon ve aşırı hareketlilik (mani tablosu) oluşturdukları için kullanılmaz."
+    },
+    {
+      "kart_id": "pcard_17",
+      "on_yuz": "Opioidlerin göz pupillası üzerine köpek ve kedideki zıt etkileri nelerdir?",
+      "arka_yuz": "Opioidler köpeklerde pupillada daralma (miyozis), kedilerde ise pupillada genişleme (midriyazis) meydana getirirler."
+    },
+    {
+      "kart_id": "pcard_18",
+      "on_yuz": "Nöroleptanaljezi nedir ve hangi hasta grubunda güvenli bir alternatiftir?",
+      "arka_yuz": "Morfin türevi bir analjezik ile tranklizan kombinasyonudur; yüksek anestezi riski taşıyan yaşlı/kritik hastalarda güvenli alternatiftir."
+    },
+    {
+      "kart_id": "pcard_19",
+      "on_yuz": "Tiyopental sodyum neden kesinlikle sadece intravenöz (IV) yolla verilmelidir?",
+      "arka_yuz": "pH'sı 11-12 (yüksek derecede alkali) olduğu için damar dışı dokulara kaçarsa şiddetli yangı, dayanılmaz ağrı ve doku nekrozu yapar."
+    },
+    {
+      "kart_id": "pcard_20",
+      "on_yuz": "Tiyopentalin intraarteriyel (atardamar içine) yanlışlıkla verilmesi neye yol açar?",
+      "arka_yuz": "Damar endotelinde ağır hasara, tromboza ve ilgili ekstremitede doku ölümüne (gangrene) neden olur."
+    },
+    {
+      "kart_id": "pcard_21",
+      "on_yuz": "Dissosiyatif anestezide (ketamin) hayvanın genel görünümü nasıldır?",
+      "arka_yuz": "Gözleri açık ve uyanık gibi görünür; ancak çevresinde olan biten her şeyden tamamen habersiz ve kataleptik trans halindedir."
+    },
+    {
+      "kart_id": "pcard_22",
+      "on_yuz": "Ketamin anestezisinde anestezi derinliği neden palpebral refleksle takip edilemez?",
+      "arka_yuz": "Dissosiyatif anestezide reflekslerde baskılanma yerine artış olduğu için çok kuvvetli bir palpebral refleks daima korunur."
+    },
+    {
+      "kart_id": "pcard_23",
+      "on_yuz": "Ketaminin vücuttan atılımında köpek/at ile kedi arasındaki kritik fark nedir?",
+      "arka_yuz": "Köpek ve atta karaciğerde metabolize olurken; kedilerde karaciğerde metabolizma çok düşüktür ve idrarla değişmeden atılır."
+    },
+    {
+      "kart_id": "pcard_24",
+      "on_yuz": "Tiletamin/Zolezepam (Zolatil) sonrası uyanma köpekte neden problemli, kedide rahattır?",
+      "arka_yuz": "Köpekte Zolezepam daha çabuk biter ve köpek dissosiyatif etkide uyanır; kedide ise Zolezepam daha uzun kalıp sakin uyanma sağlar."
+    },
+    {
+      "kart_id": "pcard_25",
+      "on_yuz": "Anestezi uyanma döneminde endotrakeal tüp tam olarak hangi anda çıkarılmalıdır?",
+      "arka_yuz": "Hastada yutkunma hareketleri başladığı anda hemen çıkarılmalıdır; aksi takdirde hayvan tüpü ısırıp trakea içinde koparabilir."
+    }
+  ],
+  "quiz_questions": [
+    {
+      "soru_id": "pq_1",
+      "soru_metni": "Preanestezik ilaçların kullanım amaçları dikkate alındığında aşağıdakilerden hangisi bu amaçlar arasında yer almaz?",
+      "secenekler": {
+        "A": "Cerrahi operasyon esnasında hastanın kan basıncını yükseltmek",
+        "B": "Hayvandaki korku, ağrı, huysuzluk ve endişe düzeyini yatıştırmak",
+        "C": "Eksitasyonsuz sakin bir anesteziye giriş ve rahat uyanma temin etmek",
+        "D": "Genel anesteziklerin oluşturabileceği tükürük ve aritmiyi önlemek",
+        "E": "Anestezi için gerekli genel anestezik madde miktarını azaltmak"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Preanesteziklerin amacı kan basıncını yükseltmek değildir; aksine sedasyon sağlamak, eksitasyonsuz giriş-çıkış temin etmek, yan etkileri elimine etmek ve genel anestezik dozunu azaltmaktır.",
+        "celdirici_analizi": "B, C, D ve E şıkları preanestezik medikasyonun temel amaçlarını doğru ifade eder."
+      },
+      "slayt_no": 4,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_2",
+      "soru_metni": "Preanestezik ilaç seçiminde hastanın özellikleri değerlendirilirken hangisi birincil faktörlerden biri değildir?",
+      "secenekler": {
+        "A": "Hayvanın ırkına özgü tüy rengi ve tüy dökme periyodu",
+        "B": "Hastanın yaşı ve genel klinik fiziki kondüsyonu",
+        "C": "Gerçekleştirilecek cerrahi operasyonun türü ve süresi",
+        "D": "Operasyonun normal planlı mı yoksa acil mi olduğu",
+        "E": "Hastanın ait olduğu hayvan türü ve anatomik yapısı"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Preanestezik seçiminde yaş, fiziki durum, tür, operasyonun türü, süresi ve aciliyeti belirleyicidir. Tüy rengi ve dökme periyodu anestezi seçiminde bir kriter değildir.",
+        "celdirici_analizi": "B, C, D ve E seçenekleri slaytta açıkça listelenen seçim kriterleridir."
+      },
+      "slayt_no": 2,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_3",
+      "soru_metni": "Hipovolemik ve hipotansif şoktaki hastalarda tranklizan türevi ilaçların kullanılmasının temel sakıncası hangisidir?",
+      "secenekler": {
+        "A": "Periferik damarları dilate ederek kan basıncını daha da düşürmeleri",
+        "B": "Solunum frekansını aniden yükselterek solunumu felç etmeleri",
+        "C": "Karaciğer enzimlerini baskılayarak safra akışını tamamen durdurmaları",
+        "D": "Böbrek tübüllerinde kristalleşerek akut idrar retansiyonu yapmaları",
+        "E": "Akciğer alveollerinde sıvı birikimine ve hızlı ödeme yol açmaları"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Tranklizanlar periferik vazodilatasyon özelliğine sahip olduklarından hipotansiyona yol açarlar; bu nedenle hipovolemik ve hipotansif hastalarda sakıncalıdır.",
+        "celdirici_analizi": "Tranklizanlar vazodilatatör etkiyle tansiyonu düşürür; B, C, D ve E şıklarındaki mekanizmalar tranklizanların birincil sakıncası değildir."
+      },
+      "slayt_no": 3,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_4",
+      "soru_metni": "Dengeli anestezi (balanced anesthesia) kavramının klinik veteriner hekimlikteki tanımı aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Preanestezik ve genel anesteziklerin birlikte kombine kullanılması",
+        "B": "Sadece tek bir genel anestezik ajanın yüksek dozda uygulanması",
+        "C": "Operasyon boyunca hastaya yalnızca lokal anestezi verilmesi işlemi",
+        "D": "İnhalasyon anesteziği verilmeden sadece kas gevşetici enjeksiyonu",
+        "E": "Cerrahi boyunca hastaya yalnızca serum fizyolojik infüzyonu yapılması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Birçok preanestezik ve genel anestezik maddenin etkili bir anestezi oluşturmak için birlikte kullanılmasına dengeli anestezi denir.",
+        "celdirici_analizi": "B şıkkı tek ajanlı anesteziyi, C lokal anesteziyi, D kas gevşetici uygulamasını tanımlar."
+      },
+      "slayt_no": 5,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_5",
+      "soru_metni": "Derialtı (SC) yolla uygulanan Atropin sülfatın etkisinin başlama süresi ve indüksiyon öncesi verilme zamanı hangisidir?",
+      "secenekler": {
+        "A": "Yaklaşık 20 dakikada etki başlar, indüksiyondan 20-30 dk önce verilir",
+        "B": "Hemen 1 dakikada etki başlar, indüksiyon anında damardan verilir",
+        "C": "Yaklaşık 60 dakikada etki başlar, indüksiyondan 2 saat önce verilir",
+        "D": "Yaklaşık 5 dakikada etki başlar, indüksiyondan 10 dk önce verilir",
+        "E": "Yaklaşık 45 dakikada etki başlar, indüksiyondan 90 dk önce verilir"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Atropin SC yolla verildikten yaklaşık 20 dakika sonra etkili olur; bu sebeple indüksiyondan 20-30 dakika önce uygulanmalıdır.",
+        "celdirici_analizi": "1 dakika IV etki başlangıcına, 60 dakika ise etki süresine yakın değerlerdir. Doğru indüksiyon öncesi süre 20-30 dakikadır."
+      },
+      "slayt_no": 6,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_6",
+      "soru_metni": "Atropinin n. vagus uyarımını ortadan kaldırması cerrahi hastada hangi olumsuz kardiyovasküler tabloyu önler?",
+      "secenekler": {
+        "A": "Bradikardi oluşumunu ve kardiyak outputtaki belirgin azalmayı",
+        "B": "Ventriküler taşikardi ve sistolik kan basıncındaki aşırı yükselmeyi",
+        "C": "Aort damarında yırtılma ve koroner arter trombozu şekillenmesini",
+        "D": "Akut periferik vazodilatasyon ve ani vücut sıcaklığı artışını",
+        "E": "Kalp kası hipertrofisi ve sol ventrikül yetmezliği gelişmesini"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Entübasyon ve iç organ manipülasyonu n. vagusu uyararak bradikardiye ve kardiyak output azalmasına neden olur. Atropin vagusu bloke ederek bunu önler.",
+        "celdirici_analizi": "Vagus uyarımı taşikardi değil bradikardi yapar; dolayısıyla atropin bradikardiyi ve debi düşüşünü engeller."
+      },
+      "slayt_no": 6,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_7",
+      "soru_metni": "Ketamin anestezisi öncesinde atropin uygulanmasının en önemli gerekçesi aşağıdakilerden hangisidir?",
+      "secenekler": {
+        "A": "Ketaminin parasempatik uyarımla artırdığı salyayı ve aspirasyonu önlemek",
+        "B": "Ketaminin karaciğerde yıkılma hızını artırıp uyanmayı çabuklaştırmak",
+        "C": "Ketaminin oluşturduğu kas rijiditesini santral düzeyde tamamen çözmek",
+        "D": "Ketaminin deri analjezisi üzerindeki zayıf etkisini kuvvetlendirmek",
+        "E": "Ketaminin böbrek glomerüllerinden atılımını engelleyip kanda tutmak"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Ketamin gibi anestezikler parasempatik sinirleri uyararak salivasyonu artırır; salyanın aspirasyonunu önlemek için atropin ketaminle mutlaka kullanılmalıdır.",
+        "celdirici_analizi": "Atropin tükürük salgısını keser; kas gevşetici etkisi yoktur (kas gevşetme benzodiazepinlerin görevidir)."
+      },
+      "slayt_no": 7,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_8",
+      "soru_metni": "Atropinin pupillar dilatasyon (midriyazis) etkisi türler arasında karşılaştırıldığında hangi bilgi doğrudur?",
+      "secenekler": {
+        "A": "Köpeklerde preanestezik dozda görülmezken kedi ve atlarda oluşur",
+        "B": "Köpeklerde belirgin midriyazis yaparken kedilerde hiçbir etkisi olmaz",
+        "C": "Kuşlarda çok şiddetli midriyazis yaparken atlarda miyozis meydana getirir",
+        "D": "Tüm evcil hayvan türlerinde eşit düzeyde ve şiddette midriyazis yapar",
+        "E": "Sığırlarda pupillayı aşırı daraltırken köpeklerde pupillayı genişletir"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Köpeklerde atropin preanestezik dozda midriyazis oluşturmaz; ancak kedi ve atlarda midriyazis oluşur ve görüş bozukluğu huzursuzluk yaratabilir.",
+        "celdirici_analizi": "B tam tersini söyler; C ve E yanlıştır; D tür farklılıklarını göz ardı eder."
+      },
+      "slayt_no": 8,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_9",
+      "soru_metni": "Kuşlarda atropin uygulandığında memelilerin aksine midriyazis şekillenmemesinin anatomik nedeni nedir?",
+      "secenekler": {
+        "A": "Kuşların iris kas yapısının düz kas yerine çizgili kastan oluşması",
+        "B": "Kuşlarda göz küresinin üçüncü göz kapağı tarafından tam örtülmesi",
+        "C": "Kuşların kan-beyin bariyerinin atropin moleküllerini geçirmemesi",
+        "D": "Kuş retinasında muskarinik asetilkolin reseptörlerinin bulunmaması",
+        "E": "Kuşların vücut ısısının memelilerden yüksek olup ilacı parçalaması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Atropin kuşlarda midriyazis oluşturmaz, çünkü kuşların irisleri çizgili kas yapısına sahiptir (atropin düz kaslardaki muskarinik reseptörleri etkiler).",
+        "celdirici_analizi": "İrisin çizgili kas yapısında olması kuşlara özgü temel anatomik ve farmakolojik nedendir."
+      },
+      "slayt_no": 8,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_10",
+      "soru_metni": "Ketamin ve atropin uygulanan hastalarda korneayı korumak için göz pomadı sürülmesinin temel nedeni hangisidir?",
+      "secenekler": {
+        "A": "Atropinin gözyaşını azaltması ve ketaminde gözlerin açık kalması",
+        "B": "Ketaminin göz içi basıncını aşırı düşürerek korneayı çökertmesi",
+        "C": "Atropinin kornea epitelinde hızlı kalsifikasyona yol açması",
+        "D": "Ketaminin üçüncü göz kapağını tamamen paralize edip düşürmesi",
+        "E": "Atropinin lens kapsülünde kalıcı matlaşma ve katarakt yapması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Atropin gözyaşı salgısını azaltır. Özellikle ketamin anestezisinde gözler açık kaldığı için kornea kurur ve göz pomadı sürülerek korunmalıdır.",
+        "celdirici_analizi": "Atropin gözyaşını azaltır + ketamin gözleri açık tutar; bu iki etki birleştiğinde pomad zorunlu hale gelir."
+      },
+      "slayt_no": 9,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_11",
+      "soru_metni": "Atropin sülfatın klinik etki süresi yaklaşık olarak kaç dakikadır?",
+      "secenekler": {
+        "A": "60 - 90 dakika arasında devam eder",
+        "B": "10 - 15 dakika gibi çok kısa sürer",
+        "C": "4 - 6 saat boyunca kesintisiz sürer",
+        "D": "15 - 25 dakika içerisinde tamamen biter",
+        "E": "12 - 24 saat boyunca dokularda kalır"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Atropinin klinik etki süresi 60-90 dakikadır.",
+        "celdirici_analizi": "10-15 dk ksilazinin analjezi süresidir; 4-6 saat barbitürat orta süresidir. Atropin 60-90 dakikadır."
+      },
+      "slayt_no": 10,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_12",
+      "soru_metni": "Atropin kullanımının kesinlikle kontrendike olduğu toksisite ve klinik durumlar hangisinde doğru verilmiştir?",
+      "secenekler": {
+        "A": "Taşikardi (köpek >140, kedi >160), kongestif kalp yetmezliği ve ileus",
+        "B": "Aşırı salivasyon, bradikardi ve ketaminle indüksiyon yapılacak hastalar",
+        "C": "Genç sağlıklı hayvanlar, hafif sedasyon gerektiren tanısal işlemler",
+        "D": "Vagus uyarımı riski taşıyan iç organ ameliyatları ve entübasyon",
+        "E": "Göz içi muayenesi gereken ve gözyaşı salgısı normal olan atlar"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Kalp frekansı yüksek hastalarda (köpek >140, kedi >160), kongestif kalp hastalarında ve konstipasyonlu/ileuslu hayvanlarda atropin kullanılmamalıdır.",
+        "celdirici_analizi": "B ve D atropinin endike olduğu durumlardır. Taşikardide atropin verilirse kalp krizi riski doğar."
+      },
+      "slayt_no": 10,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_13",
+      "soru_metni": "Aşağıdaki ilaç eşleştirmelerinden hangisi Fenotiyazin türevi bir tranklizandır?",
+      "secenekler": {
+        "A": "Acepromazine maleate (Vetranquil)",
+        "B": "Diazepam (Valium türevi sedatif)",
+        "C": "Xylazine hydrochloride (Rompun)",
+        "D": "Medetomidine (Domitor türevi)",
+        "E": "Azaperon (Butirofenon grubu)"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Acepromazine maleate (vetranquil), fenotiyazin türevi en yaygın tranklizandır.",
+        "celdirici_analizi": "Diazepam benzodiazepindir; Xylazine ve Medetomidine alfa-2 agonisttir; Azaperon butirofenondur."
+      },
+      "slayt_no": 11,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_14",
+      "soru_metni": "Tranklizan uygulanan at ve ruminantlarda görülen karakteristik motor relaksasyon belirtisi hangisidir?",
+      "secenekler": {
+        "A": "Penis relaksiyonu ve preputiumdan dışarı sarkması",
+        "B": "Göz kapaklarının tamamen kapanıp nistagmus oluşması",
+        "C": "Kulakların dikleşerek aşırı sese duyarlılık kazanması",
+        "D": "Kuyruğun sürekli sallanarak kas rijiditesi sergilemesi",
+        "E": "Çene kaslarının kilitlenerek yutkunmanın hızlanması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "At ve ruminantlarda tranklizanların uygulanması sonrasında penisin relaksiyonu (sarkması) karakteristik olarak görülür.",
+        "celdirici_analizi": "Başın düşmesi, kulakların sarkması ve penis relaksiyonu tranklizanların tipik gevşeme bulgularıdır."
+      },
+      "slayt_no": 12,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_15",
+      "soru_metni": "Asepromazinin kardiyovasküler sistem üzerindeki antidisritmik etkisi hangi ilaçların yan etkisini antagonize eder?",
+      "secenekler": {
+        "A": "Adrenalin ve halotanın oluşturduğu kardiyak disritmileri",
+        "B": "Atropin ve glikopirolatın oluşturduğu sinüs taşikardisini",
+        "C": "Diazepam ve midazolamın oluşturduğu hafif hipotansiyonu",
+        "D": "Ketamin ve tiletaminin oluşturduğu sempatik uyarımı",
+        "E": "Serum fizyolojik ve dekstrozun oluşturduğu hipervolemiyi"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Adrenalin ve halotan kardiyak disritmi oluşturur; fenotiyazinler (asepromazin) bu etkileri antagonize eder.",
+        "celdirici_analizi": "Halotan miyokardı adrenaline duyarlı hale getirir; asepromazin alfa blokör etkisiyle bu disritmiyi engeller."
+      },
+      "slayt_no": 14,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_16",
+      "soru_metni": "Fenotiyazin grubu ilaçların (asepromazin) şoktaki hastalarda kullanılmamasının nedeni nedir?",
+      "secenekler": {
+        "A": "Periferal damarları dilate ederek ısı kaybı ve hipotermiye yol açması",
+        "B": "Solunum merkezini doğrudan felç edip apneye neden olması",
+        "C": "Mide asiditesini yükselterek akut perforasyon oluşturması",
+        "D": "Kalp kasında nekroz oluşturup koroner spazm yaratması",
+        "E": "Kanda pıhtılaşma faktörlerini tamamen yok edip kanama yapması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "IV uygulandıklarında kan damarlarını dilate ederler. Vazodilatasyon ısı kaybı ve hipotermi oluşturur; bu nedenle şoktaki hastalarda kullanılmamalıdır.",
+        "celdirici_analizi": "Vazodilatasyon periferik direnci düşürür ve vücut sıcaklığını hızla düşürür; şoktaki hastada ölümcül olabilir."
+      },
+      "slayt_no": 14,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_17",
+      "soru_metni": "Anamnezinde epilepsi veya kafa travması bildirilen bir hastada asepromazin neden tercih edilmez?",
+      "secenekler": {
+        "A": "Konvülsiyon ve nöbet oluşturma riskini belirgin şekilde artırdığı için",
+        "B": "Kafa içi basıncını aniden sıfıra düşürerek beyin kanaması yaptığı için",
+        "C": "Beyin omurilik sıvısının üretimini tamamen bloke ettiği için",
+        "D": "Kranial sinirlerde kalıcı demiyelinizasyona yol açtığı için",
+        "E": "Hastada derin koma oluşturup uyanmayı günlerce engellediği için"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Nöbet oluşturma riski artar; eğer anamnezde epilepsi ya da kafa travması bilgisi veriliyorsa fenotiyazinler kullanılmamalıdır.",
+        "celdirici_analizi": "Fenotiyazinler nöbet eşiğini düşürür; bu yüzden antikonvülzan değil prokonvülzan risk taşırlar."
+      },
+      "slayt_no": 14,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_18",
+      "soru_metni": "Benzodiazepin grubu ilaçların (Diazepam, Midazolam) sedasyon ve analjezi profili nasıldır?",
+      "secenekler": {
+        "A": "Sedasyon oluşturmazlar ve ağrı kesici (analjezik) özellikleri yoktur",
+        "B": "Çok güçlü sedasyon ve cerrahi düzeyde tam analjezi oluştururlar",
+        "C": "Hafif sedasyon yaparlar fakat analjezik etkileri morfinden güçlüdür",
+        "D": "Sadece analjezi yaparlar ancak kas gevşetici özellikleri hiç yoktur",
+        "E": "Genel anestezi oluştururlar ve hastayı hemen cerrahi faza sokarlar"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Benzodiazepinler sedasyon oluşturmaz, ağrı kesici özelliği yoktur. Buna karşın kas gevşetici ve antikonvülzan etkileri mükemmeldir.",
+        "celdirici_analizi": "Benzodiazepinler analjezik değildir. B, C, D ve E seçenekleri bu farmakolojik gerçeğe aykırıdır."
+      },
+      "slayt_no": 16,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_19",
+      "soru_metni": "İştahsız kedilerde iştah açıcı (oreksijenik) olarak kullanılan benzodiazepin dozu hangisidir?",
+      "secenekler": {
+        "A": "Oral yolla 1 mg/kg'a kadar, IV yolla 0.05-0.1 mg/kg dozda verilir",
+        "B": "Oral yolla 10-20 mg/kg, IV yolla 5 mg/kg gibi yüksek dozda verilir",
+        "C": "Sadece derialtı yolla 0.01 mg/kg gibi çok düşük dozda uygulanır",
+        "D": "İntramusküler yolla 15 mg/kg tek doz şeklinde enjekte edilir",
+        "E": "Rektal fitil halinde 50 mg sabit doz şeklinde verilir"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "İştahsız kedilerde oral yolla 1 mg/kg'a kadar, IV yolla 0.05-0.1 mg/kg kadar olan dozlarda iştahın açılmasını sağlar.",
+        "celdirici_analizi": "Oral 1 mg/kg ve IV 0.05-0.1 mg/kg slaytta açıkça belirtilen iştah açıcı doz aralığıdır."
+      },
+      "slayt_no": 16,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_20",
+      "soru_metni": "Yüksek anestezi riski taşıyan (geriatrik/kardiyak) hastalarda benzodiazepinlerin güvenle tercih edilme nedeni nedir?",
+      "secenekler": {
+        "A": "Kardiyovasküler ve solunum sistemi üzerine çok az yan etki oluşturmaları",
+        "B": "Karaciğer ve böbrek fonksiyonlarını tamamen baypas edip akciğerden atılmaları",
+        "C": "Kalp atım frekansını dakikada iki katına çıkarıp tansiyonu yükseltmeleri",
+        "D": "Vücut ısısını 40 dereceye kadar yükselterek hipotermiyi engellemeleri",
+        "E": "Genel anestezik ihtiyacını tamamen ortadan kaldırıp ameliyat yaptırmaları"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Kardiyovasküler ve solunum sistemi üzerine çok az yan etki oluşturur. Bundan dolayı yüksek anestezi riski taşıyan hayvanlarda ve yaşlı hastalarda güvenle kullanılır.",
+        "celdirici_analizi": "Hemodinamik stabiliteleri benzodiazepinlerin riskli hastalardaki en büyük avantajıdır."
+      },
+      "slayt_no": 16,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_21",
+      "soru_metni": "Diazepamın intravenöz (IV) enjeksiyonu sırasında venöz tromboz riskini azaltmak için uygulama nasıl yapılmalıdır?",
+      "secenekler": {
+        "A": "Enjeksiyon ven içerisine oldukça yavaş bir şekilde yapılmalıdır",
+        "B": "Enjeksiyon 5 saniye içinde çok hızlı bolus şeklinde verilmelidir",
+        "C": "İlaç saf alkol ile sulandırılarak basınçlı şırıngayla verilmelidir",
+        "D": "Enjeksiyon öncesinde hastaya yüksek doz adrenalin yapılmalıdır",
+        "E": "Sadece santral venöz katater ile kalbe doğrudan enjekte edilmelidir"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Diazepam'in venöz tromboz riskini azaltmak için, IV uygulaması yavaş olarak yapılmalıdır.",
+        "celdirici_analizi": "Hızlı IV diazepam enjeksiyonu flebit, hipotansiyon ve venöz tromboz riskini artırır."
+      },
+      "slayt_no": 17,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_22",
+      "soru_metni": "Diazepama bağlı doz aşımı durumunda tedavide kullanılan spesifik antagonist (antidot) hangisidir?",
+      "secenekler": {
+        "A": "Flumazenil uygulaması, serum ve oksijen desteği",
+        "B": "Atropin sülfat enjeksiyonu ve adrenalin infüzyonu",
+        "C": "Yohimbine ve tolazoline kombinasyon tedavisi",
+        "D": "Nalokson hidroklorür ve fizostigmin uygulaması",
+        "E": "Kalsiyum glukonat ve sodyum bikarbonat infüzyonu"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Diazepama bağlı doz aşımları flumazenil uygulaması, serum uygulaması ve oksijen takviyesi ile tedavi edilebilir.",
+        "celdirici_analizi": "Flumazenil spesifik benzodiazepin reseptör antagonistidir. Yohimbine alfa-2, Nalokson opioid antagonistidir."
+      },
+      "slayt_no": 17,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_23",
+      "soru_metni": "Diazepamın sağlıklı hayvanlarda tek başına bir preanestezik olarak kullanılması neden önerilmez?",
+      "secenekler": {
+        "A": "Sağlıklı hayvanlarda paradoksal eksitasyon oluşturabileceği için",
+        "B": "Kalp durmasına ve ani kardiyojenik şoka yol açtığı için",
+        "C": "Hayvanda kalıcı körlük ve nistagmus tablosu geliştirdiği için",
+        "D": "Kan şekerini koma düzeyine kadar düşürerek hipoglisemi yaptığı için",
+        "E": "Tüm çizgili kaslarda kalıcı tetanik spazmlara neden olduğu için"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Diazepam sağlıklı hayvanlarda sakinleştirme yerine eksitasyon oluşturabileceğinden tek ilaç olarak kullanılmamalıdır; ketamin vb. ile kombine edilir.",
+        "celdirici_analizi": "Paradoksal eksitasyon sağlıklı kedi ve köpeklerde tek başına benzodiazepin verildiğinde sık görülür."
+      },
+      "slayt_no": 17,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_24",
+      "soru_metni": "Aşağıdaki ilaçlardan hangisi Alfa-2 adrenoseptör agonisti (tiyazin türevi) bir sedatiftir?",
+      "secenekler": {
+        "A": "Xylazine (Rompun)",
+        "B": "Chlorpromazine (Largactil)",
+        "C": "Midazolam (Dormicum)",
+        "D": "Droperidol (Dehydrobenzperidol)",
+        "E": "Thiopental sodium (Pentothal)"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Xylazine, Detomidine ve Medetomidine alfa-2 adrenoseptör agonisti tiyazin türevleridir.",
+        "celdirici_analizi": "Chlorpromazine fenotiyazin, Midazolam benzodiazepin, Droperidol butirofenon, Thiopental barbitürattır."
+      },
+      "slayt_no": 11,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_25",
+      "soru_metni": "Alfa-2 agonist türevi ilaçların (ksilazin) gebelik dönemindeki hastalarda oluşturduğu en ciddi risk nedir?",
+      "secenekler": {
+        "A": "Gebeliğin erken ve geç döneminde abortusa neden olabilmeleri",
+        "B": "Fötusta aşırı kilo alımına ve doğum kanalının tıkanmasına yol açmaları",
+        "C": "Annenin süt bezlerini aşırı uyararak yalancı gebelik oluşturmaları",
+        "D": "Plasentada kalsiyum birikimi yaparak anne kanını pıhtılaştırmaları",
+        "E": "Fötal kalp atımlarını iki katına çıkarıp taşikardi yaratmaları"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Alfa-2 agonistler uterus kasılmalarını artırarak gebeliğin çok erken ve geç döneminde abortusa neden olabilirler.",
+        "celdirici_analizi": "Abortifasif etki ksilazinin geviş getirenlerde ve kısraklarda en bilinen kontrendikasyonudur."
+      },
+      "slayt_no": 18,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_26",
+      "soru_metni": "Ksilazin uygulandıktan sonra sedasyon ve analjezi süreleri arasındaki ilişki nasıldır?",
+      "secenekler": {
+        "A": "Uykulu hal 1-2 saat sürerken analjezik etki 15-30 dk gibi kısa sürer",
+        "B": "Analjezik etki 3 saat sürerken uykulu hal yalnızca 10 dakikada geçer",
+        "C": "Hem analjezi hem uykulu hal tam olarak 24 saat boyunca kesintisiz kalır",
+        "D": "Sedasyon hiç oluşmazken analjezi tüm cerrahi boyunca devam eder",
+        "E": "Sedasyon ve analjezik etki her ikisi de tam 45 dakikada aniden biter"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Uygulama sonrasında uykulu halin devamı 1-2 saat sürebilir, ancak analjezik etkisi 15-30 dk kadar kısa sürelidir.",
+        "celdirici_analizi": "Sedasyonun uzun, analjezinin çok kısa olması hekimi yanıltmamalıdır; ağrılı işlem ilk 10-15 dakikada yapılmalıdır."
+      },
+      "slayt_no": 19,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_27",
+      "soru_metni": "Klinikte ksilazin dozu artırıldığında ilacın sedatif profili üzerinde nasıl bir değişim meydana gelir?",
+      "secenekler": {
+        "A": "Sedasyon derinliği artmaz, yalnızca etki süresi gereksiz yere uzar",
+        "B": "Sedasyon aniden cerrahi genel anestezi derinliğine ulaşır",
+        "C": "Analjezik etki süresi 6 saate kadar uzayarak tam narkoz sağlar",
+        "D": "Hayvanda sedasyon tamamen kaybolarak hiperaktivite başlar",
+        "E": "Kalp atım sayısı hızlanarak kan basıncı normalin üstüne fırlar"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Artan dozlar sedasyon etkisinin artmasından ziyade etki süresinin uzamasına neden olur.",
+        "celdirici_analizi": "Doz artışı derinliği artırmaz; buna karşılık bradikardi ve kardiyak yan etki riskini katlar."
+      },
+      "slayt_no": 20,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_28",
+      "soru_metni": "Ksilazinin yüksek doz toksisitesinde kardiyovasküler sistemde ortaya çıkan en tehlikeli komplikasyon hangisidir?",
+      "secenekler": {
+        "A": "İleri derecede bradikardi ile birlikte ciddi atrioventriküler bloklar",
+        "B": "Aşırı sinüs taşikardisi ve kontrol edilemeyen hipertansif kriz",
+        "C": "Aort damarında anevrizma ve koroner damar spazmı tablosu",
+        "D": "Akut sol ventrikül hipertrofisi ve mitral kapak yetmezliği",
+        "E": "Periferik venlerde aşırı spazm ve kan akışının hızlanması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Solunum sayısı oldukça azalır ve ileri derecede bradikardi ile birlikte ciddi atrioventriküler (AV) bloklar oluşur.",
+        "celdirici_analizi": "Ksilazin güçlü vagal ve santral etkiyle kalp atımını düşürür ve AV bloklara yol açar."
+      },
+      "slayt_no": 20,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_29",
+      "soru_metni": "Önceden stresli, korkmuş veya şiddetli ağrısı olan bir hayvana yeterli dozda ksilazin uygulandığında ne gözlenir?",
+      "secenekler": {
+        "A": "Sempatik uyarım nedeniyle arzu edilen düzeyde sedasyon oluşmaz",
+        "B": "Hayvan anında derin koma fazına girerek 24 saat uyanamaz",
+        "C": "İlaç çift kat etki göstererek hastayı cerrahi anesteziye sokar",
+        "D": "Hayvanın tüm kasları anında tamamen gevşeyerek yere yığılır",
+        "E": "Analjezik etki süresi 30 dakikadan 3 saate kadar uzar"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Hayvanda daha önceden var olan stres, korku, eksitasyon, ağrı gibi belirtilerin bulunması, yeterli dozda ksilazin uygulansa bile arzu edilen seviyede sedasyon oluşturmaz.",
+        "celdirici_analizi": "Endojen katekolaminler alfa-2 reseptör blokajını aşarak sedasyonu bozar; sakin ortam şarttır."
+      },
+      "slayt_no": 21,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_30",
+      "soru_metni": "Aşağıdakilerden hangisi Alfa-2 adrenoseptör antagonistleri (antidotları) arasında yer alır?",
+      "secenekler": {
+        "A": "Atipamezole, Yohimbine ve Tolazoline",
+        "B": "Flumazenil, Nalokson ve Atropin",
+        "C": "Neostigmin, Piridostigmin ve Edrofonyum",
+        "D": "Dopamin, Dobutamin ve Efedrin",
+        "E": "Fentanil, Butorfanol ve Buprenorfin"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Alpha-2 antagonistleri yohimbine, tolezoline ve atipamezole'dür.",
+        "celdirici_analizi": "Flumazenil benzodiazepin, Nalokson opioid antagonistidir; Neostigmin antikolinesterazdır."
+      },
+      "slayt_no": 22,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_31",
+      "soru_metni": "Fentanil gibi bazı opioid türevlerinin kedilerde kullanılmamasının temel klinik nedeni nedir?",
+      "secenekler": {
+        "A": "Endişe, korku, konvülziyon ve aşırı hareketlilik gibi davranış bozuklukları",
+        "B": "Kedilerde tek dozda bile akut karaciğer yetmezliği oluşturmaları",
+        "C": "Kedilerin solunum yolunda mukoz tıkaç oluşturup boğulma yapmaları",
+        "D": "Kedi böbreklerinde taş oluşturarak idrar kanalını tıkamaları",
+        "E": "Kedilerde vücut ısısını 30 derecenin altına hızla düşürmeleri"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Kedilerde bazı opioid türevleri (fentanyl) endişe, korku, konvülziyon ve aşırı hareketlilik (morfin manisi) gibi davranış bozukluklarına neden olduklarından kullanılmamalıdırlar.",
+        "celdirici_analizi": "Kedilerde opioidler santral eksitasyon ve aşırı ajitasyon yapabilir."
+      },
+      "slayt_no": 23,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_32",
+      "soru_metni": "Opioidlerin uygulandığı anestezilerde solunum desteği sağlanmasının (mekanik ventilatör) temel gerekçesi nedir?",
+      "secenekler": {
+        "A": "Hem solunum sayısında hem de tidal volümde belirgin azalmaya yol açmaları",
+        "B": "Alveollerde surfaktan üretimini tamamen sıfırlayıp atelektazi yapmaları",
+        "C": "Trakea kıkırdaklarını yumuşatarak trakea kollapsı oluşturmaları",
+        "D": "Diyafram kasında kalıcı felç yaparak göğüs kafesini hareketsiz kılmaları",
+        "E": "Akciğer damarlarında hipertansiyon yaparak gaz değişimini durdurmaları"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Hem solunum sayısında hem de tidal volümde azalmaya neden olurlar. Bu nedenle opioid uygulanan anestezilerde ventilatörle solunum desteklenmelidir.",
+        "celdirici_analizi": "Opioidlerin en önemli yan etkisi solunum merkezi depresyonudur (hem frekans hem derinlik düşer)."
+      },
+      "slayt_no": 24,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_33",
+      "soru_metni": "Opioidlerin göz pupillası üzerindeki etkileri türler arasında karşılaştırıldığında hangisi doğrudur?",
+      "secenekler": {
+        "A": "Köpeklerde pupillada daralma (miyozis), kedilerde genişleme (midriyazis) yapar",
+        "B": "Köpeklerde pupillada genişleme (midriyazis), kedilerde daralma (miyozis) yapar",
+        "C": "Her iki türde de pupillada tam fiksasyon ve nistagmus tablosu oluşturur",
+        "D": "Köpeklerde hiçbir değişiklik yapmazken kedilerde kornea ülseri yapar",
+        "E": "Sadece atlarda midriyazis yaparken kedi ve köpeklerde pupillaya etki etmez"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Opioidler köpeklerde miyozis (daralma), kedilerde ise midriyazis (genişleme) oluştururlar.",
+        "celdirici_analizi": "Köpekte miyozis, kedide midriyazis opioidlerin tür spesifik en klasik klinik işaretidir."
+      },
+      "slayt_no": 24,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_34",
+      "soru_metni": "Morfin enjeksiyonundan hemen sonra ve uzun dönemde gastrointestinal sistemde görülen etkiler sırasıyla nasıldır?",
+      "secenekler": {
+        "A": "Kısa süre sonra defekasyon/kusma, daha uzun sürede konstipasyon (kabızlık)",
+        "B": "Kısa sürede şiddetli kabızlık, 24 saat sonra ise sulu ishal tablosu",
+        "C": "Mide asidinde ani azalma ve tüm bağırsak hareketlerinin anında durması",
+        "D": "Rumen kasılmalarında sürekli artış ve safra salgısının durması",
+        "E": "Yemek borusunda spazm ve kalıcı yutma güçlüğü şekillenmesi"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Kusma merkezi uyarılır, bağırsak peristaltiği artar. Enjeksiyonundan kısa süre sonra defekasyon görülür. Daha uzun sürede bağırsak peristaltiğini azaltarak konstipasyona neden olur.",
+        "celdirici_analizi": "Erken dönem: kusma ve defekasyon; geç dönem: peristaltizm inhibisyonu ve konstipasyon."
+      },
+      "slayt_no": 25,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_35",
+      "soru_metni": "Morfin hangi hasta gruplarında kesinlikle kullanılmamalıdır?",
+      "secenekler": {
+        "A": "Karaciğer, böbrek ve tiroid hastaları ile hiperaktif olgularda",
+        "B": "Ağrılı ortopedik cerrahi geçirecek genç ve sağlıklı köpeklerde",
+        "C": "Preanestezik olarak tranklizan kombinasyonu uygulanmış hastalarda",
+        "D": "İnhalasyon anestezisine alınacak normal vücut yapısındaki atlarda",
+        "E": "Solunum sayısı normal sınırlarda olan hafif yaralı hayvanlarda"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Karaciğer, böbrek, tiroid ve hiperaktif hastalarda kullanılmamalıdır.",
+        "celdirici_analizi": "Metabolizma ve atılım yetersizliği morfin toksisitesini tetikler."
+      },
+      "slayt_no": 25,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_36",
+      "soru_metni": "Barbitüratların etki sürelerine göre yapılan sınıflandırmasında çok kısa süreli (5-15 dk) barbitürat hangisidir?",
+      "secenekler": {
+        "A": "Thiopental sodyum, Thiamylal sodyum ve Methohexital",
+        "B": "Phenobarbital sodyum ve Barbital sodyum",
+        "C": "Amobarbital sodyum ve Pentobarbital",
+        "D": "Sekobarbital sodyum ve Kloral hidrat",
+        "E": "Ketamin hidroklorür ve Propofol"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Çok kısa süreli (5-15 dk) barbitüratlar thiopental sodyum, thiamylal sodyum ve methohexital'dir.",
+        "celdirici_analizi": "Phenobarbital uzun süreli (8-12 st), Amobarbital orta süreli (2-6 st), Pentobarbital kısa sürelidir (45-90 dk)."
+      },
+      "slayt_no": 30,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_37",
+      "soru_metni": "Barbitüratların motor korteksi deprese etme özelliği hangi toksik ve enfeksiyöz tablolarda endikasyon bulur?",
+      "secenekler": {
+        "A": "Striknin zehirlenmesi, distemper ensefaliti ve lokal anestezik intoksikasyonu",
+        "B": "Organofosfat zehirlenmesi, kuduz felç formu ve hipokalsemi koması",
+        "C": "Yılan sokması, akut etilen glikol zehirlenmesi ve botulismus paralizisi",
+        "D": "Aspirasyon pnömonisi, kedi gençlik hastalığı ve travmatik şok",
+        "E": "Kronik böbrek yetmezliği, karaciğer koması ve endotoksemi şoku"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Motor korteksi deprese etmesi konvülziyonları ortadan kaldırır. Bu özelliğinden dolayı striknin zehirlenmesinde, distemperin ensefalit formunda ve lokal anestezik zehirlenmelerinde endikasyon bulur.",
+        "celdirici_analizi": "Bu üç patoloji konvülziyon kontrolünde barbitüratların klasik kullanım alanlarıdır."
+      },
+      "slayt_no": 29,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_38",
+      "soru_metni": "Köpeklerde gençlik hastalığına (distemper) bağlı konvülziyonların tedavisinde uzun süreli kullanılan barbitürat hangisidir?",
+      "secenekler": {
+        "A": "Phenobarbital sodyum (Luminal)",
+        "B": "Thiopental sodyum (Pentothal)",
+        "C": "Methohexital sodyum (Brevital)",
+        "D": "Amobarbital sodyum (Amytal)",
+        "E": "Ketamin hidroklorür (Ketalar)"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Phenobarbital sodyum daha çok konvülziyonlu hastaların tedavisinde, özellikle köpeklerde distemper hastalarında görülen konvülziyonlarda oral yükleme ve idame dozuyla kullanılır.",
+        "celdirici_analizi": "Tiyopental akut anestezi içindir, kronik oral konvülziyon idamesinde fenobarbital kullanılır."
+      },
+      "slayt_no": 31,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_39",
+      "soru_metni": "Tiyopental sodyumun kas içi (IM) veya perivasküler dokulara enjekte edilmesinin kesinlikle yasak olmasının nedeni nedir?",
+      "secenekler": {
+        "A": "Yüksek derecede alkali (pH: 11-12) olması sebebiyle dokuda şiddetli yangı ve nekroz yapması",
+        "B": "Düşük pH (asidik) nedeniyle kas fibrillerinde anında donma ve fibrozis oluşturması",
+        "C": "Kas içi enjeksiyonda ilacın emilmeyip ömür boyu kist halinde kalması",
+        "D": "Perivasküler dokuda anında kemikleşme ve distrofik kalsifikasyon başlatması",
+        "E": "Deri altı sinirlerini kalıcı olarak tahrip edip tüm bacağı felç etmesi"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Yüksek derecede alkali (pH: 11-12) olduğu için, kas içi veya başka dokulara yapılan enjeksiyon yangı, ağrı ve enjeksiyon bölgesinde nekroza neden olabilir.",
+        "celdirici_analizi": "pH 11-12 aşırı alkalidir ve perivasküler kaçış doku nekrozuyla sonuçlanır."
+      },
+      "slayt_no": 32,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_40",
+      "soru_metni": "Tiyopental sodyumun yanlışlıkla arter içine (intraarteriyel) enjekte edilmesi hangi ölümcül tabloya yol açar?",
+      "secenekler": {
+        "A": "Endotel hasarına ve ilgili ekstremitede yaygın gangrene",
+        "B": "Koroner damarlarda aşırı genişleme ve kan basıncında fırlamaya",
+        "C": "Beyin damarlarında anında pıhtı erimesi ve yaygın kanamaya",
+        "D": "Akciğer damarlarında spazm çözülmesi ve ani oksijen doymasına",
+        "E": "Böbrek atardamarında kireçlenme ve kronik nefrit oluşumuna"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "İntraarteriyel enjeksiyon endotelyal hasara yol açar ve ekstremitede gangren oluşturabilir.",
+        "celdirici_analizi": "Arter içi tiyopental enjeksiyonu ekstremite kaybına kadar giden gangrene yol açar."
+      },
+      "slayt_no": 33,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_41",
+      "soru_metni": "Tiyopental indüksiyonunda hesaplanan dozun yarısının 15 saniyede bolus verilmesinin temel amacı nedir?",
+      "secenekler": {
+        "A": "I. ve II. Dönemde görülen eksitasyon evresini hızla atlatıp cerrahi faza geçmek",
+        "B": "Hastanın solunumunu tamamen durdurup yapay solunuma bağımlı kılmak",
+        "C": "Kalp atımlarını yavaşlatarak cerrahın kanama olmadan çalışmasını sağlamak",
+        "D": "İlacın vücutta metabolize olmadan böbreklerden atılmasını temin etmek",
+        "E": "Karaciğer enzimlerini şoke ederek diğer ilaçların etkisini sıfırlamak"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Hesaplanan dozun 1/2'si hızlı, kalanı dengeli olarak 15 saniyede verilmesi anestezinin erken döneminde oluşabilecek eksitasyonları önler.",
+        "celdirici_analizi": "Barbitürat yavaş verilirse hayvan çırpınma ve eksitasyon döneminde kalır; bolus tekniği bunu önler."
+      },
+      "slayt_no": 34,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_42",
+      "soru_metni": "Tiyopental verilmesine bağlı anesteziye geçişte gözlenen ilk karakteristik klinik refleks belirtisi hangisidir?",
+      "secenekler": {
+        "A": "Derin bir esneme hareketi ve ardından kısa sürede reflekslerin kaybolması",
+        "B": "Göz bebeklerinin aniden büyümesi ve hızlı nistagmus başlaması",
+        "C": "Çiğneme refleksinin hızlanması ve şiddetli öksürük nöbeti",
+        "D": "Arka bacaklarda pedal refleksin aşırı şiddetlenerek tekme atılması",
+        "E": "Kulakların dikleşmesi ve burun deliklerinde aşırı kuruluk oluşması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Thiopental verilmesine bağlı anesteziye geçişte ilk önce derin bir esneme ve kısa sürede reflekslerin kaybolduğu gözlenir.",
+        "celdirici_analizi": "Derin esneme tiyopental indüksiyonunun en tipik ilk klinik göstergesidir."
+      },
+      "slayt_no": 36,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_43",
+      "soru_metni": "Preanestezik olarak morfin uygulanması tiyopental sodyumun doz gereksinimini yaklaşık ne oranda azaltır?",
+      "secenekler": {
+        "A": "%40 - %50 oranında belirgin bir azalma sağlar",
+        "B": "%10 - %25 oranında çok hafif bir azalma sağlar",
+        "C": "%90 - %95 oranında neredeyse tamamen yok eder",
+        "D": "Doz gereksinimini hiç etkilemez, sabit tutar",
+        "E": "Doz gereksinimini iki katına kadar artırır"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Morfin kullanılmasına bağlı tiyopental doz oranı %40-50 azalırken, trankilizanda bu oran %10-25 arasındadır.",
+        "celdirici_analizi": "Morfin dozu yarı yarıya (%40-50), tranklizan ise %10-25 azaltır."
+      },
+      "slayt_no": 36,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_44",
+      "soru_metni": "Tiyopental sodyumun sağlıklı hayvanlardaki letal (öldürücü) dozu ile anestezik dozu arasındaki oran kaçtır?",
+      "secenekler": {
+        "A": "Letal doz, normal anestezik dozunun 6 katıdır",
+        "B": "Letal doz, normal anestezik dozunun 20 katıdır",
+        "C": "Letal doz ile anestezik doz birbirine tamamen eşittir",
+        "D": "Letal doz, normal anestezik dozunun 2 katıdır",
+        "E": "Letal doz, normal anestezik dozunun 50 katıdır"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Sağlıklı hayvanlarda letal doz, anestezik dozunun 6 katıdır.",
+        "celdirici_analizi": "6 katlık güvenlik aralığı sağlıklı bireyler içindir; şok ve toksemide bu aralık çok daralır."
+      },
+      "slayt_no": 40,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_45",
+      "soru_metni": "Dissosiyatif anesteziklerin (Ketamin) oluşturduğu anestezi tablosuna neden 'Kataleptik Anestezi' de denir?",
+      "secenekler": {
+        "A": "Hayvan uyanık gibi görünmesine rağmen çevresinde olan bitenden tamamen habersiz olduğu için",
+        "B": "Hayvanın tüm kasları felç olup solunumu tamamen mekanik cihaza bağlandığı için",
+        "C": "Hayvanın gözleri sıkıca kapanıp koma uykusuna benzer derin uykuya daldığı için",
+        "D": "Hayvan ameliyat boyunca hekimin komutlarını duyup yerine getirebildiği için",
+        "E": "Sadece omurilik felci yapıp beyin korteksine hiç dokunmadığı için"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Bu tür anestezide hayvanlar uyanık gibi görünürler, ancak çevrelerinde olan bitenlerden habersizdirler. Bu duruma kataleptik veya dissosiyatif anestezi denir.",
+        "celdirici_analizi": "Açık gözler ve çevreyle bağın kopması dissosiyatif anestezinin temel özelliğidir."
+      },
+      "slayt_no": 41,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_46",
+      "soru_metni": "Dissosiyatif anestezi altındaki bir hastada aşağıdaki reflekslerden hangisi aktif olarak kalmaya devam eder?",
+      "secenekler": {
+        "A": "Oküler, oral, laringeal ve yutkunma refleksleri",
+        "B": "Patellar ve çapraz ekstansör refleksleri",
+        "C": "Sadece anal sfinkter ve kuyruk sallama refleksleri",
+        "D": "Kardiyak ve mezenterik sempatik refleksler",
+        "E": "Hiçbir refleks aktif kalmaz, tüm refleksler sıfırlanır"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Dissosiyatif anestezi sırasında oküler, oral, laringeal ve yutkunma refleksi aktif olarak kalır.",
+        "celdirici_analizi": "Yutkunma ve laringeal reflekslerin kalması entübasyonu zorlaştırır."
+      },
+      "slayt_no": 41,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_47",
+      "soru_metni": "Ketamin anestezisi esnasında anestezi derinliğini palpebral reflekse bakarak değerlendirmenin imkansız olma sebebi nedir?",
+      "secenekler": {
+        "A": "Refleks baskılanmak yerine dissosiyatif anestezide kuvvetli bir palpebral refleks bulunması",
+        "B": "Göz kapaklarının ödem toplayıp tamamen yapışması ve hareket edememesi",
+        "C": "Palpebral sinirin ketamin tarafından geri dönüşümsüz olarak felç edilmesi",
+        "D": "Kornea epiteli kuruduğu için göze dokunulduğunda ağrı algılanamaması",
+        "E": "Göz küresinin arkaya doğru kayarak göz çukuruna tamamen gömülmesi"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Refleks cevaplarda depresyondan ziyade artma meydana gelir. Örneğin dissosiyatif anestezi uygulanmış hayvanlarda kuvvetli bir palpebral refleks vardır. Bu nedenle palpebral refleksle derinlik tespiti zordur.",
+        "celdirici_analizi": "Palpebral refleks ketaminde canlı kalır, bu nedenle derinlik kriteri olamaz."
+      },
+      "slayt_no": 43,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_48",
+      "soru_metni": "Dissosiyatif anesteziklerin analjezik özellikleri incelendiğinde aşağıdaki klinik tespitlerden hangisi doğrudur?",
+      "secenekler": {
+        "A": "Visceral analjezi zayıftır; bu nedenle abdominal operasyonlarda tek başına kullanılmamalıdır",
+        "B": "Visceral analjezisi mükemmeldir; organ ameliyatlarında başka ilaca gerek bırakmaz",
+        "C": "Deri ve ekstremitelerde hiçbir ağrı kesici etkisi yoktur, sadece iç organları uyuşturur",
+        "D": "Genel ve lokal analjeziyi 24 saat boyunca cerrahi düzeyde kesintisiz sürdürür",
+        "E": "Kemik iliği ameliyatlarında morfinden kat kat güçlü analjezi sağlar"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Dissosiyatif anesteziklere bağlı oluşan anestezide visceral analjezi zayıftır. Visceral ağrıyı tam olarak ortadan kaldırmadığı için abdominal operasyonlarda tek başına kullanılmamalıdır.",
+        "celdirici_analizi": "Somatik (deri/kas) analjezi iyi, visseral (iç organ) analjezi zayıftır."
+      },
+      "slayt_no": 45,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_49",
+      "soru_metni": "Ketaminin vücutta metabolize edilerek atılmasında kedi türünü köpek ve atlardan ayıran temel farmakokinetik özellik nedir?",
+      "secenekler": {
+        "A": "Kedilerde karaciğerde metabolizma oranı düşüktür ve idrarla değişmeden atılır",
+        "B": "Kedilerde tamamen karaciğerde yıkılır ve safrayla dışkı yoluyla atılır",
+        "C": "Kedilerde akciğer yoluyla solunumla gaz halinde vücuttan uzaklaştırılır",
+        "D": "Kedilerde deri bezlerinden terleme yoluyla 10 dakikada tamamen atılır",
+        "E": "Kedilerde böbreklerden hiç süzülemez, haftalarca yağ dokusunda birikir"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Ketamine köpek ve atlarda karaciğerde büyük oranda metabolize olur. Ancak kedilerde karaciğerde metabolize olma oranı oldukça düşüktür ve enjekte edilen ketaminin çok büyük bölümü idrarla değişime uğramadan atılır.",
+        "celdirici_analizi": "Kedilerde değişmeden idrarla atılması ketaminin en önemli tür farklılığıdır; böbrek hastası kedilerde çok dikkat edilmelidir."
+      },
+      "slayt_no": 49,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_50",
+      "soru_metni": "Köpeklerde ketaminin tek başına bir anestezik olarak kullanılması neden kesinlikle tavsiye edilmez?",
+      "secenekler": {
+        "A": "Kas tonusunda artış, konvülsiyonlar ve kötü uyanma kalitesi oluşturduğu için",
+        "B": "Kalp atımlarını anında durdurup ani ventriküler fibrilasyon yaptığı için",
+        "C": "Köpeklerde tek dozda bile akut körlük ve sağırlık geliştirdiği için",
+        "D": "Tüm damarları genişleterek ağır hipotermik şok tablosu yarattığı için",
+        "E": "Mide duvarını parçalayarak masif iç kanamaya yol açtığı için"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Köpeklerde ketamine uygulanmasına bağlı olarak kas tonusunda artma, bilinçsiz hareketlerin ve konvülsiyonların oluşması ve kötü uyanma kalitesinden dolayı, köpeklerde tek başına kullanılması tavsiye edilmez; tranklizan veya sedatifle kombine edilmelidir.",
+        "celdirici_analizi": "Kas rijiditesi ve eksitasyon nedeniyle köpekte daima kas gevşeticiyle (diazepam, ksilazin) kombine edilmelidir."
+      },
+      "slayt_no": 50,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_51",
+      "soru_metni": "Zolatil (Tiletamine/Zolezepam) kombinasyonunda yer alan Zolezepam'ın ilaca eklenme amacı nedir?",
+      "secenekler": {
+        "A": "Tiletaminin yol açtığı konvülsiyonları önlemek ve kas gevşemesi sağlamak",
+        "B": "Tiletaminin böbreklerden atılımını engelleyerek etki süresini 10 katına çıkarmak",
+        "C": "Kalp atım sayısını aşırı artırarak solunumu kendi kendine başlatmak",
+        "D": "İlacın sulandırıldığında steril kalmasını sağlayıp koruyucu görevi görmek",
+        "E": "Gözyaşı salgısını artırarak korneanın kurumasını engellemek"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Zolezepam, benzodiazepin türevi olup, tiletamine ile birlikte kullanılması antikonvülsan ve miyoreleksan (kas gevşetici) etkisinden dolayıdır.",
+        "celdirici_analizi": "Tiletamin kasları kasar, Zolezepam ise gevşetir; böylece dengeli bir anestezi sağlanır."
+      },
+      "slayt_no": 51,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_52",
+      "soru_metni": "Köpeklerde Zolatil (Tiletamine/Zolezepam) sonrası uyanma döneminde kas sertliği ve konvülsiyon riski olmasının nedeni nedir?",
+      "secenekler": {
+        "A": "Zolezepamın yarılanma ömrünün (1 st) Tiletaminden (1-2 st) daha kısa olması",
+        "B": "Tiletaminin karaciğerde Zolezepamdan 10 kat daha hızlı parçalanması",
+        "C": "Zolezepamın köpekte beyin reseptörlerine hiç bağlanamaması",
+        "D": "Köpek böbreklerinin Zolezepamı 5 dakika içinde tamamen atması",
+        "E": "Tiletaminin köpekte vücut sıcaklığını 42 dereceye fırlatması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Köpeklerde Tiletamine'in plazma yarılanma ömrü 1-2 saat, Zolezepamın ise 1 saattir. Zolezepamın sedatif etkisi daha çabuk kalktığı için hayvan tiletamin etkisi altında kalır ve uyanmada problemler yaşanır.",
+        "celdirici_analizi": "Koruyucu benzodiazepin etkisi dissosiyatif etkiden önce biterse köpek konvülziyonla uyanır."
+      },
+      "slayt_no": 54,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_53",
+      "soru_metni": "Kedilerde Zolatil anestezisinden uyanmanın köpeklerin aksine çok sakin ve kaliteli olmasının nedeni nedir?",
+      "secenekler": {
+        "A": "Kedilerde Zolezepamın yarılanma ömrünün (4.5 st) Tiletaminden (2.5 st) uzun olması",
+        "B": "Kedilerde Tiletamin moleküllerinin beyne hiç ulaşmadan parçalanması",
+        "C": "Kedilerin dissosiyatif ilaçlara karşı doğuştan tam bağışık olması",
+        "D": "Zolezepamın kedilerde 24 saat süren cerrahi anestezi oluşturması",
+        "E": "Kedilerde tükürük salgısının ilacın tüm toksisitesini nötralize etmesi"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Kedilerde Tiletamine'in yarılanma ömrü 2.5 saat, Zolezepamın ise 4.5 saattir. Kediler bu kombinasyonla oluşturulan anesteziden, Zolezepamın sedatif etkisi altında uyanırlar; bu nedenle uyanma kalitesi çok iyidir.",
+        "celdirici_analizi": "Kedilerde sedatif ajan daha uzun kaldığı için uyanma mükemmeldir; köpekte ise tam tersidir."
+      },
+      "slayt_no": 55,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_54",
+      "soru_metni": "Açılan Propofol ampul ve flakonlarının 6-8 saat içerisinde tüketilmesinin zorunlu olmasının nedeni nedir?",
+      "secenekler": {
+        "A": "Koruyucu madde içermediğinden bakteri üremesine ve sepsise yol açabilmesi",
+        "B": "Hava ile temas ettiğinde 6 saatte katılaşarak kristalize olması",
+        "C": "Işık altında 6 saat içinde tüm anestezik etkisini tamamen kaybetmesi",
+        "D": "pH değerinin 2'ye düşerek damarları yakacak hale gelmesi",
+        "E": "Ampul açıldıktan sonra patlayıcı kimyasal gazlar açığa çıkarması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Propofol emülsiyonu koruyucu madde içermez, mikroorganizma üremesi ve endotoksin oluşmasına uygun bir ortam oluşturur. Sepsis oluşturma tehlikesinden dolayı açılan ampuller 6-8 saat içinde tüketilmelidir.",
+        "celdirici_analizi": "Soya yağı ve yumurta lesitini içeren zengin emülsiyon bakteriler için harika bir besiyeridir."
+      },
+      "slayt_no": 59,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_55",
+      "soru_metni": "Propofolün analjezik özelliği ve intravenöz (IV) enjeksiyonda damar dışına kaçma riski hakkında hangisi doğrudur?",
+      "secenekler": {
+        "A": "Analjezik özelliği çok azdır; damar dışına çıkarsa tiyopental gibi doku hasarı yapmaz",
+        "B": "Çok güçlü analjeziktir; damar dışına kaçarsa tüm bacakta kangren oluşturur",
+        "C": "Morfinden güçlü analjezi sağlar; damar dışına çıkarsa anında emilerek etki eder",
+        "D": "Sadece kas içi uygulanır; damar içine verilmesi kesinlikle yasaklanmıştır",
+        "E": "Analjezik etkisi 12 saat sürer; perivasküler kaçışta kemik nekrozu yapar"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Propofol sedatif-hipnotiktir, analjezik özelliği çok azdır. Sadece IV uygulanır, ancak damar dışına çıkarsa barbitüratlar gibi doku hasarına neden olmaz.",
+        "celdirici_analizi": "Propofol ağrıyı kesmez (hipnotiktir) ve tiyopentalin aksine damar dışına kaçtığında nekroz yapmaz."
+      },
+      "slayt_no": 59,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_56",
+      "soru_metni": "Modern hekimlikte Kloral hidratın genel anestezi amacıyla değil yalnızca sedasyon için önerilmesinin temel nedeni nedir?",
+      "secenekler": {
+        "A": "Genel anestezi oluşturacak dozlarda uygulandığında uyanma süresinin aşırı uzaması",
+        "B": "İlacın piyasa maliyetinin diğer tüm anesteziklerden kat kat pahalı olması",
+        "C": "Uygulama sonrasında vücut ısısının 45 dereceye fırlayarak hipertermi yapması",
+        "D": "Sedasyon dozunda bile tüm iç organlarda akut kalsifikasyon başlatması",
+        "E": "İntravenöz yolla kesinlikle verilemeyip sadece solunumla uygulanabilmesi"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Kloral hidratın en önemli dezavantajı, genel anestezi oluşturacak dozları uygulandığında, uyanma süresinin uzamasıdır. Bu nedenle modern hekimlikte ancak sedasyon amacıyla önerilir.",
+        "celdirici_analizi": "Uzun uyanma süresi ve analjezi eksikliği kloral hidratın genel anestezi olarak terk edilmesine yol açmıştır."
+      },
+      "slayt_no": 61,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_57",
+      "soru_metni": "İntramüsküler (İM) indüksiyon ile İntravenöz (İV) indüksiyon arasındaki doz ve etki farkı nasıldır?",
+      "secenekler": {
+        "A": "İM indüksiyonda gereken doz İV doza göre 2-3 kat fazladır ve uyanma oldukça uzun sürer",
+        "B": "İM doz İV dozun yarısı kadardır ve uyanma 5 dakika içinde hızla gerçekleşir",
+        "C": "Her iki yolda da doz miktarı ve uyanma süreleri birbirine tamamen eşittir",
+        "D": "İM indüksiyon ilacın beyne ulaşmasını İV yoldan çok daha hızlı sağlar",
+        "E": "İM indüksiyonda ilaç dakikalar içinde tamamen parçalanıp hiç etki etmez"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Birçok ilacın İM indüksiyon için gerekli olan anestezik miktarı, İV doza göre 2-3 kat fazladır. İM yolla uygulamayı takiben ilacın beyni etkilemesi için daha uzun süreye ihtiyaç vardır ve uyanma da oldukça uzun sürer.",
+        "celdirici_analizi": "İM yolda emilim yavaş olduğu için doz 2-3 kat yüksek tutulur ve uyanma çok uzun sürer."
+      },
+      "slayt_no": 69,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_58",
+      "soru_metni": "Maske indüksiyonunun enjektabl anesteziklere göre avantajı ve en önemli çevre yan etkisi nedir?",
+      "secenekler": {
+        "A": "Daha az riskli olup derinlik ayarı kolaydır; yan etkisi oda havasını kirletmesidir",
+        "B": "Sıfır maliyetlidir; yan etkisi hastanın akciğerinde anında tümör oluşturmasıdır",
+        "C": "Hiç oksijen gerektirmez; yan etkisi ameliyathanedeki cihazları paslandırmasıdır",
+        "D": "Sadece kuşlarda kullanılır; yan etkisi hastada kalıcı larenks felci yapmasıdır",
+        "E": "Tüm enfeksiyonları yok eder; yan etkisi hastanın kalp atımını durdurmasıdır"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Maske indüksiyonu enjektable anesteziklere göre daha az risklidir ve vaporizatörle derinliği değiştirmek kolaydır. Önemli yan etkisi oda havasını kirletmesi ve atık gaz yaymasıdır.",
+        "celdirici_analizi": "Vaporizatör kontrolü esnektir fakat atık gazlar ameliyathane personelini ve ortamı etkiler."
+      },
+      "slayt_no": 70,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_59",
+      "soru_metni": "Brahisefalik ırk köpeklerde (basık burunlu) endotrakeal entübasyonun anatomik zorluğu nedir?",
+      "secenekler": {
+        "A": "Ağız içindeki fazla yumuşak dokuların farenks girişini tıkayıp trakea girişini zorlaştırması",
+        "B": "Trakea çapının at boyutu kadar geniş olup tüpün içeride sabitlenememesi",
+        "C": "Dillerinin olmaması sebebiyle larenksin sürekli yemek borusuna kaçması",
+        "D": "Gözlerinin pörtlek olması nedeniyle larenks ışığının retinayı kör etmesi",
+        "E": "Dişlerinin trakeayı delerek akciğere hava kaçmasına neden olması"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Brahisefalik ırk köpeklerde ağız içindeki yumuşak dokular fazladır. Hayvan ağzını açtığı zaman bu dokular farenks girişini tıkar ve trakeaya giriş zorlaşır; ancak hava yolunu açık tutmak için entübasyon şarttır.",
+        "celdirici_analizi": "Yumuşak damak sarkması (elongated soft palate) ve dar farenks entübasyonu zorlaştırır."
+      },
+      "slayt_no": 72,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    },
+    {
+      "soru_id": "pq_60",
+      "soru_metni": "Endotrakeal tüpün uyanma döneminde hastadan uzaklaştırılması (ekstübasyon) tam olarak ne zaman yapılmalıdır?",
+      "secenekler": {
+        "A": "Hayvanda yutkunma hareketleri görülmeye başladığı anda derhal uzaklaştırılmalıdır",
+        "B": "Hayvan tamamen ayağa kalkıp yürümeye başladıktan 1 saat sonra çıkarılmalıdır",
+        "C": "Cerrahi dikiş atıldığı anda hayvan henüz derin uykudayken hemen çekilmelidir",
+        "D": "Hayvan kafese konulduktan sonra ertesi gün hekim tarafından çıkarılmalıdır",
+        "E": "Solunum sayısı dakikada 5'in altına düştüğü derin apne anında çıkarılmalıdır"
+      },
+      "dogru_cevap": "A",
+      "aciklama": {
+        "genel": "Yutkunma hareketleri görülmeye başladığında tüp uzaklaştırılmalıdır. Eğer yutkunma başladıktan sonra tüp çekilmezse hayvan tüpü ısırıp parçalayabilir ve parça trakeada kalabilir.",
+        "celdirici_analizi": "Yutkunma refleksi hava yolu koruma refleksidir; bu anda tüp çekilmezse ısırılarak koparılabilir."
+      },
+      "slayt_no": 74,
+      "zorluk_derecesi": "orta",
+      "etiketler": [
+        "preanestezi",
+        "ilaclar"
+      ]
+    }
+  ],
+  "open_ended": [
+    {
+      "soru_id": "poq_1",
+      "soru": "Preanestezik ilaçların kullanılmasındaki temel amaçları maddeler halinde açıklayınız.",
+      "ideal_cevap": "1. Sedasyon sağlamak (ağrı, huysuzluk, korku ve endişeyi yatıştırmak).\n2. Anesteziye girişi kolaylaştırmak (eksitasyonsuz indüksiyon ve sakin uyanma temin etmek).\n3. Genel anesteziklerin yan etkilerini elimine etmek (örn: ketaminin aşırı salivasyonunu veya halotanın bradikardi/aritmisini atropinle önlemek).\n4. Anestezi oluşturmak için gerekli genel anestezik madde miktarını azaltmak (hızlı indüksiyon ve erken uyanma sağlamak).",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 4
+    },
+    {
+      "soru_id": "poq_2",
+      "soru": "Atropin sülfatın vagal refleks ve tükürük salgısı üzerindeki etkilerini ve ketaminle birlikteliğini belirtiniz.",
+      "ideal_cevap": "Atropin n. vagus uyarımını ortadan kaldırarak entübasyon veya iç organ ellenmesi sırasında gelişebilecek bradikardiyi ve kardiyak output azalmasını engeller. Ayrıca parasempatik uyarıyı keserek salivasyonu ve solunum yolu sekresyonlarını belirgin derecede azaltır. Ketamin gibi ajanlar salya üretimini çok artırdığından, salyanın soluk borusuna aspirasyonunu engellemek amacıyla ketamin anestezisinde atropin kullanımı özellikle şarttır.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 6
+    },
+    {
+      "soru_id": "poq_3",
+      "soru": "Atropin uygulamasında türler arası göz ve pupilla farklılıkları nelerdir? Kuşların durumunu anatomik gerekçesiyle yazınız.",
+      "ideal_cevap": "Atropin köpeklerde preanestezik dozlarda pupillada genişleme (midriyazis) oluşturmaz. Kedilerde ve atlarda ise midriyazise neden olarak görme bozukluğu ve huzursuzluk yaratabilir. Kuşlarda ise atropin midriyazis oluşturmaz; çünkü kuşların irisi memelilerdeki gibi düz kas değil, çizgili kas yapısına sahiptir.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 8
+    },
+    {
+      "soru_id": "poq_4",
+      "soru": "Atropin kullanımının kontrendike olduğu (kullanılmaması gereken) klinik durumları ve toksisite kriterlerini sıralayınız.",
+      "ideal_cevap": "1. Kalp frekansı yüksek olan hastalarda (köpeklerde dakikada 140'ın üzeri, kedilerde dakikada 160'ın üzeri).\n2. Kongestif kalp yetmezliği hastalarında.\n3. Konstipasyonlu (şiddetli kabızlık) ve ileuslu (bağırsak tıkanması/felci) hayvanlarda (çünkü atropin bağırsak peristaltiğini daha da azaltır).",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 10
+    },
+    {
+      "soru_id": "poq_5",
+      "soru": "Asepromazinin (Vetranquil) antiemetik, antidisritmik ve periferik vazodilatasyon etkilerini klinik önemiyle açıklayınız.",
+      "ideal_cevap": "Antiemetik etki: Çok küçük dozlarda bile anestezi boyunca kusmayı önler, araba tutması vakalarında tercih edilir.\nAntidisritmik etki: Adrenalin ve halotanın oluşturabileceği tehlikeli ventriküler disritmileri antagonize eder.\nPeriferik vazodilatasyon: Damarları genişleterek ısı kaybı (hipotermi) ve hipotansiyona yol açar; bu nedenle şoktaki ve hipovolemik hastalarda kullanılmamalıdır.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 14
+    },
+    {
+      "soru_id": "poq_6",
+      "soru": "Benzodiazepin grubu ilaçların (Diazepam, Midazolam) sedasyon, analjezi ve kardiyovasküler sistem üzerindeki temel özelliklerini yazınız.",
+      "ideal_cevap": "Benzodiazepinler sedasyon oluşturmazlar ve hiçbir ağrı kesici (analjezik) özellikleri yoktur. Mükemmel kas gevşetici ve antikonvülzan etkiye sahiptirler. Kardiyovasküler ve solunum sistemi üzerine yan etkileri çok az olduğu için yüksek anestezi riski taşıyan ve yaşlı hastalarda güvenle tercih edilirler.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 16
+    },
+    {
+      "soru_id": "poq_7",
+      "soru": "Ksilazinin (Rompun) sedatif etki süresi ile analjezik etki süresi arasındaki farkı ve cerrahi zamanlamaya etkisini açıklayınız.",
+      "ideal_cevap": "Ksilazin uygulandıktan sonra uykulu hal ve sedasyon 1-2 saat boyunca devam edebilir; ancak analjezik etkisi yalnızca 15-30 dakika kadar kısa sürelidir. Bu nedenle ksilazin sedasyonunda ağrılı cerrahi müdahaleler ilacın etkisinin görülmesinden itibaren ilk 10-15 dakika içinde tamamlanmalıdır.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 19
+    },
+    {
+      "soru_id": "poq_8",
+      "soru": "Opioid türevi ilaçların solunum, bağırsak motilitesi ve göz pupillası üzerindeki yan etkilerini köpek ve kedi farkıyla özetleyiniz.",
+      "ideal_cevap": "Solunum: Hem solunum sayısını hem de tidal volümü azaltarak solunum depresyonu yaparlar (ventilatör desteği gerekir).\nBağırsak motilitesi: Erken dönemde peristaltiği artırarak kusma ve defekasyona, uzun dönemde ise peristaltiği azaltarak konstipasyona yol açarlar.\nPupilla: Köpeklerde pupillada daralma (miyozis), kedilerde ise pupillada genişleme (midriyazis) oluştururlar.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 24
+    },
+    {
+      "soru_id": "poq_9",
+      "soru": "Nöroleptanaljezi nedir? Sağlıklı genç hayvanlar ile yüksek riskli hastalar açısından klinik endikasyonunu karşılaştırınız.",
+      "ideal_cevap": "Morfin türevi güçlü bir analjezik ile tranklizan bir ilacın birlikte kullanılmasıyla tam bilinç kaybı ve uyku olmadan derin sedasyon ve iyi analjezi sağlanmasıdır. Sağlıklı ve genç hayvanların rutin indüksiyonunda ilave anestezik olmadan tam anestezi oluşturulamayacağı için uygun değildir; ancak yüksek risk grubundaki hastalarda ketamin ve barbitüratlara kıyasla çok güvenli bir alternatiftir.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 57
+    },
+    {
+      "soru_id": "poq_10",
+      "soru": "Tiyopental sodyumun kimyasal pH özelliği nedir? Kas içine veya intraarteriyel yanlış enjeksiyonunda hangi ağır komplikasyonlar doğar?",
+      "ideal_cevap": "Tiyopental sodyum pH: 11-12 olan yüksek derecede alkali bir maddedir. Kas içine veya perivasküler dokuya verilirse şiddetli yangı, dayanılmaz ağrı ve doku nekrozu meydana gelir. Yanlışlıkla atardamar içine (intraarteriyel) verilirse damar endotelinde ağır hasara yol açar ve ilgili bacakta/ekstremitede gangren oluşturur.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 32
+    },
+    {
+      "soru_id": "poq_11",
+      "soru": "Dissosiyatif anesteziklerin (Ketamin) oluşturduğu anestezinin tipik klinik tablosunu, refleksleri ve kas tonusunu açıklayınız.",
+      "ideal_cevap": "Hayvan uyanık gibi görünür ancak çevresinden tamamen habersizdir (kataleptik anestezi). Gözler açık kalır, nistagmus ve pupilla dilatasyonu görülür. Oküler, oral, laringeal ve yutkunma refleksleri ile palpebral refleks aktif olarak kalır. Barbitüratların aksine kas gevşemesi olmaz; kas tonusu artar, rijidite ve spontan hareketler oluşur. Bu yüzden mutlaka gevşetici ajanlarla kombine edilmelidir.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 41
+    },
+    {
+      "soru_id": "poq_12",
+      "soru": "Ketaminin visceral ağrı üzerindeki etkisi nedir? Abdominal cerrahi operasyonlarında tek başına neden kullanılmaz?",
+      "ideal_cevap": "Dissosiyatif anestezide deri ve ekstremitelerde iyi derecede somatik analjezi sağlanırken, iç organlardaki visceral analjezi oldukça zayıftır. Visceral ağrıyı ortadan kaldıramadığı için karın boşluğu (abdominal) operasyonlarında tek başına kesinlikle kullanılmamalıdır.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 45
+    },
+    {
+      "soru_id": "poq_13",
+      "soru": "Tiletamin/Zolezepam (Zolatil) sonrası uyanma kalitesi köpek ve kedilerde neden tamamen farklı seyreder? Yarılanma ömürleriyle açıklayınız.",
+      "ideal_cevap": "Köpeklerde Tiletaminin yarılanma ömrü 1-2 saat iken, Zolezepamınki sadece 1 saattir. Zolezepamın sedatif etkisi önce bittiği için köpek tiletaminin kataleptik etkisi altında uyanır; bu durum kas sertliği, konvülsiyon ve kötü uyanmaya yol açar. Kedilerde ise Tiletaminin ömrü 2.5 saat, Zolezepamınki 4.5 saattir. Zolezepam daha uzun süre kalarak kedinin sakinleştirici etkisi altında uyanmasını sağlar; bu nedenle kedilerde uyanma kalitesi çok iyidir.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 54
+    },
+    {
+      "soru_id": "poq_14",
+      "soru": "Propofolün mikrobiyolojik sepsis riski nedir? Açılan flakonların kullanım süresi kuralını açıklayınız.",
+      "ideal_cevap": "Propofol emülsiyonu hiçbir koruyucu madde içermez; soya yağı ve lesitin içeren yapısı mikroorganizma üremesi ve endotoksin oluşması için çok uygun bir besi ortamıdır. Hastada sepsis ve ağır enfeksiyon gelişme tehlikesinden dolayı açılan ampul ve flakonların en geç 6-8 saat içerisinde tüketilmesi zorunludur.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 59
+    },
+    {
+      "soru_id": "poq_15",
+      "soru": "Endotrakeal entübasyon uygulamasında tüpün fazla itilmesi ve kafın aşırı şişirilmesi hangi patolojik sonuçları doğurur? Ekstübasyon kuralı nedir?",
+      "ideal_cevap": "Tüp trakea içinde fazla itilirse ana bronşlardan birine girer ve yalnızca tek bir akciğer lobunun ventilasyonu sağlanır, diğer lob çöker. Kaf aşırı şişirilirse trakea mukozasında iskemiye bağlı basınç nekrozu oluşur. Ekstübasyon (tüpün çıkarılması) uyanma döneminde hayvanda yutkunma hareketleri başladığı anda derhal yapılmalıdır; gecikilirse hayvan tüpü ısırıp parçalayabilir ve parça trakeada kalabilir.",
+      "degerlendirme_kriteri": "İdeal cevapta belirtilen mekanizma ve terimler aranmalıdır.",
+      "slayt_no": 73
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>VetMeri - Veteriner Çalışma Asistanı</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    
+    <!-- Top Bar -->
+    <header class="app-header">
+      <div class="brand-badge">
+        <div class="brand-logo" id="brand-logo-icon">🐾</div>
+        <div class="brand-info">
+          <h1>VetMeri</h1>
+          <p id="header-category">Sindirim Sistemi Hastalıkları</p>
+        </div>
+      </div>
+      <div class="module-dropdown-wrapper">
+        <select id="module-selector" class="module-select" aria-label="Ders Seçiniz">
+          <option value="sindirim" selected>🐾 3. Ders: Sindirim Sistemi (140 Soru)</option>
+          <option value="preanestezi">💊 2. Ders: Preanestezik İlaçlar (60 Soru)</option>
+          <option value="anestezi">🩺 1. Ders: Anestezi & Muayene (65 Soru)</option>
+          <option value="hepsi">📚 Tümü: Kümülatif Havuz (265 Soru)</option>
+        </select>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-content">
+      
+      <!-- ================= 1. TAB: ÖZET ================= -->
+      <section id="tab-ozet" class="tab-screen active">
+        <div class="hero-card">
+          <span class="hero-badge" id="hero-badge">Ders Notu Özeti</span>
+          <h2 class="hero-title" id="hero-title">Kedi & Köpek Sindirim Sistemi Hastalıkları</h2>
+          <p class="hero-desc" id="hero-desc">Doç. Dr. Kenan Çağrı Tümer'in 240 slaytlık ders notu: Özefagitis, megaözefagus, GDV, AHDS, IBD, PKE ve Myasthenia gravis vaka analizi.</p>
+        </div>
+
+        <div class="section-title">📌 Konu Başlıkları & Detaylı Notlar</div>
+        <div class="summary-sections-list" id="summary-sections-container">
+          <!-- Dinamik doldurulur -->
+        </div>
+      </section>
+
+      <!-- ================= 2. TAB: BİLGİ KARTLARI ================= -->
+      <section id="tab-kartlar" class="tab-screen">
+        <div class="flashcard-topbar">
+          <span style="font-size: 0.9rem; font-weight: 700; color: var(--text-muted);" id="card-counter">Kart 1 / 20</span>
+          <span style="font-size: 0.8rem; font-weight: 600; color: var(--primary);">Dokun ve Çevir</span>
+        </div>
+
+        <div class="card-viewport" id="flashcard-box">
+          <div class="flip-card" id="flip-card-element">
+            <div class="card-face front">
+              <div class="card-tag">SORU</div>
+              <div class="card-body-text" id="card-front-text">Yükleniyor...</div>
+              <div class="card-flip-prompt">🔄 Cevabı görmek için dokun</div>
+            </div>
+            <div class="card-face back">
+              <div class="card-tag">CEVAP</div>
+              <div class="card-body-text" id="card-back-text">Açıklama burada...</div>
+              <div class="card-flip-prompt">🔄 Soruya dönmek için dokun</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Sadece Önceki, Karıştır, Sonraki -->
+        <div class="card-nav-row">
+          <button class="btn-card-ctrl" id="btn-card-prev">← Önceki</button>
+          <button class="btn-card-ctrl shuffle" id="btn-card-shuffle" title="Karıştır">🔀</button>
+          <button class="btn-card-ctrl primary" id="btn-card-next">Sonraki →</button>
+        </div>
+      </section>
+
+      <!-- ================= 3. TAB: QUIZ ================= -->
+      <section id="tab-quiz" class="tab-screen">
+        <div class="quiz-topbar">
+          <span style="font-size: 0.9rem; font-weight: 800; color: var(--text-main);" id="quiz-counter">Soru 1 / 60</span>
+          <span class="slide-tag-pill" id="quiz-slide-pill">Slayt 2</span>
+        </div>
+
+        <div class="question-box">
+          <div class="question-text" id="quiz-question-text">
+            Soru metni yükleniyor...
+          </div>
+        </div>
+
+        <div class="options-list" id="quiz-options-container">
+          <!-- Seçenekler dinamik gelir -->
+        </div>
+
+        <div class="feedback-box" id="quiz-feedback-drawer">
+          <div class="feedback-header">
+            <div class="feedback-title" id="feedback-result-title">Doğru Yanıt</div>
+            <div class="feedback-slide-badge" id="feedback-slide-badge">📌 Slayt 20</div>
+          </div>
+          <p class="feedback-desc" id="feedback-general-text"></p>
+          <div class="distractor-analysis" id="feedback-distractor-text"></div>
+        </div>
+
+        <button class="btn-next-quiz" id="quiz-next-btn" style="display: none;">
+          Sonraki Soruya Geç →
+        </button>
+      </section>
+
+      <!-- ================= 4. TAB: KLASİK SORULAR ================= -->
+      <section id="tab-klasik" class="tab-screen">
+        <div class="quiz-topbar">
+          <span style="font-size: 0.9rem; font-weight: 800; color: var(--text-main);" id="au-counter">Soru 1 / 15</span>
+          <span class="slide-tag-pill" id="au-slide-pill">Slayt 2</span>
+        </div>
+
+        <div class="au-card">
+          <span class="au-tag">AÇIK UÇLU SORU</span>
+          <div class="question-text" id="au-question-text" style="margin-bottom: 1rem;">
+            Soru yükleniyor...
+          </div>
+
+          <button class="btn-reveal-answer" id="btn-reveal-au">
+            👁️ Cevabı Göster
+          </button>
+
+          <div class="au-answer-box" id="au-answer-box">
+            <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+              <strong style="color: var(--primary); font-size: 0.9rem;">Model Cevap:</strong>
+              <span style="font-size: 0.75rem; color: var(--text-muted); font-weight: 700;" id="au-answer-slide">Slayt 2</span>
+            </div>
+            <p style="font-size: 0.88rem; line-height: 1.55; color: var(--text-main);" id="au-ideal-answer"></p>
+          </div>
+        </div>
+
+        <div class="card-nav-row" style="margin-top: 1.25rem;">
+          <button class="btn-card-ctrl" id="btn-au-prev">← Önceki Soru</button>
+          <button class="btn-card-ctrl primary" id="btn-au-next">Sonraki Soru →</button>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Bottom Navigation Bar -->
+    <nav class="bottom-nav">
+      <button class="nav-item active" data-tab="ozet">
+        <div class="nav-icon">📖</div>
+        <div class="nav-label">Özet</div>
+      </button>
+      <button class="nav-item" data-tab="kartlar">
+        <div class="nav-icon">🗂️</div>
+        <div class="nav-label">Kartlar</div>
+      </button>
+      <button class="nav-item" data-tab="quiz">
+        <div class="nav-icon">⚡</div>
+        <div class="nav-label">Test</div>
+      </button>
+      <button class="nav-item" data-tab="klasik">
+        <div class="nav-icon">✍️</div>
+        <div class="nav-label">Klasik</div>
+      </button>
+    </nav>
+
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

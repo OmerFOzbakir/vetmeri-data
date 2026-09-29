@@ -1,0 +1,205 @@
+# -*- coding: utf-8 -*-
+"""
+Kümülatif 3'lü Modül Birleştirici:
+1. Ders: Anesteziye Giriş & Muayene (38 Slayt - 65 Soru)
+2. Ders: Preanestezik İlaçlar & İndüksiyon (74 Slayt - 60 Soru)
+3. Ders: Sindirim Sistemi Hastalıkları (240 Slayt - 140 Soru)
+"""
+import json
+import os
+import re
+
+from sindirim_notes import METADATA, SUMMARY_SECTIONS, BILGI_KARTLARI, ACIK_UCLU_SORULAR
+from sindirim_part1 import QUESTIONS_PART1
+from sindirim_part2 import QUESTIONS_PART2
+from sindirim_part3 import QUESTIONS_PART3
+
+# 1. Mevcut data.js'den anestezi verisini oku
+with open('data.js', 'r', encoding='utf-8') as f:
+    js_content = f.read()
+
+# Anestezi modülü
+start_idx = js_content.find('{')
+end_idx = js_content.rfind('};') + 1
+modules_dict = json.loads(js_content[start_idx:end_idx])
+anestezi_module = modules_dict['anestezi']
+
+# 2. preanestezi_extracted.json'dan 2. dersi oku
+with open('tool/preanestezi_extracted.json', 'r', encoding='utf-8') as f:
+    pre_data = json.load(f)
+
+preanestezi_module = {
+    "id": "preanestezi",
+    "name": "2. Ders: Preanestezik İlaçlar & İndüksiyon",
+    "shortName": "Preanestezik İlaçlar",
+    "icon": "💊",
+    "badge": "74 Slayt • Atropin, Ksilazin, Ketamin, Tiyopental & Entübasyon",
+    "kategori": "Veteriner Cerrahi ve Anesteziyoloji",
+    "alt_kategori": "Preanestezik İlaçlar, Enjektabl Anestezikler ve İndüksiyon",
+    "ozet": "Bu eğitim modülü; cerrahide preanestezik ilaçların amaçlarını, antikolinerjikler (Atropin), tranklizanlar (Asepromazin), benzodiazepinler (Diazepam, Midazolam), alfa-2 agonistler (Ksilazin), opioidler (Morfin, Fentanil), barbitüratlar (Tiyopental), dissosiyatifler (Ketamin), propofol ve endotrakeal entübasyon ilkelerini kapsamaktadır.",
+    "kilit_noktalar": [
+        "Preanestezikler sedasyon sağlamak, eksitasyonsuz giriş-çıkış temin etmek ve genel anestezik dozunu azaltmak için kullanılır (Slayt 4).",
+        "Atropin vagus uyarımını engelleyerek bradikardiyi ve kardiyak debi düşüşünü önler; ketaminle salya aspirasyonunu engellemek için şarttır (Slayt 6, 7).",
+        "Kuşlarda iris çizgili kas yapısında olduğu için atropin kuşlarda midriyazis oluşturmaz (Slayt 8).",
+        "Asepromazin periferik vazodilatasyonla hipotermi ve hipotansiyon yapar; şoktaki hayvanda kullanılmaz, nöbet eşiğini düşürür (Slayt 14).",
+        "Benzodiazepinlerin (Diazepam, Midazolam) sedatif ve analjezik etkisi YOKTUR; güçlü kas gevşetici ve antikonvülzandırlar, antidotu Flumazenildir (Slayt 16, 17).",
+        "Ksilazin sedasyonu 1-2 saat sürerken, analjezik etkisi yalnızca 15-30 dakikadır; gebelerde abortus yapabilir (Slayt 18, 19).",
+        "Tiyopental alkali pH (11-12) nedeniyle perivasküler veya intraarteriyel kaçarsa doku nekrozu ve gangrene yol açar (Slayt 32).",
+        "Ketaminde palpebral refleks ve yutkunma refleksi kaybolmaz; gözler açık kalır, kornea kurumaması için göz pomadı zorunludur (Slayt 41).",
+        "Ekstübasyon (tüpün çekilmesi) hayvanda yutkunma refleksi başladığı anda hemen yapılmalıdır; gecikilirse tüp ısırılıp koparılabilir (Slayt 74)."
+    ],
+    "summarySections": pre_data["summary_sections"],
+    "bilgi_kartlari": pre_data["flashcards"],
+    "acik_uclu_sorular": pre_data["open_ended"],
+    "coktan_secmeli_sorular": pre_data["quiz_questions"]
+}
+
+# 3. Sindirim modülü (3. Ders)
+sindirim_mcqs = QUESTIONS_PART1 + QUESTIONS_PART2 + QUESTIONS_PART3
+
+sindirim_module = {
+    "id": "sindirim",
+    "name": "3. Ders: Kedi & Köpek Sindirim Sistemi Hastalıkları",
+    "shortName": "Sindirim Sistemi",
+    "icon": "🐾",
+    "badge": "240 Slayt • Özefagus, Mide, GDV, İntestinal & Vaka",
+    "kategori": METADATA["kategori"],
+    "alt_kategori": METADATA["alt_kategori"],
+    "ozet": METADATA["ozet"],
+    "kilit_noktalar": METADATA["kilit_noktalar"],
+    "summarySections": SUMMARY_SECTIONS,
+    "bilgi_kartlari": BILGI_KARTLARI,
+    "acik_uclu_sorular": ACIK_UCLU_SORULAR,
+    "coktan_secmeli_sorular": sindirim_mcqs
+}
+
+# 4. Kümülatif Veritabanı
+all_modules = {
+    "sindirim": sindirim_module,
+    "preanestezi": preanestezi_module,
+    "anestezi": anestezi_module
+}
+
+new_js_content = f"""// VetMeri Eğitim Modülleri Veri Tabanı (Kümülatif 3 Modül)
+window.ALL_MODULES = {json.dumps(all_modules, ensure_ascii=False, indent=2)};
+
+// Geriye dönük uyumluluk (Varsayılan aktif modül: Sindirim Sistemi)
+window.MODULE_DATA = window.ALL_MODULES["sindirim"];
+"""
+
+with open('data.js', 'w', encoding='utf-8') as f:
+    f.write(new_js_content)
+
+print(f"data.js güncellendi!")
+print(f"1. Anestezi: {len(anestezi_module['coktan_secmeli_sorular'])} MCQ, {len(anestezi_module['bilgi_kartlari'])} Kart, {len(anestezi_module['acik_uclu_sorular'])} Klasik")
+print(f"2. Preanestezi: {len(preanestezi_module['coktan_secmeli_sorular'])} MCQ, {len(preanestezi_module['bilgi_kartlari'])} Kart, {len(preanestezi_module['acik_uclu_sorular'])} Klasik")
+print(f"3. Sindirim: {len(sindirim_module['coktan_secmeli_sorular'])} MCQ, {len(sindirim_module['bilgi_kartlari'])} Kart, {len(sindirim_module['acik_uclu_sorular'])} Klasik")
+total_mcq = len(anestezi_module['coktan_secmeli_sorular']) + len(preanestezi_module['coktan_secmeli_sorular']) + len(sindirim_module['coktan_secmeli_sorular'])
+print(f"TOPLAM KÜMÜLATİF SORU: {total_mcq} MCQ")
+
+# 5. data.json'ı da 3 dersli olarak güncelle
+data_json = {
+    "lessons": [
+        {
+            "id": "lesson_1",
+            "title": anestezi_module["name"],
+            "subtitle": anestezi_module["badge"],
+            "icon": anestezi_module["icon"],
+            "summarySections": anestezi_module["summarySections"],
+            "flashcards": [
+                {"id": f.get("kart_id", f.get("id")), "question": f.get("on_yuz", f.get("question")), "answer": f.get("arka_yuz", f.get("answer"))}
+                for f in anestezi_module["bilgi_kartlari"]
+            ],
+            "quizQuestions": [
+                {
+                    "id": q.get("soru_id", q.get("id")),
+                    "question": q.get("soru_metni", q.get("question")),
+                    "options": q.get("secenekler", q.get("options")),
+                    "correctAnswer": q.get("dogru_cevap", q.get("correctAnswer")),
+                    "explanation": q.get("aciklama", {}).get("genel", q.get("explanation", "")),
+                    "distractorAnalysis": q.get("aciklama", {}).get("celdirici_analizi", q.get("distractorAnalysis", "")),
+                    "slideNumber": q.get("slayt_no", q.get("slideNumber", 1))
+                }
+                for q in anestezi_module["coktan_secmeli_sorular"]
+            ],
+            "openEndedQuestions": [
+                {
+                    "id": o.get("soru_id", o.get("id")),
+                    "question": o.get("soru", o.get("question")),
+                    "idealAnswer": o.get("ideal_cevap", o.get("idealAnswer")),
+                    "slideNumber": o.get("slayt_no", o.get("slideNumber", 1))
+                }
+                for o in anestezi_module["acik_uclu_sorular"]
+            ]
+        },
+        {
+            "id": "lesson_2",
+            "title": preanestezi_module["name"],
+            "subtitle": preanestezi_module["badge"],
+            "icon": preanestezi_module["icon"],
+            "summarySections": preanestezi_module["summarySections"],
+            "flashcards": [
+                {"id": f["kart_id"], "question": f["on_yuz"], "answer": f["arka_yuz"]}
+                for f in preanestezi_module["bilgi_kartlari"]
+            ],
+            "quizQuestions": [
+                {
+                    "id": q["soru_id"],
+                    "question": q["soru_metni"],
+                    "options": q["secenekler"],
+                    "correctAnswer": q["dogru_cevap"],
+                    "explanation": q["aciklama"]["genel"],
+                    "distractorAnalysis": q["aciklama"]["celdirici_analizi"],
+                    "slideNumber": q["slayt_no"]
+                }
+                for q in preanestezi_module["coktan_secmeli_sorular"]
+            ],
+            "openEndedQuestions": [
+                {
+                    "id": o["soru_id"],
+                    "question": o["soru"],
+                    "idealAnswer": o["ideal_cevap"],
+                    "slideNumber": o["slayt_no"]
+                }
+                for o in preanestezi_module["acik_uclu_sorular"]
+            ]
+        },
+        {
+            "id": "lesson_3",
+            "title": sindirim_module["name"],
+            "subtitle": sindirim_module["badge"],
+            "icon": sindirim_module["icon"],
+            "summarySections": sindirim_module["summarySections"],
+            "flashcards": [
+                {"id": f["kart_id"], "question": f["on_yuz"], "answer": f["arka_yuz"]}
+                for f in sindirim_module["bilgi_kartlari"]
+            ],
+            "quizQuestions": [
+                {
+                    "id": q["soru_id"],
+                    "question": q["soru_metni"],
+                    "options": q["secenekler"],
+                    "correctAnswer": q["dogru_cevap"],
+                    "explanation": q["aciklama"]["genel"],
+                    "distractorAnalysis": q["aciklama"]["celdirici_analizi"],
+                    "slideNumber": q["slayt_no"]
+                }
+                for q in sindirim_module["coktan_secmeli_sorular"]
+            ],
+            "openEndedQuestions": [
+                {
+                    "id": o["soru_id"],
+                    "question": o["soru"],
+                    "idealAnswer": o["ideal_cevap"],
+                    "slideNumber": o["slayt_no"]
+                }
+                for o in sindirim_module["acik_uclu_sorular"]
+            ]
+        }
+    ]
+}
+
+with open('data.json', 'w', encoding='utf-8') as f:
+    json.dump(data_json, f, ensure_ascii=False, indent=2)
+
+print("data.json başarıyla 3 dersli olarak güncellendi!")
