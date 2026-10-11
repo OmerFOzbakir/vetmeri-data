@@ -7239,6 +7239,1206 @@
           "slideNumber": 24
         }
       ]
+    },
+    {
+      "id": "lesson_6",
+      "title": "6. Ders: İnhalasyon Anestezikleri & Farmakolojisi",
+      "subtitle": "24 Slayt • MAC, Alım-Atılım, Halotan, İzofluran & Sevofluran",
+      "icon": "🌬️",
+      "summarySections": [
+        {
+          "title": "1. İnhalasyon Anestezisi Prensipleri & Tarihçe",
+          "icon": "📜",
+          "points": [
+            "Giriş & Eliminasyon Yolu: İnhalasyon anestezikleri akciğerlerden solunarak girer ve büyük oranda karaciğerde metabolize olmadan yine akciğerler yoluyla değişmeden ekspirasyonla atılır (Slayt 2).",
+            "Temel Klinik Üstünlük: Enjektabl anesteziklere kıyasla en belirgin avantajı, vaporizatör ayarıyla anestezi derinliğinin saniyeler içinde kolayca artırılıp azaltılabilmesidir (Slayt 2).",
+            "150 Yıllık Gelişim: N2O ve eter ilk olarak diş çekimlerinde kullanılmış; kloroform solunum depresyonu, siklopropan patlama riski yaratmıştır (Slayt 3).",
+            "Halotan Öncesi & Sonrası: 1951'de halotanın keşfi modern anesteziyi başlatmıştır; metoksifluran ise güçlü analjezi ve kas gevşemesi sağlasa da renal ve hepatik toksisitesi nedeniyle terk edilmiştir (Slayt 3)."
+          ]
+        },
+        {
+          "title": "2. Alım, Dağılım ve Beyin Parsiyel Basıncı",
+          "icon": "🧠",
+          "points": [
+            "Hedef Organ ve Parsiyel Basınç: İnhalasyon anestezisinde amaç, anestezik gazın beyinde belirli bir parsiyel basınca ulaşması ve MSS'de arzu edilen depresyonu oluşturmasıdır. Anestezi derinliği doğrudan beyindeki parsiyel basınçla orantılıdır (Slayt 4).",
+            "Dağılımı Etkileyen Faktörler: MAC değeri, fiziksel/kimyasal özellikler, absorbsiyon hızı, uygulanan konsantrasyon, pulmoner kan akışı, kardiyak debi, doku perfüzyonu ve yağ oranı alım ve atılımı doğrudan etkiler (Slayt 5).",
+            "Alveol-Kan-Doku Gradyenti: İnspirasyon havasından yoğunluk farkıyla alveollere, alveollerden kana, kandan da dokulara difüzyon zinciri gerçekleşir (Slayt 6).",
+            "Beyin Perfüzyonu & Gri Cevher: Kalpten çıkan kanın 1/6'sı beyne gittiği için anestezik çok kısa sürede beyne ulaşır. Beyin dokusu lipoidden zengindir ve anestezikler özellikle gri cevher üzerine etki ederek anesteziyi şekillendirir (Slayt 7)."
+          ]
+        },
+        {
+          "title": "3. İndüksiyon, Doz Aşımı & Uyanma Dinamikleri",
+          "icon": "🔄",
+          "points": [
+            "Hızlı İndüksiyon Kuralı: İnhalasyon anestezisinin çabuk oluşması için başlangıçta beyin gaz yoğunluğunu hızla artırmak amacıyla yüksek konsantrasyonda gaz verilir (Slayt 8).",
+            "İdameye Geçiş & Doz Aşımı: Beyinde yoğunluk arttıkça gaz alımı yavaşlar. Aynı yüksek konsantrasyonda devam edilirse beyindeki yoğunluk tehlikeli boyutlara ulaşır (Doz Aşımı). İstenen derinliğe ulaşılınca doz idame seviyesine düşürülür (Slayt 8).",
+            "Uyanma (Eliminasyon) Mekanizması: Saf oksijen inhale ettirildiğinde alveollerdeki anestezik ekspirasyonla atmosfere atılır. Yoğunluk gradyenti tersine döner: Kandan alveollere, beyinden de kana difüzyon başlar. Beyindeki gaz düzeyi kritik eşiğin altına indiğinde hasta uyanır (Slayt 9)."
+          ]
+        },
+        {
+          "title": "4. Minimum Alveoler Konsantrasyon (MAC) & Güç",
+          "icon": "⚖️",
+          "points": [
+            "MAC Tanımı: Test edilen bireylerin %50'sinde standart ağrılı uyarıya karşı motor kas kontraksiyonunu önleyen anestezik maddenin alveoler konsantrasyonudur (100 hastanın 50'sinde cerrahi anestezi oluşturan doz) (Slayt 10).",
+            "Ters Orantı Kuralı: MAC değeri ile anestezik maddenin potansiyeli (gücü) TERS ORANTILIDIR! MAC değeri ne kadar küçükse, anestezik o kadar güçlüdür (Slayt 10).",
+            "En Güçlü vs En Zayıf: Metoksifluran MAC değeri en küçük olan en güçlü ajandır. N2O (azot protoksit) ise MAC değeri en yüksek olan en zayıf genel anesteziktir (Slayt 10)."
+          ]
+        },
+        {
+          "title": "5. İnhalasyon Anestezisi Uygulama Teknikleri",
+          "icon": "😷",
+          "points": [
+            "I. Açık Damlatma Yöntemi: Sıvı anestezik gazlı komprese damlatılarak hayvanın ağız ve burnunu kapatacak şekilde tutulur; buhar solutulur (Slayt 11, 12).",
+            "II. Yarı Açık Damlatma Yöntemi: Dip kısmında soluk alma delikleri olan maske içine gaz kompres konur; daha çok eterle kısa süreli anestezi için kullanılmıştır (Slayt 13).",
+            "III. Anestezi Kutusu ve Cam Fanus: Küçük laboratuvar hayvanlarında (fare, sıçan) kutu içine sıvı püskürtülerek veya gazlı beze emdirilerek buhar solutulur (Slayt 14).",
+            "IV. Endotrakeal Entübasyon: Trakeaya tüp yerleştirilerek anestezi cihazına bağlanır; spontan veya mekanik ventilasyonla gaz solutulur. Modern veteriner cerrahide altın standarttır. Küçüklerde maske ile indüksiyon da yapılabilir (Slayt 15)."
+          ]
+        },
+        {
+          "title": "6. İdeal İnhalasyon Anesteziği & Tarihsel Ajanlar (Eter, N2O)",
+          "icon": "✨",
+          "points": [
+            "İdeal Anestezik Kriterleri: Solunum yollarına irritan olmamalı, kötü kokmamalı, hızlı indüksiyon/uyanma sağlamalı, yan etkisi ve toksisitesi minimal olmalı, ucuz, alev almaz/patlamaz olmalı, diğer ilaçlarla geçimli olmalıdır (Slayt 16).",
+            "Dietil Eter: İlk anesteziklerdendir. Patlayıcıdır. Kan/gaz erime katsayısı çok yüksek olduğundan indüksiyon ve uyanması OLDUKÇA YAVAŞTIR. Bulantı/kusma ve solunum yolu irritasyonu yapar (Slayt 17).",
+            "Nitrous Oxide (N2O): Yanıcı/patlayıcı değildir. Güçlü analjeziktir. Oksijenle 1:1 oranında (%50-%50) kullanılır. Kan/gaz katsayısı çok düşük olduğundan çok hızlı etki eder ve çabuk uyanma sağlar. Tek başına cerrahi anestezi oluşturamaz; diğer ajanların etkisini artırmak (MAC azaltmak) için kombine edilir (Slayt 18)."
+          ]
+        },
+        {
+          "title": "7. Halotan & Enfluran Karşılaştırması",
+          "icon": "🧪",
+          "points": [
+            "Halotan Özellikleri: Güçlüdür (MAC 0.74), yanmaz/patlamaz. Analjezisi zayıf, kas gevşetmesi ortadır. Mukozaları irrite etmez (Slayt 19).",
+            "Halotan Kontrendikasyonları: Serebral kan akımını artırıp BOS emilimini azaltarak intrakraniyal basıncı artırır; kafa travmasında ve gebelerde önerilmez. %20-40 oranında karaciğerde metabolize olduğundan karaciğer hastalarında KULLANILMAZ (Slayt 19).",
+            "Enfluran: İzofluranın izomeridir. Hızlı indüksiyon ve uyanma sağlar. Serebral kan akımını halotandan daha fazla artırır; intrakraniyal basınç artışında kontrendikedir. Önemli derecede solunum depresyonu yapar; karaciğerde %2-5 metabolize olur (Slayt 20)."
+          ]
+        },
+        {
+          "title": "8. Modern Ajanlar: İzofluran, Sevofluran & Desfluran",
+          "icon": "🌟",
+          "points": [
+            "İzofluran (Altın Standart): Veteriner sahada en yaygın ajandır. Keskin kokuludur. Düşük kan/gaz katsayısıyla hızlı indüksiyon, hızlı uyanma ve mükemmel kas gevşemesi sağlar. Metabolizma oranı sadece %0.2'dir (Slayt 21).",
+            "İzofluran & Beyin Cerrahisi: BOS emilimini artırıp yapımını artırmadığı için kafa içi basıncı ve BOS hacmini DÜŞÜRÜR! Bu nedenle kafa travması, beyin tümörü ve kranial operasyonlarda İLK TERCİHTİR (Slayt 22).",
+            "Sevofluran: TATLI KOKULUDUR, solunum yollarını irrite etmez. Bu nedenle MASKE İLE İNDÜKSİYONDA mükemmeldir. Çok hızlı indüksiyon ve uyanma sağlar. İntrakraniyal basıncı izoflurana göre daha stabil tutar, %5 metabolize olur (Slayt 23).",
+            "Desfluran: Kanda çözünürlüğü en düşük olduğundan EN HIZLI indüksiyon ve uyanmayı sağlar. Ancak anestezik gücü düşüktür, keskin kokuludur, taşikardi ve solunum yolu irritasyonu yapabilir, pahalıdır (Slayt 24)."
+          ]
+        }
+      ],
+      "flashcards": [
+        {
+          "id": "ikart_001",
+          "question": "İnhalasyon anesteziklerinin enjektabl anesteziklerden temel farmakokinetik farkı nedir?",
+          "answer": "Vücuda akciğer yolu ile girerler ve büyük bir oranda karaciğerde metabolize olmadan yine akciğer yolu ile değişmeden vücuttan atılırlar (Slayt 2)."
+        },
+        {
+          "id": "ikart_002",
+          "question": "Klinik pratikte inhalasyon anesteziklerinin tercih edilmesinin en belirgin avantajı nedir?",
+          "answer": "Anestezi derinliğinin vaporizatör ayarıyla anlık ve kolayca değiştirilebilmesidir (Slayt 2)."
+        },
+        {
+          "id": "ikart_003",
+          "question": "Modern anesteziyolojinin miladı kabul edilen 1951 yılında keşfedilen inhalasyon anesteziği hangisidir?",
+          "answer": "Halotandır (Halothane) (Slayt 3)."
+        },
+        {
+          "id": "ikart_004",
+          "question": "İnhalasyon anestezisinde temel amaç nedir ve anestezi derinliği ne ile doğrudan orantılıdır?",
+          "answer": "Amaç anestezik maddenin beyinde belirli bir parsiyel basınca ulaşmasıdır; anestezi derinliği doğrudan beyindeki anestezik maddenin parsiyel basıncı ile orantılıdır (Slayt 4)."
+        },
+        {
+          "id": "ikart_005",
+          "question": "İnhalasyon anesteziklerinin beyne çok kısa sürede ulaşıp etki göstermesinin fizyolojik nedeni nedir?",
+          "answer": "Kalpten çıkan kanın 1/6'sının doğrudan beyne gitmesi ve beyin dokusunun lipoidden zengin olmasıdır (Slayt 7)."
+        },
+        {
+          "id": "ikart_006",
+          "question": "İnhalasyon anestezikleri beyinde özellikle hangi doku bileşeni üzerine etki ederek anestezi oluşturur?",
+          "answer": "Beyinde gri cevher (substantia grisea) üzerine etki ederek anestezi oluşturur (Slayt 7)."
+        },
+        {
+          "id": "ikart_007",
+          "question": "İndüksiyon başlangıcında neden yüksek yoğunlukta anestezik gaz kullanılır ve sonrasında ne yapılır?",
+          "answer": "Beyindeki gaz yoğunluğunu çabuk artırmak için yüksek verilir; istenen seviyeye ulaşınca doz aşımını önlemek için doz azaltılarak idame seviyesinde tutulur (Slayt 8)."
+        },
+        {
+          "id": "ikart_008",
+          "question": "Anesteziden uyanma sürecinde saf oksijen verilmesinin fizyolojik rolü nedir?",
+          "answer": "Alveollerdeki gazı ekspirasyonla temizler; yoğunluk gradyenti tersine dönerek gaz kandan alveollere, beyinden de kana difüze olur ve beyin gazdan arınarak uyanır (Slayt 9)."
+        },
+        {
+          "id": "ikart_009",
+          "question": "Minimum Alveoler Konsantrasyon (MAC) ne demektir?",
+          "answer": "Bireylerin %50'sinde ağrılı uyarıya karşı kas kontraksiyonu oluşmasını önleyen anestezik maddenin alveoler konsantrasyon oranıdır (%50'de anestezi oluşturan güç dozu) (Slayt 10)."
+        },
+        {
+          "id": "ikart_010",
+          "question": "MAC değeri ile anesteziklerin gücü (potansiyeli) arasında nasıl bir bağıntı vardır?",
+          "answer": "MAC değeri ile anesteziklerin gücü TERS ORANTILIDIR; MAC değeri ne kadar küçükse anestezik madde o kadar güçlüdür (Slayt 10)."
+        },
+        {
+          "id": "ikart_011",
+          "question": "MAC değeri en küçük olan en güçlü ve MAC değeri en yüksek olan en zayıf anestezikler hangileridir?",
+          "answer": "En güçlü anestezik Metoksifluran (en küçük MAC); en zayıf anestezik ise N2O'dur (en yüksek MAC) (Slayt 10)."
+        },
+        {
+          "id": "ikart_012",
+          "question": "İnhalasyon anesteziklerinin 4 temel uygulanma tekniği nelerdir?",
+          "answer": "1) Açık Damlatma, 2) Yarı Açık Damlatma, 3) Anestezi Kutusu ve Cam Fanus, 4) Endotrakeal Entübasyon (Slayt 11)."
+        },
+        {
+          "id": "ikart_013",
+          "question": "Anestezi kutusu ve cam fanus yöntemi sıklıkla hangi hasta grubunda kullanılır?",
+          "answer": "Küçük laboratuvar hayvanlarının (kemirgenler vb.) anestezisinde uygulanır (Slayt 14)."
+        },
+        {
+          "id": "ikart_014",
+          "question": "Modern veteriner cerrahide kullanılan en güvenilir ve standart inhalasyon uygulama tekniği hangisidir?",
+          "answer": "Endotrakeal entübasyon aracılığı ile anestezi uygulamasıdır (Slayt 15)."
+        },
+        {
+          "id": "ikart_015",
+          "question": "İdeal bir inhalasyon anesteziğinin taşıması gereken temel özellikler nelerdir?",
+          "answer": "İrritan olmamalı, kötü kokmamalı, hızlı indüksiyon/uyanma sağlamalı, toksik olmamalı, yanıcı/patlayıcı olmamalı, ucuz olmalı ve diğer ilaçlarla geçimli olmalıdır (Slayt 16)."
+        },
+        {
+          "id": "ikart_016",
+          "question": "Dietil eterin (eter) indüksiyon ve uyanmasının oldukça yavaş olmasının nedeni nedir?",
+          "answer": "Kan/gaz erime katsayısının çok yüksek olmasıdır (Slayt 17)."
+        },
+        {
+          "id": "ikart_017",
+          "question": "Dietil eterin günümüzde kullanılmamasının temel nedenleri nelerdir?",
+          "answer": "Solunum yolları için oldukça irritan olması, bulantı/kusma yapması ve yanıcı/patlayıcı olmasıdır (Slayt 17)."
+        },
+        {
+          "id": "ikart_018",
+          "question": "Nitrous oxide (N2O) veteriner anestezide temel olarak hangi etkisinden dolayı kullanılır?",
+          "answer": "Güçlü analjezik özelliğinden dolayı kullanılır; diğer ajanların etkisini artırır (Slayt 18)."
+        },
+        {
+          "id": "ikart_019",
+          "question": "Nitrous oxide (N2O) pratik kullanımda oksijen ile hangi oranda karıştırılır?",
+          "answer": "Oksijen ile 1:1 oranında (%50 O2 - %50 N2O) kullanılır (Slayt 18)."
+        },
+        {
+          "id": "ikart_020",
+          "question": "Nitrous oxide tek başına cerrahi anestezi oluşturabilir mi?",
+          "answer": "Hayır, tek başına kullanılması ile cerrahi anestezi oluşturulması mümkün değildir; anestezik gücü en düşüktür (Slayt 18)."
+        },
+        {
+          "id": "ikart_021",
+          "question": "Halotanın MAC değeri nedir, mukozalarda irritasyon yapar mı?",
+          "answer": "MAC değeri 0.74'tür (güçlüdür); mukoz membranlarda irritasyon oluşturmaz ve sekresyona neden olmaz (Slayt 19)."
+        },
+        {
+          "id": "ikart_022",
+          "question": "Halotanın kafa içi basıncı artmış hayvanlarda ve kafa travmalarında önerilmeme nedeni nedir?",
+          "answer": "Serebral kan akışını artırır ve BOS emilimini azaltarak intrakraniyal basınçta tehlikeli artışa neden olur (Slayt 19)."
+        },
+        {
+          "id": "ikart_023",
+          "question": "Halotanın karaciğer hastalıklarında kontrendike olmasının metabolik nedeni nedir?",
+          "answer": "%20 - 40 gibi yüksek oranda karaciğerde metabolize olmasından dolayı karaciğer hastalıklarında kullanılmaz (Slayt 19)."
+        },
+        {
+          "id": "ikart_024",
+          "question": "Enfluran ile halotan serebral kan akımı açısından karşılaştırıldığında hangisi daha risklidir?",
+          "answer": "Enfluran serebral kan akımını halotandan daha fazla artırır; intrakraniyal basınç artışı varsa kesinlikle kullanılmamalıdır (Slayt 20)."
+        },
+        {
+          "id": "ikart_025",
+          "question": "İzofluranın indüksiyonda maskeyle kullanılmasını sınırlayan fiziksel özelliği nedir?",
+          "answer": "Keskin ve batıcı kokusudur (Slayt 21)."
+        },
+        {
+          "id": "ikart_026",
+          "question": "Veteriner anestezide Enfluran yerine İzofluran tercih edilmesinin 2 temel gerekçesi nedir?",
+          "answer": "1) Kaslarda miyorelaksan etkisinin daha fazla olması, 2) Daha düşük kan:gaz katsayısı sayesinde çok kısa sürede uyanma sağlamasıdır (Slayt 21)."
+        },
+        {
+          "id": "ikart_027",
+          "question": "Kafa travması geçiren veya beyin tümörü olan hayvanlarda neden İzofluran ilk tercihtir?",
+          "answer": "İzofluran serebrospinal sıvı (BOS) emilimini artırır ancak yapımını artırmaz; bu sayede kafa içi basıncı ve BOS hacmini azaltır (Slayt 22)."
+        },
+        {
+          "id": "ikart_028",
+          "question": "İzofluranın karaciğerde metabolize olma oranı ne kadardır?",
+          "answer": "Sadece %0.2'dir (organ toksisitesi son derece düşüktür) (Slayt 22)."
+        },
+        {
+          "id": "ikart_029",
+          "question": "Sevofluranın özellikle maske ile indüksiyonda rahatlıkla kullanılmasını sağlayan özelliği nedir?",
+          "answer": "Tatlı kokulu olması ve solunum yollarını irrite etmemesidir (Slayt 23)."
+        },
+        {
+          "id": "ikart_030",
+          "question": "Anestezikler içinde en hızlı indüksiyon ve uyanmayı sağlayan Desfluranın dezavantajları nelerdir?",
+          "answer": "Anestezik gücünün düşük olması, keskin kokusu, solunum yolu irritasyonu, taşikardi yapabilmesi ve pahalı fiyatıdır (Slayt 24)."
+        }
+      ],
+      "quizQuestions": [
+        {
+          "id": "mcq_inh_001",
+          "question": "İnhalasyon anesteziklerinin enjektabl anestezik maddelerden en temel farmakokinetik farkı aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Vücuda sadece damar içi yolla girip safra ile atılmaları",
+            "B": "Vücuda akciğer yolu ile girip büyük bir oranda metabolize olmadan yine akciğer yolu ile atılmaları",
+            "C": "Vücutta tamamen yağa dönüşerek kalıcı olmaları",
+            "D": "Sadece böbrek tubuluslarından aktif salgılanmaları"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; inhalasyon anestezikleri vücuda akciğerle girer ve büyük oranda metabolize olmadan akciğerle atılır (Slayt 2).",
+          "distractorAnalysis": "A, C ve D seçenekleri inhalasyon anesteziklerinin temel fizyolojisine aykırıdır.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_inh_002",
+          "question": "Veteriner hekimlikte inhalasyon anesteziklerinin yaygın olarak kullanılmasının en belirgin klinik avantajı nedir?",
+          "options": {
+            "A": "Hiçbir ekipman ve cihaza ihtiyaç duymamaları",
+            "B": "Anestezi derinliğinin kolayca değiştirilebilmesi",
+            "C": "Hastanın kalp atımını her zaman sıfırlaması",
+            "D": "Enjeksiyonlara göre 100 kat daha ucuz olmaları"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; en belirgin avantajı ve yaygın kullanılma nedeni anestezi derinliğinin kolayca değiştirilebilmesidir (Slayt 2).",
+          "distractorAnalysis": "Cihaz gerektirirler (A yanlış); derinlik kontrolü en büyük avantajdır.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_inh_003",
+          "question": "1951 yılında keşfedilerek hızlı indüksiyon ve uyanma sağlayan, modern inhalasyon anesteziyolojisinin miladı kabul edilen anestezik hangisidir?",
+          "options": {
+            "A": "Dietil eter",
+            "B": "Halotan (Halothane)",
+            "C": "Kloroform",
+            "D": "Siklopropan"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; 1951 yılında halotanın keşfi cerrahi müdahalelerde devrim yaratmıştır (Slayt 3).",
+          "distractorAnalysis": "Eter ve kloroform 19. yüzyılda; halotan ise 1951'de keşfedilmiştir.",
+          "slideNumber": 3
+        },
+        {
+          "id": "mcq_inh_004",
+          "question": "Eter gibi açık damlatma ile uygulanması mümkün olan ancak renal ve hepatik toksisitesi nedeniyle terk edilen anestezik hangisidir?",
+          "options": {
+            "A": "Metoksifluran (Methoxyflurane)",
+            "B": "Sevofluran",
+            "C": "Azot protoksit",
+            "D": "Desfluran"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; Methoxyflurane eter gibi uygulanabilirken renal ve hepatik toksisiteye sahiptir (Slayt 3).",
+          "distractorAnalysis": "Halotan özel cihaz gerektirirken metoksifluran eter gibi damlatılabiliyordu.",
+          "slideNumber": 3
+        },
+        {
+          "id": "mcq_inh_005",
+          "question": "Genel anestezide anestezi derinliği doğrudan aşağıdakilerden hangisi ile orantılıdır?",
+          "options": {
+            "A": "Kandaki eritrosit sayısı ile",
+            "B": "Beyindeki anestezik maddenin parsiyel basıncı ile",
+            "C": "Midedeki gıda miktarı ile",
+            "D": "Oda havasının nem oranı ile"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; anestezi derinliği direkt olarak beyindeki anestezik maddenin parsiyel basıncı ile orantılıdır (Slayt 4).",
+          "distractorAnalysis": "Slayt 4'te net olarak vurgulanmış fizyolojik temel kuraldır.",
+          "slideNumber": 4
+        },
+        {
+          "id": "mcq_inh_006",
+          "question": "Aşağıdakilerden hangisi inhalasyon anesteziklerinin vücuda alınması ve dağılımını etkileyen faktörlerden biri DEĞİLDİR?",
+          "options": {
+            "A": "Minimum alveoller konsantrasyon (MAC)",
+            "B": "Pulmoner kan akışı ve kardiyak output",
+            "C": "Dokulardaki yağ oranı ve perfüzyon",
+            "D": "Hayvanın tüy rengi ve kulak yapısı"
+          },
+          "correctAnswer": "D",
+          "explanation": "D seçeneği anestezi dağılımını etkilemez (Slayt 5).",
+          "distractorAnalysis": "A, B ve C seçenekleri slayt 5'te sıralanan temel fizyolojik ve farmakolojik belirleyicilerdir.",
+          "slideNumber": 5
+        },
+        {
+          "id": "mcq_inh_007",
+          "question": "İnhalasyon anesteziği solutulmaya başlandığında gazın vücut kompartımanlarına geçiş sırası hangisinde doğru verilmiştir?",
+          "options": {
+            "A": "Doku -> Kan -> Alveol -> Solunum havası",
+            "B": "Solunum havası -> Alveoller -> Kan -> Dokular (Beyin)",
+            "C": "Mide -> Karaciğer -> Kalp -> Akciğer",
+            "D": "Deri -> Kas -> Kemik -> Beyin"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; yoğunluk gradyentiyle solunum havasından alveollere, alveollerden kana, kandan dokulara/beyne difüzyon olur (Slayt 6).",
+          "distractorAnalysis": "Slayt 6'da bu ardışık difüzyon zinciri adım adım anlatılmaktadır.",
+          "slideNumber": 6
+        },
+        {
+          "id": "mcq_inh_008",
+          "question": "Kalpten çıkan kanın yaklaşık kaçta kaçı doğrudan beyne gittiği için anestezik madde beyinde çok kısa sürede etkisini gösterir?",
+          "options": {
+            "A": "1/2'si",
+            "B": "1/6'sı",
+            "C": "1/20'si",
+            "D": "1/50'si"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kalpten çıkan kanın 1/6'sı beyne gittiği için kısa sürede beyinde yoğunluk artar (Slayt 7).",
+          "distractorAnalysis": "Slayt 7'nin ilk cümlesinde 'Kalpten çıkan kanın 1/6'sı beyine gittiği için...' ifadesi yer alır.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_inh_009",
+          "question": "İnhalasyon anestezikleri lipoidden zengin olan beyin dokusunda özellikle hangi yapı üzerine etki ederek anesteziyi şekillendirir?",
+          "options": {
+            "A": "Gri cevher",
+            "B": "Beyin ventrikülleri",
+            "C": "Duramater",
+            "D": "Hipofiz sapı"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; anestezikler beyinde gri cevher üzerine etki ederek anestezi oluşturur (Slayt 7).",
+          "distractorAnalysis": "Nöron gövdelerinin bulunduğu gri cevher anesteziklerin primer etki sahasıdır.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_inh_010",
+          "question": "Genel anestezi istenilen seviyeye ulaştıktan sonra aynı yüksek yoğunlukta anestezik uygulanmaya devam edilirse ne meydana gelir?",
+          "options": {
+            "A": "Hasta kendiliğinden uyanır",
+            "B": "Alveollerdeki, kandaki ve beyindeki yoğunluk tehlikeli boyutlara ulaşarak doz aşımı şekillenir",
+            "C": "Vaporizatördeki sıvı donar",
+            "D": "Oksijen tüpü patlar"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; yüksek yoğunluk sürdürülürse beyindeki yoğunluk tehlikeli boyutlara ulaşır ve doz aşımı oluşur (Slayt 8).",
+          "distractorAnalysis": "Bu nedenle genel anestezi oturunca doz idame seviyesine düşürülür.",
+          "slideNumber": 8
+        },
+        {
+          "id": "mcq_inh_011",
+          "question": "Anesteziden uyanma sürecinde hastaya saf oksijen solutulmaya başlandığında gerçekleşen olaylar zinciri hangisinde doğrudur?",
+          "options": {
+            "A": "Gaz böbreklere çöker ve idrarla atılır",
+            "B": "Alveollerden gaz atılır -> Kandan alveollere difüzyon olur -> Dokulardan/beyinden kana difüzyon olur ve hasta uyanır",
+            "C": "Beyin gazı hapseder ve hasta kalıcı uyur",
+            "D": "Kandaki gaz yoğunluğu aniden iki katına çıkar"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; atılımda olaylar tersine döner, alveolden kandan ve beyinden gaz temizlenir (Slayt 9).",
+          "distractorAnalysis": "Slayt 9'da uyanma dinamikleri bu sıra ile açıklanmıştır.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_inh_012",
+          "question": "Bireylerin %50'sinde ağrılı uyarıya karşı kas kontraksiyonu oluşmasını önleyen anestezik maddenin alveoler konsantrasyon oranına ne ad verilir?",
+          "options": {
+            "A": "Tidal Volüm (TV)",
+            "B": "Minimum Alveoler Konsantrasyon (MAC)",
+            "C": "Fonksiyonel Rezidüel Kapasite (FRC)",
+            "D": "Kardiyak İndeks (CI)"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; bu tanım Minimum Alveoller Konsantrasyona (MAC) aittir (Slayt 10).",
+          "distractorAnalysis": "MAC genel anesteziklerin gücünü belirleyen standart farmakolojik parametredir.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_inh_013",
+          "question": "İnhalasyon anesteziklerinde 'MAC değeri' ile 'anesteziklerin gücü' arasındaki matematiksel ilişki nasıldır?",
+          "options": {
+            "A": "Doğru orantılıdır (MAC büyüdükçe güç artar)",
+            "B": "Ters orantılıdır (MAC küçüldükçe güç artar)",
+            "C": "Aralarında hiçbir ilişki yoktur",
+            "D": "Sadece atlarda doğru orantılı, diğer türlerde bağımsızdır"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; MAC değeriyle anesteziklerin gücü TERS ORANTILIDIR (Slayt 10).",
+          "distractorAnalysis": "Daha düşük konsantrasyonda anestezi oluşturan ajan daha güçlüdür.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_inh_014",
+          "question": "Aşağıdaki inhalasyon anesteziklerinden hangisi MAC DEĞERİ EN KÜÇÜK olan ve dolayısıyla EN GÜÇLÜ kabul edilen maddedir?",
+          "options": {
+            "A": "Nitrous oxide (N2O)",
+            "B": "Metoksifluran",
+            "C": "Desfluran",
+            "D": "Sevofluran"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; Metoksifluran MAC değeri en küçük, en güçlü genel anestezik maddedir (Slayt 10).",
+          "distractorAnalysis": "N2O ise MAC değeri en büyük ve en zayıf olandır.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_inh_015",
+          "question": "MAC değeri en yüksek olan ve bu nedenle tek başına cerrahi anestezi oluşturamayan EN ZAYIF genel anestezik madde hangisidir?",
+          "options": {
+            "A": "Halotan",
+            "B": "İzofluran",
+            "C": "Nitrous oxide (N2O)",
+            "D": "Metoksifluran"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; N2O MAC değeri en yüksek, en zayıf genel anestezik maddedir (Slayt 10).",
+          "distractorAnalysis": "Slayt 10'da açıkça vurgulanmıştır.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_inh_016",
+          "question": "Gaz komprese damlatılan sıvı anesteziğin doğrudan hayvanın ağız ve burnunu kapatacak şekilde tutulmasıyla uygulanan yöntem hangisidir?",
+          "options": {
+            "A": "Açık Damlatma Yöntemi",
+            "B": "Yarı Açık Damlatma Yöntemi",
+            "C": "Endotrakeal Entübasyon",
+            "D": "Anestezi Kutusu"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; gaz komprese damlatılıp ağız burun kapatılarak uygulanması Açık Damlatma Yöntemidir (Slayt 12).",
+          "distractorAnalysis": "Maske kullanılmaz, sadece kompres tutulur.",
+          "slideNumber": 12
+        },
+        {
+          "id": "mcq_inh_017",
+          "question": "Dip kısmında hayvanın soluk almasını sağlayacak delikler bulunan bir maske içerisine gaz kompres yerleştirilerek yapılan yöntem hangisidir?",
+          "options": {
+            "A": "Açık Damlatma",
+            "B": "Yarı Açık Damlatma Yöntemi",
+            "C": "Kapalı Devre Entübasyon",
+            "D": "Cam Fanus"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; delikli maske içine gaz kompres konulması Yarı Açık Damlatma Yöntemidir (Slayt 13).",
+          "distractorAnalysis": "Slayt 13'te bu teknik ayrıntılı tarif edilmiştir.",
+          "slideNumber": 13
+        },
+        {
+          "id": "mcq_inh_018",
+          "question": "Anestezi kutusu ve cam fanus yöntemi sıklıkla hangi hasta grubunun anestezisi için tercih edilir?",
+          "options": {
+            "A": "Yarış atları",
+            "B": "Süt sığırları",
+            "C": "Küçük laboratuvar hayvanları",
+            "D": "Büyük ırk köpekler"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; anestezi kutusu ve cam fanus küçük laboratuvar hayvanlarının anestezisinde uygulanır (Slayt 14).",
+          "distractorAnalysis": "Kemirgenler kutu içine konularak buhar solutulur.",
+          "slideNumber": 14
+        },
+        {
+          "id": "mcq_inh_019",
+          "question": "Hayvanın trakeası içerisine tüp yerleştirilerek anestezi cihazı ile bağlantı kurulması esasına dayanan yöntem hangisidir?",
+          "options": {
+            "A": "Açık Damlatma Yöntemi",
+            "B": "Endotrakeal Entübasyon Aracılığı ile Anestezi",
+            "C": "Anestezi Kutusu",
+            "D": "Damla infüzyonu"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; trakeaya tüp yerleştirilip cihazla solutulması Endotrakeal Entübasyon yöntemidir (Slayt 15).",
+          "distractorAnalysis": "Modern anestezinin temelidir.",
+          "slideNumber": 15
+        },
+        {
+          "id": "mcq_inh_020",
+          "question": "Aşağıdakilerden hangisi ideal bir inhalasyon anesteziğinde bulunması gereken özelliklerden biri DEĞİLDİR?",
+          "options": {
+            "A": "Solunum yolları için irritan olmamalı ve kötü kokmamalı",
+            "B": "Hızlı indüksiyon ve uyanma sağlamalı",
+            "C": "Yanıcı ve patlayıcı olmalı",
+            "D": "Toksik olmamalı ve ucuz olmalı"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği yanlıştır; ideal anesteziğin yanıcı ve patlayıcı OLMAMASI gerekir (Slayt 16).",
+          "distractorAnalysis": "A, B ve D şıkları ideal anesteziğin aranan özellikleridir.",
+          "slideNumber": 16
+        },
+        {
+          "id": "mcq_inh_021",
+          "question": "İlk kullanılan anesteziklerden olan Dietil eterin ameliyathanelerde patlamalara neden olabilen fiziksel tehlikesi nedir?",
+          "options": {
+            "A": "Radyoaktif olması",
+            "B": "Elektrikli aletlerin olduğu ortamlarda yanıcı ve patlayıcı olması",
+            "C": "Oksijenle birleşince donması",
+            "D": "Yüksek basınca dayanıksız olması"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; elektrikli aletlerin olduğu ortamlarda kullanılması patlamalara neden olabilir (Slayt 17).",
+          "distractorAnalysis": "Elektrokoter ve elektrikli cerrahi aletler eter buharını ateşleyebilir.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_inh_022",
+          "question": "Dietil eterin indüksiyonunun ve uyanmasının OLDUKÇA YAVAŞ olmasının fiziko-kimyasal nedeni nedir?",
+          "options": {
+            "A": "Molekül ağırlığının sıfır olması",
+            "B": "Kan/gaz erime katsayısının çok yüksek olması",
+            "C": "Kanda hiç çözünmemesi",
+            "D": "Akciğerlerden hiç emilmemesi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kan/gaz erime katsayısı çok yüksek olduğu için indüksiyon ve uyanma oldukça yavaştır (Slayt 17).",
+          "distractorAnalysis": "Kanda aşırı çözündüğü için beyne geçişi ve temizlenmesi gecikir.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_inh_023",
+          "question": "Nitrous oxide (N2O) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+          "options": {
+            "A": "Aşırı derecede yanıcı ve patlayıcıdır",
+            "B": "Yanıcı ve patlayıcı değildir; veteriner anestezide güçlü analjezik özelliğinden dolayı kullanılır",
+            "C": "Tek başına en derin cerrahi anesteziyi sağlar",
+            "D": "Kan/gaz erime katsayısı çok yüksek olduğundan uyanması günler sürer"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; N2O yanıcı/patlayıcı değildir, analjeziktir ve diğer ajanların etkisini artırır (Slayt 18).",
+          "distractorAnalysis": "A, C ve D şıkları N2O özelliklerinin tam tersidir.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_inh_024",
+          "question": "Nitrous oxide (N2O) gazının pratik veteriner cerrahi kullanımında oksijen ile karışım oranı nasıldır?",
+          "options": {
+            "A": "1:1 oranında (%50 O2 - %50 N2O)",
+            "B": "1:10 oranında (%10 O2 - %90 N2O)",
+            "C": "Saf N2O (%100 N2O)",
+            "D": "1:50 oranında"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; pratik kullanımda oksijen ile 1:1 oranında kullanılır (Slayt 18).",
+          "distractorAnalysis": "Hipoksiyi önlemek için oksijen oranı en az %50 tutulmalıdır.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_inh_025",
+          "question": "Halotanın (Halothane) MAC değeri ve analjezik özelliği hangisinde doğru verilmiştir?",
+          "options": {
+            "A": "MAC 100 / Çok güçlü analjezik",
+            "B": "MAC 0.74 (güçlü bir anestezik) / Analjezik özelliği iyi değildir",
+            "C": "MAC 5.0 / Analjezisi yoktur",
+            "D": "MAC 0.01 / Kusursuz analjeziktir"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; Halotan güçlüdür (MAC 0.74) ancak analjezik özelliği iyi değildir (Slayt 19).",
+          "distractorAnalysis": "Slayt 19'da 'Güçlü bir inhalasyon anesteziğidir (MAC 0.74)... analjezik özelliği iyi değildir' denilmiştir.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_inh_026",
+          "question": "Halotan uygulanması serebral kan akımı ve beyin omurilik sıvısı (BOS) üzerinde nasıl bir etki oluşturur?",
+          "options": {
+            "A": "Serebral kan akışını azaltır ve BOS emilimini artırır",
+            "B": "Serebral kan akışını arttırır ve BOS emilimini azaltarak intrakraniyal basınçta artmaya neden olur",
+            "C": "Beyin damarlarını tamamen büzer",
+            "D": "BOS yapımını tamamen durdurur"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; halotan serebral kan akışını artırır ve BOS emilimini azaltarak kafa içi basıncı artırır (Slayt 19).",
+          "distractorAnalysis": "Bu nedenle kafa travmasında tavsiye edilmez.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_inh_027",
+          "question": "Halotanın karaciğer hastalıklarında KULLANILMAMASININ temel nedeni nedir?",
+          "options": {
+            "A": "%20 - 40 oranında karaciğerde metabolize olması",
+            "B": "Karaciğere hiç uğramaması",
+            "C": "Safra kesesini patlatması",
+            "D": "Karaciğer enzimlerini tamamen yok etmesi"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; %20-40 oranında karaciğerde metabolize olmasından dolayı karaciğer hastalıklarında kullanılmaz (Slayt 19).",
+          "distractorAnalysis": "Yüksek metabolizma oranı halotan hepatiti riskini doğurur.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_inh_028",
+          "question": "1970-1980 yıllarında sıklıkla kullanılmış olan, İzofluranın izomeri olan ve serebral kan akımını halotandan daha fazla artıran anestezik hangisidir?",
+          "options": {
+            "A": "Enflurane (Enfluran)",
+            "B": "Metoksifluran",
+            "C": "Sevofluran",
+            "D": "Dietil eter"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; Enfluran izofluranın izomeridir ve serebral akımı halotandan çok artırır (Slayt 20).",
+          "distractorAnalysis": "Slayt 20'de özellikleri sıralanmıştır.",
+          "slideNumber": 20
+        },
+        {
+          "id": "mcq_inh_029",
+          "question": "İzofluranın (Isoflurane) maske ile indüksiyonda kullanılmasını sınırlandıran fiziksel özelliği nedir?",
+          "options": {
+            "A": "Tatlı kokusu",
+            "B": "Keskin kokusu",
+            "C": "Kokusuz olması",
+            "D": "Sarı renkli duman çıkarması"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; keskin kokusu indüksiyonda kullanılmasını sınırlar (Slayt 21).",
+          "distractorAnalysis": "Keskin koku hayvanlarda solunum tutma refleksi başlatır.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_inh_030",
+          "question": "Veteriner cerrahide Enfluran yerine İzofluran kullanılmasının iki temel gerekçesi hangisinde verilmiştir?",
+          "options": {
+            "A": "Daha ucuz olması ve sarı renkli olması",
+            "B": "Kaslarda miyorelaksan etkisinin daha fazla olması ve daha düşük kan:gaz katsayısından dolayı kısa sürede uyanma sağlaması",
+            "C": "Böbrekten hiç atılmaması ve kalbi hızlandırması",
+            "D": "Sadece atlarda kullanılabilmesi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kas gevşetici etkisinin fazla olması ve düşük kan:gaz katsayısıyla hızlı uyanma sağlamasıdır (Slayt 21).",
+          "distractorAnalysis": "Slayt 21'in son paragrafında açıkça belirtilmiştir.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_inh_031",
+          "question": "Kafa travması geçiren, beyin tümörü olan veya intrakraniyal basıncı yüksek hayvanlarda İzofluranın TERCİH EDİLMESİNİN nedeni nedir?",
+          "options": {
+            "A": "Serebrospinal sıvı (BOS) emilimini arttırması ancak yapımını arttırmayarak kafa içi basıncı azaltması",
+            "B": "Beyin dokusunu tamamen dondurması",
+            "C": "Serebral kan akımını 5 katına çıkarması",
+            "D": "Kafatası kemiklerini esnetmesi"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; BOS emilimini artırır yapımını artırmaz, bu nedenle kafa içi basınç ve BOS hacminde azalma yapar (Slayt 22).",
+          "distractorAnalysis": "Slayt 22'de kırmızıyla vurgulanmış kritik klinik endikasyondur.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_inh_032",
+          "question": "İzofluranın vücutta (karaciğerde) metabolize olma oranı yaklaşık ne kadardır?",
+          "options": {
+            "A": "%50",
+            "B": "%20 - 40",
+            "C": "%5",
+            "D": "%0.2"
+          },
+          "correctAnswer": "D",
+          "explanation": "D seçeneği doğrudur; İzofluranın metabolize olma oranı sadece %0.2'dir (Slayt 22).",
+          "distractorAnalysis": "Neredeyse tamamen akciğerlerden değişmeden atılır.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_inh_033",
+          "question": "Tatlı kokulu olan, solunum yollarını irrite etmeyen ve bu sayede maske ile indüksiyonda rahatlıkla tercih edilen anestezik hangisidir?",
+          "options": {
+            "A": "Sevoflurane (Sevofluran)",
+            "B": "Dietil eter",
+            "C": "Halotan",
+            "D": "Desfluran"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; Sevofluran tatlı kokuludur ve solunum yollarını irrite etmez, indüksiyonda çok rahattır (Slayt 23).",
+          "distractorAnalysis": "İzofluran ve desfluran keskin kokuluyken sevofluran tatlı kokuludur.",
+          "slideNumber": 23
+        },
+        {
+          "id": "mcq_inh_034",
+          "question": "Sevofluranın intrakraniyal basınç ve karaciğer metabolizması ile ilgili özellikleri hangisinde doğru verilmiştir?",
+          "options": {
+            "A": "İntrakraniyal basıncı aşırı yükseltir / %50 metabolize olur",
+            "B": "İntrakraniyal basıncı izoflurana göre daha stabil tutar / Karaciğerde %5'i metabolize olur",
+            "C": "BOS yapımını durdurur / %90 metabolize olur",
+            "D": "Yalnızca böbrekte metabolize olur"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; intrakraniyal basıncı izoflurana göre daha stabil tutar, karaciğerde %5'i metabolize olur (Slayt 23).",
+          "distractorAnalysis": "Slayt 23'te açıkça belirtilmiştir.",
+          "slideNumber": 23
+        },
+        {
+          "id": "mcq_inh_035",
+          "question": "Kanda çözünebilirliği çok düşük olduğu için anestezik ajanlar içinde 'EN HIZLI İNDÜKSİYON VE UYANMA' sağlayan madde hangisidir?",
+          "options": {
+            "A": "Dietil eter",
+            "B": "Halotan",
+            "C": "Desflurane (Desfluran)",
+            "D": "Metoksifluran"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; Desfluran kanda çözünürlüğü çok düşük olduğundan en hızlı indüksiyon ve uyanmayı sağlar (Slayt 24).",
+          "distractorAnalysis": "Slayt 24'ün ilk cümlesinde belirtilmiştir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_inh_036",
+          "question": "Aşağıdakilerden hangisi Desfluranın klinik kullanımını sınırlandıran temel dezavantajlarından biridir?",
+          "options": {
+            "A": "Anestezik gücünün düşük olması, keskin kokusu, taşikardi/solunum irritasyonu yapabilmesi ve pahalı fiyatı",
+            "B": "Aşırı yavaş uyanma sağlaması",
+            "C": "Karaciğerde %80 metabolize olması",
+            "D": "Sadece oda havasıyla solutulabilmesi"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; anestezik gücü düşük, keskin kokulu, irritan, taşikardi yapabilen ve pahalı bir ajandır (Slayt 24).",
+          "distractorAnalysis": "B, C ve D seçenekleri desfluranın özellikleriyle çelişir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_inh_037",
+          "question": "İnhalasyon anesteziklerinden hangisi yüksek konsantrasyonlarda verildiğinde taşikardiye ve solunum yollarında belirgin irritasyona neden olabilir?",
+          "options": {
+            "A": "Sevofluran",
+            "B": "Desfluran",
+            "C": "Halotan",
+            "D": "Azot protoksit"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; Desfluran yüksek konsantrasyonda taşikardiye ve solunum yolu irritasyonuna yol açabilir (Slayt 24).",
+          "distractorAnalysis": "Slayt 24'ün 3. maddesinde belirtilmiştir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_inh_038",
+          "question": "Aşağıdaki anesteziklerden hangisi yanıcı ve patlayıcı özelliğe sahip olduğu için günümüzde ameliyathanelerde terk edilmiştir?",
+          "options": {
+            "A": "Halotan",
+            "B": "İzofluran",
+            "C": "Dietil eter",
+            "D": "Sevofluran"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; Dietil eter yanıcı ve patlayıcıdır (Slayt 17).",
+          "distractorAnalysis": "Halotan, izofluran ve sevofluran yanıcı ve patlayıcı değildir.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_inh_039",
+          "question": "Veteriner hekimlikte anestezik derinliğin takibinde MAC değerinin 1.3 katı (1.3 x MAC) genellikle neyi ifade eder?",
+          "options": {
+            "A": "Ölümcül doz sınırını",
+            "B": "Cerrahi anestezi derinliğini (hastaların %95'inde cerrahi kesiye yanıtı önleyen dozu)",
+            "C": "Uyanma anını",
+            "D": "Premedikasyon öncesi dozu"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; 1 MAC hastaların %50'sinde, 1.3 - 1.5 MAC ise cerrahi işlemler için gereken güvenli derinliği sağlar (Slayt 10).",
+          "distractorAnalysis": "1 MAC cerrahi için tek başına yetersiz kalabilir, 1.3 MAC cerrahi standarttır.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_inh_040",
+          "question": "Hangi inhalasyon anesteziği gebe hayvanlarda uterus gevşemesi ve fetal risk nedeniyle tavsiye edilmez?",
+          "options": {
+            "A": "Halothane",
+            "B": "Metoksifluran",
+            "C": "Sevofluran",
+            "D": "Azot protoksit"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; gebe hayvanlarda ve kafa içi basıncı artmış olanlarda Halotan kullanımı tavsiye edilmez (Slayt 19).",
+          "distractorAnalysis": "Slayt 19'da açıkça 'Gebe hayvanlarda... kullanımı tavsiye edilmez' denilmiştir.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_inh_041",
+          "question": "İnhalasyon anesteziklerinin alım ve dağılımında dokulardaki yağ oranının rolü nedir?",
+          "options": {
+            "A": "Hiçbir etkisi yoktur",
+            "B": "Lipofilik olan anestezik gazlar yağ dokusunda depolanabilir ve bu durum dağılım ile uyanma süresini etkiler",
+            "C": "Yağ dokusu gazı imha eder",
+            "D": "Yağ oranı yüksekse anestezi asla oluşmaz"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; dokulardaki yağ oranı anestezik maddenin alımını, dokulara dağılımını ve vücuttan atılmasını etkiler (Slayt 5).",
+          "distractorAnalysis": "Lipofilik anestezikler yağda tutularak redistribüsyon gösterir.",
+          "slideNumber": 5
+        },
+        {
+          "id": "mcq_inh_042",
+          "question": "İnhalasyon anestezisinde 'Anestezi derinliğinin kontrol edilmesi kolaydır' ifadesi özellikle hangi iki modern ajan için en belirgindir?",
+          "options": {
+            "A": "Eter ve Kloroform",
+            "B": "İzofluran ve Sevofluran",
+            "C": "Siklopropan ve Metoksifluran",
+            "D": "Azot protoksit ve Eter"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; düşük kan/gaz çözünürlükleri sayesinde İzofluran ve Sevofluran ile derinlik kontrolü son derece kolay ve hızlıdır (Slayt 21, 23).",
+          "distractorAnalysis": "Modern ajanların en büyük konforudur.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_inh_043",
+          "question": "Aşağıdaki inhalasyon ajanlarından hangisinin karaciğerde metabolize olma oranı EN DÜŞÜKTÜR?",
+          "options": {
+            "A": "Halotan (%20-40)",
+            "B": "Sevofluran (%5)",
+            "C": "Enfluran (%2-5)",
+            "D": "İzofluran (%0.2)"
+          },
+          "correctAnswer": "D",
+          "explanation": "D seçeneği doğrudur; İzofluran sadece %0.2 metabolize olma oranı ile açık ara en düşük orana sahiptir (Slayt 22).",
+          "distractorAnalysis": "Halotan %20-40, Sevofluran %5, Enfluran %2-5'tir.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_inh_044",
+          "question": "Mukoz membranlarda irritasyon oluşturmayan ve sekresyona neden olmayan güçlü ajan hangisidir?",
+          "options": {
+            "A": "Halothane",
+            "B": "Dietil eter",
+            "C": "Desfluran",
+            "D": "Kloroform"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; Halotan mukoz membranlarda irritasyon oluşturmaz ve sekresyona neden olmaz (Slayt 19).",
+          "distractorAnalysis": "Eter ve desfluran irritandır; halotan mukozayı tahriş etmez.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_inh_045",
+          "question": "Küçük hayvanlarda anestezi cihazına monte edilebilen maskeler kullanılarak hangi işlem sağlanabilir?",
+          "options": {
+            "A": "Anestezinin indüksiyonunun sağlanması ya da kısa süreli genel anestezi oluşturulması",
+            "B": "Yalnızca kan sayımı yapılması",
+            "C": "Diş çekimi operasyonunun 5 saat sürdürülmesi",
+            "D": "Hayvanın vücut ağırlığının ölçülmesi"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; maskelerle indüksiyon veya kısa süreli anestezi sağlanır (Slayt 15).",
+          "distractorAnalysis": "Slayt 15'in son cümlesinde belirtilmiştir.",
+          "slideNumber": 15
+        },
+        {
+          "id": "mcq_inh_046",
+          "question": "İnhalasyon anesteziğinde 'kan/gaz erime katsayısının çok düşük olması' ne anlama gelir?",
+          "options": {
+            "A": "Anesteziğin kanda çok fazla çözünüp uyanmanın saatler sürmesi",
+            "B": "Anesteziğin kanda az çözünerek kanda ve beyinde parsiyel basıncının süratle yükselmesi ve uyanmanın da çok çabuk olması",
+            "C": "Anesteziğin sadece suda erimesi",
+            "D": "Anesteziğin damarları tıkaması"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; düşük kan/gaz katsayısı hızlı indüksiyon ve hızlı uyanma demektir (Slayt 18, 21, 24).",
+          "distractorAnalysis": "Kanda az eriyen gaz hızla beyne geçer ve kandan hızla atılır.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_inh_047",
+          "question": "Aşağıdakilerden hangisi N2O'nun diğer inhalasyon anestezikleriyle kombine edilmesinin temel klinik gerekçesidir?",
+          "options": {
+            "A": "Onların etkilerini arttırıcı (MAC değerlerini düşürücü) özelliğe sahip olması",
+            "B": "Onların fiyatını artırmak",
+            "C": "Vaporizatörün ısınmasını sağlamak",
+            "D": "Kanisterdeki sodalime'ı korumak"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; diğer anesteziklerle kombine kullanılır ve onların etkilerini artırıcı özelliğe sahiptir (Slayt 18).",
+          "distractorAnalysis": "İkinci gaz etkisi ve MAC azaltıcı sinerji sağlar.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_inh_048",
+          "question": "İzofluran anestezisinde iskelet kaslarının durumu nasıldır?",
+          "options": {
+            "A": "Aşırı derecede sertleşir ve kasılır (rijidite)",
+            "B": "Çok iyi düzeyde kas gevşemesi (miyorelaksasyon) meydana gelir",
+            "C": "Tetanik kramplar başlar",
+            "D": "Kas tonusu hiç değişmez"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; İzofluran anestezisi ile çok iyi düzeyde kas gevşemesi meydana gelir (Slayt 21).",
+          "distractorAnalysis": "Cerrahi rahatlık sağlayan güçlü miyorelaksan etkisi vardır.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_inh_049",
+          "question": "Sevofluran kanda eriyebilirliğinin çok düşük olması sayesinde ne sağlar?",
+          "options": {
+            "A": "Kısa sürede indüksiyon ve uyanma sağlar",
+            "B": "Uyanmayı 24 saat geciktirir",
+            "C": "Kandaki trombositleri tüketir",
+            "D": "Kan basıncını iki katına çıkarır"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; kanda eriyebilirliği çok düşük olduğu için kısa sürede indüksiyon ve uyanma sağlar (Slayt 23).",
+          "distractorAnalysis": "Slayt 23'te açıkça belirtilmiştir.",
+          "slideNumber": 23
+        },
+        {
+          "id": "mcq_inh_050",
+          "question": "Solunum yollarındaki irritasyonundan dolayı diğer modern ajanlara kıyasla veteriner pratikte daha az sıklıkla kullanılan ajan hangisidir?",
+          "options": {
+            "A": "Desflurane",
+            "B": "Sevoflurane",
+            "C": "İsoflurane",
+            "D": "Nitrous oxide"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; solunum yollarındaki irritasyonundan dolayı Desfluran daha az sıklıkla kullanılır (Slayt 24).",
+          "distractorAnalysis": "Slayt 24'ün son cümlesinde ifade edilmiştir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_inh_051",
+          "question": "İnhalasyon anesteziklerinin vücuttan atılımında (uyanmada) rol oynayan en temel organ hangisidir?",
+          "options": {
+            "A": "Böbrekler",
+            "B": "Karaciğer",
+            "C": "Akciğerler",
+            "D": "Deri"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; inhalasyon anestezikleri büyük oranda metabolize olmadan akciğer yolu ile atılır (Slayt 2, 9).",
+          "distractorAnalysis": "Solunum yolu ile eliminasyon temel prensiptir.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_inh_052",
+          "question": "Aşağıdaki anesteziklerden hangisi insan hekimliğinde kullanımı azalmasına rağmen günümüzde veteriner sahada 'en yaygın' kullanılan ajandır?",
+          "options": {
+            "A": "İsoflurane",
+            "B": "Eter",
+            "C": "Kloroform",
+            "D": "Siklopropan"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; insan hekimliğinde kullanımı azalmış ancak veteriner sahada yaygın olarak kullanılır (Slayt 21).",
+          "distractorAnalysis": "Slayt 21'in ilk cümlesidir.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_inh_053",
+          "question": "İndüksiyon ve uyanma dönemlerinde şiddetli bulantı ve kusmaya neden olabilen tarihsel inhalasyon anesteziği hangisidir?",
+          "options": {
+            "A": "Dietil eter",
+            "B": "Sevofluran",
+            "C": "İzofluran",
+            "D": "Desfluran"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; Dietil eter indüksiyon ve uyanma dönemlerinde bulantı ve kusmaya neden olabilir (Slayt 17).",
+          "distractorAnalysis": "Slayt 17'de eterin klasik komplikasyonu olarak verilmiştir.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_inh_054",
+          "question": "Halotan metabolitleri vücuttan hangi yolla atılır?",
+          "options": {
+            "A": "İdrar ile",
+            "B": "Tükürük ile",
+            "C": "Ter ile",
+            "D": "Safra taşı olarak"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; karaciğerde metabolize olan halotanın metabolitleri idrar ile atılır (Slayt 19).",
+          "distractorAnalysis": "Slayt 19'un son cümlesinde 'Oluşan metabolitler idrar ile atılır' ifadesi mevcuttur.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_inh_055",
+          "question": "Aşağıdaki anestezik gazlardan hangisi solunum havasında tek başına %80 konsantrasyonda verilse dahi cerrahi anestezi oluşturamaz?",
+          "options": {
+            "A": "İzofluran",
+            "B": "Halotan",
+            "C": "Nitrous oxide (N2O)",
+            "D": "Sevofluran"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; N2O tek başına kullanılması ile cerrahi anestezi oluşturulması mümkün değildir (Slayt 18).",
+          "distractorAnalysis": "MAC değeri hayvanlarda %100'ün üzerindedir.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_inh_056",
+          "question": "Anestezi gazı akciğerlere ulaştığında difüzyonun yönünü ve hızını belirleyen temel fiziksel etmen nedir?",
+          "options": {
+            "A": "Alveol ile kandaki gaz parsiyel basınç (yoğunluk) farkı",
+            "B": "Hastanın boyu",
+            "C": "Odanın aydınlığı",
+            "D": "Cihazın markası"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; alveol ile kandaki parsiyel basınç farkı difüzyonun yönünü ve akışını tayin eder (Slayt 6).",
+          "distractorAnalysis": "Gaz yüksek parsiyel basınçtan düşük olana diffüze olur.",
+          "slideNumber": 6
+        },
+        {
+          "id": "mcq_inh_057",
+          "question": "Halotanın keşfedildiği 1951 yılından önce yapılan cerrahi müdahalelerde karşılaşılan temel sorunlar nelerdi?",
+          "options": {
+            "A": "İleri derecede kardiyovasküler depresyon ve hepatik fonksiyonlarda kötüleşme",
+            "B": "Hastaların hiç uyuyamaması",
+            "C": "Kemik erimesi",
+            "D": "Göz tansiyonu artışı"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; halotan öncesi kardiyovasküler depresyon ve karaciğer fonksiyonlarında kötüleşme sıktı (Slayt 3).",
+          "distractorAnalysis": "Kloroform ve eterin ağır yan etkileri yaşanıyordu.",
+          "slideNumber": 3
+        },
+        {
+          "id": "mcq_inh_058",
+          "question": "İnhalasyon anesteziğinde 'akciğerlere dönen venöz kanın yeniden gaz ile yüklenmesi' döngüsü ne zaman yavaşlar?",
+          "options": {
+            "A": "Hasta su içtiğinde",
+            "B": "Dokularda ve beyinde anestezik yoğunluğu arttıkça (doygunluğa yaklaştıkça)",
+            "C": "Oksijen tüpü değiştirildiğinde",
+            "D": "Göz damlası damlatıldığında"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; dokularda ve beyinde anestezik yoğunluğu arttıkça anestezik alımı yavaşlar (Slayt 7, 8).",
+          "distractorAnalysis": "Konsantrasyon gradyenti azaldıkça alım hızı düşer.",
+          "slideNumber": 8
+        },
+        {
+          "id": "mcq_inh_059",
+          "question": "Sevofluran ile İzofluran intrakraniyal basınç (KİB) açısından kıyaslandığında Sevofluranın özelliği nedir?",
+          "options": {
+            "A": "Kafa içi basıncı izoflurana göre daha stabil tutar",
+            "B": "Kafa içi basıncı halotandan 10 kat fazla artırır",
+            "C": "BOS dolaşımını felç eder",
+            "D": "Beyin kanamasını başlatır"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; İntrakraniyal basıncı izoflurane göre daha stabil tutar (Slayt 23).",
+          "distractorAnalysis": "Slayt 23'te kelimesi kelimesine bu cümle yer alır.",
+          "slideNumber": 23
+        },
+        {
+          "id": "mcq_inh_060",
+          "question": "Aşağıdaki eşleştirmelerden hangisi 'Anestezik Madde - Karakteristik Özellik' açısından DOĞRUDUR?",
+          "options": {
+            "A": "Sevofluran - Keskin kokulu, irritan",
+            "B": "İzofluran - Kafa travmasında tercih edilir, %0.2 metabolize olur",
+            "C": "Dietil eter - Çok hızlı indüksiyon, patlayıcı değil",
+            "D": "N2O - En güçlü cerrahi anestezik"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; İzofluran kafa travmasında tercih edilir ve metabolize olma oranı %0.2'dir (Slayt 21, 22).",
+          "distractorAnalysis": "Sevofluran tatlı kokuludur; eter patlayıcı ve yavaştır; N2O en zayıftır.",
+          "slideNumber": 22
+        }
+      ],
+      "openEndedQuestions": [
+        {
+          "id": "au_inh_001",
+          "question": "İnhalasyon anesteziklerinin enjektabl anesteziklere kıyasla farmakokinetik üstünlüklerini ve klinik kullanım kolaylığını açıklayınız.",
+          "idealAnswer": "Enjektabl anestezikler vücuda verildikten sonra eliminasyonları tamamen karaciğer metabolizmasına ve renal atılıma bağımlıdır; bu nedenle doz aşımında ilacı geri çekmek zordur. İnhalasyon anestezikleri ise akciğer yoluyla alınıp büyük oranda metabolize olmadan yine akciğerlerden ekspirasyonla atılır. En büyük klinik avantajı anestezi derinliğinin vaporizatör kadranı ile saniyeler içinde artırılıp azaltılabilmesi ve ilacın kesilmesiyle hastanın dakikalar içinde hızla uyanabilmesidir.",
+          "slideNumber": 2
+        },
+        {
+          "id": "au_inh_002",
+          "question": "İnhalasyon anestezisinde genel anestezi derinliğini doğrudan belirleyen faktörü ve bu faktörün beyin anatomisi/kan akımı ile ilişkisini açıklayınız.",
+          "idealAnswer": "Genel anestezi derinliği, doğrudan doğruya beyin dokusundaki anestezik maddenin parsiyel basıncı ile doğru orantılıdır. Kalpten çıkan kardiyak debinin yaklaşık 1/6'sı doğrudan beyne gittiği için kanda yükselen anestezik gaz hızla serebral dolaşıma ulaşır. Beyin dokusu lipoid bakımından oldukça zengindir; lipofilik özellikteki anestezik gazlar hızla kandan beyin dokusuna diffüze olur ve özellikle gri cevher (substantia grisea) nöronlarını deprese ederek anesteziyi oluşturur.",
+          "slideNumber": 4
+        },
+        {
+          "id": "au_inh_003",
+          "question": "İnhalasyon anestezisinde solunum havasından dokulara gaz geçişinin konsantrasyon gradyenti basamaklarını sırasıyla açıklayınız.",
+          "idealAnswer": "1) İnhalasyon başladığında inspirasyon havasındaki gaz yoğunluğu alveollerden fazla olduğu için solunum havasından alveollere doğru gaz akımı gerçekleşir. 2) Alveollerde biriken gazın yoğunluğu kandan yüksek olduğu için gaz alveol kapiller membranından kana diffüze olur ve kandaki konsantrasyon yükselir. 3) Kanda gaz yoğunluğu artıp periferik dokularda henüz bulunmadığı için kandan dokulara ve özellikle yüksek perfüze beyne difüzyon gerçekleşir.",
+          "slideNumber": 6
+        },
+        {
+          "id": "au_inh_004",
+          "question": "İnhalasyon indüksiyonunda neden başlangıçta yüksek gaz konsantrasyonu verilir ve sonrasında dozun idameye düşürülmemesi halinde ne şekillenir?",
+          "idealAnswer": "İnhalasyon anestezisinin çabuk oluşması için beyin dokusundaki gaz yoğunluğunun hızla eşik değere ulaştırılması gerekir; bu amaçla indüksiyonun başında yüksek yoğunlukta anestezik gaz solutulur. Dokularda gaz yoğunluğu arttıkça difüzyon yavaşlar. Eğer hasta istenen anestezi evresine ulaştıktan sonra gaz konsantrasyonu düşürülmeyip yüksek tutulmaya devam edilirse; alveol, kan ve beyindeki yoğunluk toksik seviyelere tırmanarak ölümcül 'doz aşımı' ve kardiyorespiratuvar arrest oluşturur. Bu nedenle stabil seviyeye gelince doz idameye çekilir.",
+          "slideNumber": 8
+        },
+        {
+          "id": "au_inh_005",
+          "question": "Anestezi sonunda hastaya saf oksijen verilmesiyle gerçekleşen uyanma (eliminasyon) sürecinin basamaklarını açıklayınız.",
+          "idealAnswer": "Saf oksijen verilmeye başlandığında alveollerdeki anestezik gaz ekspirasyonla atmosfere atılır ve alveoler yoğunluk aniden düşer. Yoğunluk farkı tersine döndüğü için bu kez kandan alveollere doğru gaz difüzyonu gerçekleşir ve kandaki konsantrasyon hızla azalır. Ardından dokulardan ve özellikle beyin dokusundan gaz kana doğru diffüze olur. Sonuçta beyindeki anestezik konsantrasyonu kritik eşiğin altına iner ve beyin anestezik etkiden kurtularak uyanma gerçekleşir.",
+          "slideNumber": 9
+        },
+        {
+          "id": "au_inh_006",
+          "question": "Minimum Alveoler Konsantrasyon (MAC) kavramını tanımlayarak, MAC değeri ile anestezik gücün ilişkisini Metoksifluran ve N2O üzerinden açıklayınız.",
+          "idealAnswer": "MAC; standart bir zararlı (ağrılı) uyarana karşı test edilen bireylerin %50'sinde kas kontraksiyonu (motor yanıt) oluşmasını önleyen alveoler anestezik konsantrasyondur. Kısaca 100 denekten 50'sinde genel anestezi oluşturan güç göstergesidir. MAC değeri ile anestezik güç ters orantılıdır; yani MAC değeri ne kadar küçükse anestezik o kadar güçlüdür. Metoksifluran en küçük MAC değerine sahip olduğu için en güçlü genel anesteziktir. N2O ise MAC değeri en yüksek (%100'ün üzerinde) anestezik olduğu için anestezik gücü en zayıf olandır.",
+          "slideNumber": 10
+        },
+        {
+          "id": "au_inh_007",
+          "question": "Açık ve yarı açık damlatma yöntemlerinin uygulama farklarını ve günümüzde neden terk edildiklerini açıklayınız.",
+          "idealAnswer": "Açık damlatma yönteminde sıvı anestezik (genelde eter) gazlı beze damlatılıp doğrudan hayvanın ağız-burnu kapatılarak solutulur. Yarı açık yöntemde ise anestezik emdirilmiş bez delikli özel bir maske içine yerleştirilir ve hayvan maskeden solur. Günümüzde bu yöntemlerin terk edilme nedenleri: Anestezi derinliğinin hassas kontrol edilememesi, aşırı gaz israfı ve ameliyathane havasına toksik gaz yayılması, personelin maruziyeti, modern anestezi makineleri ve vaporizatörlerin geliştirilmiş olmasıdır.",
+          "slideNumber": 13
+        },
+        {
+          "id": "au_inh_008",
+          "question": "Endotrakeal entübasyon tekniğinin açık ve maskeli inhalasyon yöntemlerine kıyasla cerrahi ve anestezi güvenliği açısından üstünlüklerini yazınız.",
+          "idealAnswer": "Endotrakeal entübasyon; trakeaya yerleştirilen kaflı tüp sayesinde hava yolunu mutlak güvenceye alır. Avantajları: 1) Solunum depresyonu veya arrest durumunda mekanik ventilatör veya rezerv balonu ile pozitif basınçlı yapay solunum yaptırılmasına imkan tanır. 2) Regürgitasyon ve kusmuk aspirasyonunu kesin olarak önler. 3) Anestezi gazının ameliyathaneye sızmasını engelleyerek personeli korur. 4) Ölü boşluğu azaltır ve anestezi derinliğinin hassas kontrolünü sağlar.",
+          "slideNumber": 15
+        },
+        {
+          "id": "au_inh_009",
+          "question": "İdeal bir inhalasyon anesteziğinde aranan 6 temel farmakolojik ve fiziksel özelliği yazınız.",
+          "idealAnswer": "1) Solunum yolları için irritan olmamalı ve kötü kokmamalıdır. 2) Hızlı indüksiyon ve uyanma sağlamalıdır. 3) Kardiyovasküler ve solunumsal yan etkileri minimal olmalı veya hiç bulunmamalıdır. 4) Organ toksisitesi (hepatotoksisite, nefrotoksisite) olmamalıdır. 5) Yanıcı ve patlayıcı olmamalıdır. 6) Ucuz olmalı ve premedikasyon ilaçları ile geçimli olmalıdır.",
+          "slideNumber": 16
+        },
+        {
+          "id": "au_inh_010",
+          "question": "Dietil eterin kan/gaz erime katsayısının yüksek olmasının klinik sonuçlarını ve günümüzde ameliyathanelerde kullanılmamasının nedenlerini açıklayınız.",
+          "idealAnswer": "Kan/gaz erime katsayısının çok yüksek olması, eterin kanda aşırı derecede çözünmesi demektir; bu durum kandaki parsiyel basıncın ve dolayısıyla beyindeki konsantrasyonun çok yavaş yükselmesine, atılırken de kandan çok yavaş temizlenmesine yol açar. Sonuç olarak indüksiyon ve anesteziden uyanma son derece yavaştır. Kullanılmama nedenleri: Solunum yollarına aşırı irritan olması, indüksiyon ve uyanmada şiddetli bulantı/kusma yapması ve ameliyathanelerdeki elektrikli aletlerle temasında patlama riski taşımasıdır.",
+          "slideNumber": 17
+        },
+        {
+          "id": "au_inh_011",
+          "question": "Nitrous oxide (N2O) gazının anestezi gücünü, analjezik etkisini, oksijenle karışım oranını ve tek başına kullanılamama gerekçesini açıklayınız.",
+          "idealAnswer": "Nitrous oxide'in anestezik gücü son derece düşüktür (MAC değeri >%100'dür), bu nedenle tek başına cerrahi anestezi oluşturması imkansızdır. Ancak çok güçlü bir analjeziktir. Hipoksiyi önlemek amacıyla pratik kullanımda daima oksijen ile 1:1 oranında (%50 O2 + %50 N2O) karıştırılarak uygulanır. Kan/gaz erime katsayısı çok düşük olduğu için kanda ve beyinde süratle yükselir ve hızla terk eder. Genellikle diğer güçlü inhalasyon anestezikleriyle kombine edilerek onların gereksinim duyulan dozunu (MAC) azaltmak amacıyla kullanılır.",
+          "slideNumber": 18
+        },
+        {
+          "id": "au_inh_012",
+          "question": "Halotanın intrakraniyal basınç (KİB) ve karaciğer üzerindeki patofizyolojik etkilerini açıklayarak, hangi hasta gruplarında kontrendike olduğunu belirtiniz.",
+          "idealAnswer": "Halotan serebral damarlarda vazodilatasyon yaparak serebral kan akışını artırır ve eş zamanlı olarak serebrospinal sıvının (BOS) emilimini azaltır; bu durum kafa içinde sıvı birikmesine ve intrakraniyal basıncın tehlikeli şekilde yükselmesine neden olur. Bu yüzden kafa travması ve beyin tümörü olanlarda önerilmez. Ayrıca halotan %20-40 gibi çok yüksek bir oranda karaciğerde metabolize edilir; hepatotoksik metabolitleri nedeniyle karaciğer hastalarında kesinlikle kontrendikedir. Uterusu gevşettiği için gebelerde de tavsiye edilmez.",
+          "slideNumber": 19
+        },
+        {
+          "id": "au_inh_013",
+          "question": "Enfluranın serebral kan akımı ve solunum sistemi üzerindeki etkilerini halotan ile karşılaştırarak açıklayınız.",
+          "idealAnswer": "Enfluran, izofluranın izomeridir. Serebral kan akımını halotandan bile daha fazla artırır; bu nedenle intrakraniyal basınç artışı şüphesi olan hastalarda kullanımı kesinlikle sakıncalıdır. Ayrıca solunum sistemi üzerinde önemli derecede solunum depresyonu meydana getirir. Karaciğerde metabolize olma oranı ise %2-5 arasındadır (halotana göre daha düşüktür).",
+          "slideNumber": 20
+        },
+        {
+          "id": "au_inh_014",
+          "question": "İzofluranın veteriner hekimlikte en yaygın kullanılan inhalasyon anesteziği olmasını sağlayan temel avantajları ve indüksiyondaki tek kısıtlayıcı yönünü açıklayınız.",
+          "idealAnswer": "Avantajları: Kandaki eriyebilirliğinin (kan/gaz katsayısı) düşük olması sayesinde indüksiyon ve anesteziden uyanma çok hızlıdır; anestezi derinliği kolayca kontrol edilir; çok iyi düzeyde iskelet kası gevşemesi (miyorelaksasyon) sağlar; karaciğerde metabolizma oranı sadece %0.2 olduğundan organ toksisitesi ihmal edilebilir düzeydedir. Tek kısıtlayıcı yönü: Keskin ve batıcı bir kokuya sahip olmasıdır; bu nedenle maske ile indüksiyonda hayvanlarda nefes tutma ve ajitasyona yol açabilir.",
+          "slideNumber": 21
+        },
+        {
+          "id": "au_inh_015",
+          "question": "İzofluranın beyin omurilik sıvısı (BOS) dinamikleri üzerindeki etkisini açıklayarak, kafa travmalı hastalarda neden ilk tercih olduğunu yazınız.",
+          "idealAnswer": "Halotanın aksine İzofluran, serebrospinal sıvı (BOS) emilimini artırır ancak BOS yapımını artırmaz. Bu spesifik mekanizma sayesinde kafa içi basınçta (intrakraniyal basınç) ve serebrospinal sıvı hacminde belirgin bir azalma meydana getirir. Bu eşsiz özelliği nedeniyle kafa travması geçiren, kafa içi basıncı yüksek olan veya beyin tümörü/operasyonu geçirecek hayvanlarda güvenle tercih edilen ideal anestezik maddedir.",
+          "slideNumber": 22
+        },
+        {
+          "id": "au_inh_016",
+          "question": "Sevofluranın koku ve hava yolu irritasyonu açısından izoflurandan farkını ve bu durumun maske indüksiyonuna yansımasını açıklayınız.",
+          "idealAnswer": "İzofluran keskin ve tahriş edici kokusu nedeniyle maske indüksiyonunda solunum tutma ve rahatsızlık yaratırken; Sevofluran tatlı kokuludur ve solunum yollarını kesinlikle irrite etmez. Bu mükemmel özelliği sayesinde hayvanlarda maske aracılığı ile anestezi indüksiyonu yapılmasında hiçbir dirençle karşılaşılmadan rahatlıkla ve güvenle kullanılır. Kanda eriyebilirliği de çok düşük olduğundan uyanma ve indüksiyon süresi son derece kısadır.",
+          "slideNumber": 23
+        },
+        {
+          "id": "au_inh_017",
+          "question": "Sevofluranın intrakraniyal basınç ve karaciğer metabolizması profilini özetleyiniz.",
+          "idealAnswer": "Sevofluran, intrakraniyal basıncı izoflurana göre daha stabil ve dengeli tutar; serebral hemodinamiyi bozmaz. Karaciğerde metabolize olma oranı yaklaşık %5'tir (halotanın %20-40'lık oranına kıyasla oldukça güvenlidir). Yanıcı ve patlayıcı değildir.",
+          "slideNumber": 23
+        },
+        {
+          "id": "au_inh_018",
+          "question": "Desfluranın en hızlı indüksiyon ve uyanma sağlayan ajan olmasına karşılık veteriner hekimlikte kullanımını kısıtlayan dezavantajlarını yazınız.",
+          "idealAnswer": "Desfluran kanda çözünürlüğü en düşük ajan olduğu için tüm anestezikler içinde en hızlı indüksiyon ve uyanmayı sağlar. Ancak dezavantajları: 1) Anestezik gücünün düşük olması (yüksek MAC gerektirir), 2) Keskin ve aşırı irritan kokusu olması, 3) Yüksek konsantrasyonlarda verildiğinde sempatik stimülasyonla taşikardiye ve solunum yollarında spazm/irritasyona yol açması, 4) Çok pahalı olması ve özel elektrikli ısıtmalı vaporizatör gerektirmesidir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "au_inh_019",
+          "question": "İnhalasyon anesteziklerinin karaciğerde metabolize olma oranlarını (Halotan, Enfluran, Sevofluran, İzofluran) büyükten küçüğe sıralayarak hepatotoksisite riskini karşılaştırınız.",
+          "idealAnswer": "Metabolize olma oranları: 1) Halotan: %20 - 40 (en yüksek metabolizma ve en yüksek hepatotoksisite riski), 2) Sevofluran: %5, 3) Enfluran: %2 - 5, 4) İzofluran: %0.2 (en düşük metabolizma, neredeyse sıfır hepatotoksisite). Bu sıralama nedeniyle karaciğer yetmezliği olan veya karaciğer fonksiyonları riskli hastalarda halotan kesinlikle kullanılmazken izofluran en güvenli seçenektir.",
+          "slideNumber": 19
+        },
+        {
+          "id": "au_inh_020",
+          "question": "Küçük laboratuvar hayvanlarında anestezi kutusu ve cam fanus kullanımının uygulama adımlarını ve güvenlik önlemini açıklayınız.",
+          "idealAnswer": "Uygulama: Kemirgen veya laboratuvar hayvanının yerleştirileceği kapalı şeffaf bir kutu/fanus içerisine sıvı anestezik madde ya bir enjektörle püskürtülür ya da gazlı bir beze emdirilerek tabana yerleştirilir. Kutu içinde buharlaşan anestezik gazı hayvan solur ve anesteziye girer. Güvenlik önlemi: Hayvanın derisi veya mukozasının sıvı anestezik madde ile doğrudan temas etmesini engellemek için gazlı bez tel bir ızgara altına konulmalı ve derinlik sürekli gözle takip edilerek aşırı maruziyet önlenmelidir.",
+          "slideNumber": 14
+        }
+      ]
     }
   ]
 }
