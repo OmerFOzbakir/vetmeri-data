@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const heroDesc = document.getElementById('hero-desc');
 
   // Kaydedilmiş son aktif modülü yükle
-  let currentModuleKey = localStorage.getItem('vetmeri_active_module') || 'inhalasyon';
+  let currentModuleKey = localStorage.getItem('vetmeri_active_module') || 'monitorizasyon';
   if (!allModules[currentModuleKey] && currentModuleKey !== 'hepsi') {
-    currentModuleKey = 'inhalasyon';
+    currentModuleKey = 'monitorizasyon';
   }
   if (moduleSelector) {
     moduleSelector.value = currentModuleKey;
@@ -31,16 +31,18 @@ document.addEventListener('DOMContentLoaded', () => {
       const genel_anestezi = allModules['genel_anestezi'] || {};
       const ekipmanlar = allModules['ekipmanlar'] || {};
       const inhalasyon = allModules['inhalasyon'] || {};
+      const monitorizasyon = allModules['monitorizasyon'] || {};
       return {
         id: 'hepsi',
         name: 'Tüm Konular (Kümülatif Havuz)',
         shortName: 'Kümülatif Soru Havuzu',
         icon: '📚',
-        badge: '423 Slayt • 440 Soru • 6 Ders Bir Arada',
+        badge: '458 Slayt • 505 Soru • 7 Ders Bir Arada',
         kategori: 'Veteriner Hekimlik',
         alt_kategori: 'Kümülatif Sınav Hazırlığı',
-        ozet: 'Anesteziye Giriş (38 Slayt), Preanestezik İlaçlar (74 Slayt), Sindirim Sistemi Hastalıkları (240 Slayt), Genel Anestezi (22 Slayt), Anestezi Ekipmanları (25 Slayt) ve İnhalasyon Anestezikleri (24 Slayt) derslerinin tüm soru ve bilgi kartlarını içeren birleşik çalışma havuzu.',
+        ozet: 'Anesteziye Giriş (38 Slayt), Preanestezik İlaçlar (74 Slayt), Sindirim Sistemi Hastalıkları (240 Slayt), Genel Anestezi (22 Slayt), Anestezi Ekipmanları (25 Slayt), İnhalasyon Anestezikleri (24 Slayt) ve Hasta Monitörizasyonu (35 Slayt) derslerinin tüm soru ve bilgi kartlarını içeren birleşik çalışma havuzu.',
         summarySections: [
+          ...(monitorizasyon.summarySections || []).map(s => ({ ...s, title: `[Monitörizasyon] ${s.title}` })),
           ...(inhalasyon.summarySections || []).map(s => ({ ...s, title: `[İnhalasyon] ${s.title}` })),
           ...(ekipmanlar.summarySections || []).map(s => ({ ...s, title: `[Ekipmanlar] ${s.title}` })),
           ...(genel_anestezi.summarySections || []).map(s => ({ ...s, title: `[Genel Anestezi] ${s.title}` })),
@@ -49,6 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ...(anestezi.summarySections || []).map(s => ({ ...s, title: `[Anestezi] ${s.title}` }))
         ],
         bilgi_kartlari: [
+          ...(monitorizasyon.bilgi_kartlari || []),
           ...(inhalasyon.bilgi_kartlari || []),
           ...(ekipmanlar.bilgi_kartlari || []),
           ...(genel_anestezi.bilgi_kartlari || []),
@@ -57,6 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ...(anestezi.bilgi_kartlari || [])
         ],
         acik_uclu_sorular: [
+          ...(monitorizasyon.acik_uclu_sorular || []),
           ...(inhalasyon.acik_uclu_sorular || []),
           ...(ekipmanlar.acik_uclu_sorular || []),
           ...(genel_anestezi.acik_uclu_sorular || []),
@@ -65,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
           ...(anestezi.acik_uclu_sorular || [])
         ],
         coktan_secmeli_sorular: [
+          ...(monitorizasyon.coktan_secmeli_sorular || []),
           ...(inhalasyon.coktan_secmeli_sorular || []),
           ...(ekipmanlar.coktan_secmeli_sorular || []),
           ...(genel_anestezi.coktan_secmeli_sorular || []),
@@ -74,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ]
       };
     }
-    return allModules[currentModuleKey] || allModules['inhalasyon'] || allModules['ekipmanlar'] || allModules['genel_anestezi'] || allModules['sindirim'] || window.MODULE_DATA;
+    return allModules[currentModuleKey] || allModules['monitorizasyon'] || allModules['inhalasyon'] || allModules['ekipmanlar'] || allModules['genel_anestezi'] || allModules['sindirim'] || window.MODULE_DATA;
   }
 
   let activeData = getActiveData();

@@ -8439,6 +8439,1368 @@
           "slideNumber": 14
         }
       ]
+    },
+    {
+      "id": "lesson_7",
+      "title": "7. Ders: Anestezi Hastasının Monitörizasyonu",
+      "subtitle": "35 Slayt • Solunum, PaCO2, EKG, Kan Basıncı, CRT & Refleksler",
+      "icon": "📊",
+      "summarySections": [
+        {
+          "title": "1. Anestezi Monitörizasyonunun Temel İlkeleri & Rutin Kontroller",
+          "icon": "⏱️",
+          "points": [
+            "Monitörizasyonun Amacı: Anestezinin güvenle sürdürülmesi, hayati organ perfüzyonundaki azalmanın önlenmesi ve sorunsuz uyanmanın temin edilmesidir (Slayt 2).",
+            "Takip Edilen Temel Parametreler: Solunum (sayı, derinlik, karakter), kalp frekansı, pulzasyon gücü, CRT, çene tonusu, göz pozisyonu, palpebral refleks, O2 akış hızı, IV sıvı hızı ve vücut ısısı (Slayt 2).",
+            "Kontrol Sıklığı: Sağlıklı anestezi hastaları cerrahi süresince her 3-5 dakikada bir düzenli olarak kontrol edilmeli ve kayıt tutulmalıdır (Slayt 2).",
+            "Derinlik, Analjezi & Kas Gevşemesi: Hayvanın yeterli derinlikte olup olmadığı kas tonusu ve reflekslerle; cerrahi uyarıya taşikardi/hareket cevabı analjezi ihtiyacıyla değerlendirilir (Slayt 3, 4)."
+          ]
+        },
+        {
+          "title": "2. Pulmoner Monitörizasyon: Solunum Sayısı, Hacmi & Kalıpları",
+          "icon": "🫁",
+          "points": [
+            "Fizyolojik Solunum Hızları: Uyanık köpeklerde 10-30/dk, kedilerde 25-40/dk; orta düzey cerrahi anestezide küçük hayvanlarda 8-20/dk, büyük hayvanlarda 6-10/dk'dır (Slayt 7).",
+            "Derin Anestezi Solunum Sınırları: Solunumun küçük hayvanlarda 8/dk, büyüklerde 6/dk altına düşmesi aşırı derin anesteziye işaret eder (Slayt 7).",
+            "Tidal Volüm & Hipoventilasyon: İnterkostal kas tonusunun azalmasıyla anestezi altındaki hastaların çoğunda tidal volüm en az %25 azalır ve solunum yüzeyselleşir (Slayt 8).",
+            "Özel Solunum Kalıpları: Morfin taşipne/hiperventilasyona yol açabilir; Ketamin ise inspirasyon sonrası uzun bekleme ile karakterize apnetik solunum yaptırır (Slayt 10, 12)."
+          ]
+        },
+        {
+          "title": "3. Atelektazi Yönetimi & Solunum Dinamikleri",
+          "icon": "💨",
+          "points": [
+            "Atelektazi Mekanizması: Yüzeysel solunum nedeniyle alt alveollere hava ulaşamaz ve alveoller kollabe olur (Slayt 9).",
+            "Solunum Desteği (Bagging): Anestezi cihazının rezerv balonu dikkatle ve ılımlı şekilde sıkılarak akciğerler periyodik olarak şişirilir; rutin olarak 5 dakikada bir uygulanır (Slayt 9).",
+            "Mekanik Ventilasyon: Atelektaziyi önlemede ve solunum parametrelerini sabit tutmada ventilatörlü anestezi cihazı altın standarttır (Slayt 9).",
+            "İnspirasyon / Ekspirasyon Oranı: Normalde inspirasyon 1-1.5 saniye, ekspirasyon ise 3-5 saniye sürer (Slayt 11)."
+          ]
+        },
+        {
+          "title": "4. Kan Gazları (PaCO2), Kapnografi & Pulse Oksimetri",
+          "icon": "📈",
+          "points": [
+            "PaCO2 Eşik Değerleri: < 28 mmHg hiperventilasyon, > 45 mmHg hipoventilasyon göstergesidir (Slayt 13).",
+            "Kritik PaCO2 Sınırları: > 60 mmHg aşırı respiratuar asidoz ve hipoksiye işaret eder (mekanik ventilasyon şarttır); < 20 mmHg şiddetli alkaloz oluşturarak serebral kan akımını azaltır (Slayt 13).",
+            "Kapnograf Cihazı: Ekspirasyon gazındaki CO2 konsantrasyonunu grafiksel (kapnogram) kaydeden, solunum sayısı ve çıkarılan CO2 miktarını veren cihazdır (Slayt 14).",
+            "Pulse Oksimetre & Hatalar: Arteriyel oksihemoglobin satürasyonunu noninvaziv ölçer. Şiddetli periferal vazokonstriksiyonda hatalı düşük okuyarak hastayı yalancı hipoksemik gösterebilir (Slayt 14)."
+          ]
+        },
+        {
+          "title": "5. Kardiyovasküler Sistem: Kalp Frekansı, Nabız & Perfüzyon",
+          "icon": "❤️",
+          "points": [
+            "Kabul Edilebilir Alt Sınırlar: Anestezide minimum kalp hızı köpeklerde 70/dk, kedilerde 100/dk'dır. Normal aralık 90-120/dk'dır (Slayt 15).",
+            "Bradikardi Nedenleri: Birçok anestezik miyokard ve iletim sistemini baskılar; düşük frekans aşırı derin anesteziye işaret edebilir (Slayt 15).",
+            "Nabız Palpasyon Bölgeleri: Femoral, lingual, karotid ve dorsal pedal arterler. Güçsüz nabız hipovolemi veya derin anestezik hipotansiyonu gösterir (Slayt 18).",
+            "Hız vs Sirkülasyon: Kalp atımının olması sirkülasyonun yeterli olduğunu tek başına kanıtlamaz; nabız dolgunluğu ve kan basıncıyla birlikte değerlendirilmelidir (Slayt 16)."
+          ]
+        },
+        {
+          "title": "6. Arteriyel Kan Basıncı, CRT & Sıvı Dengesi",
+          "icon": "🩺",
+          "points": [
+            "Normal Basınç Değerleri: Sistolik: 100-160 mmHg, Diastolik: 60-100 mmHg, Ortalama (MAP): 80-120 mmHg olmalıdır (Slayt 22).",
+            "Kritik İskemi Eşiği: Sistolik < 80 mmHg veya MAP < 60 mmHg altına düşerse serebral ve koroner perfüzyon yetersiz kalır (Slayt 22).",
+            "CRT & İdrar Çıkışı: Sistolik basınç 70-80 mmHg altına indiğinde CRT belirgin uzar; böbrek perfüzyonu çöktüğü için idrar atımı durur (Slayt 20).",
+            "Hipotansiyon & Kan Kaybı: En yaygın neden hipovolemidir (kristaloid/kolloid ile sağaltılır). Sağlıklı kedi-köpekler kan volümünün %15'ini (~13 ml/kg) şoksuz tolere edebilir (Slayt 23, 24)."
+          ]
+        },
+        {
+          "title": "7. Isı Regülasyonu: Hipotermi & Malign Hipertermi",
+          "icon": "🌡️",
+          "points": [
+            "Hipotermi Nedenleri: Anestezinin uzaması vücut ısısını 3°C veya daha fazla düşürür. Soğuk antiseptik, kas tonusunun/titremenin kaybı, metabolik yavaşlama, açılan vücut boşlukları ve vazodilatasyon etkendir (Slayt 25).",
+            "Malign Hipertermi Tehlikesi: Nadir fakat ölümcül bir komplikasyondur; özellikle Halotan anestezisinde tetiklenebilir ve derhal acil müdahale gerektirir (Slayt 25)."
+          ]
+        },
+        {
+          "title": "8. Refleksler, Kas Tonusu, Göz Dinamikleri & Uyanma Takibi",
+          "icon": "👁️",
+          "points": [
+            "Palpebral & Yutkunma Refleksi: Palpebral refleks göz kantusuna dokunularak aranır; ketaminde kaybolmaz, halotanda kaybolur. Yutkunma orta düzeyde kaybolur, uyanmada geri dönünce hasta ekstübe edilir (Slayt 26, 27).",
+            "Pedal & Korneal Refleks: Pulvinus sıkıştırmada bacağı çekme (pedal) anestezide kaybolur. Korneal refleksin kaybolması anestezinin tehlikeli şekilde derinleştiğini gösterir (Slayt 28).",
+            "Göz Pozisyonu & Pupil: Dönem I'de merkezde, Dönem II'de çeneye bakar (ventromedial), cerrahi dönemde merkeze döner. Merkezde göz + fiks midriyazis + ışıksızlık = tehlike/ölüm sınırıdır (Slayt 30, 31).",
+            "Cerrahi Uyarı Cevabı & Uyanma: Ligament/organ çekilmesinde taşikardi, hipertansiyon, lakrimasyon ağrıyı gösterir. Uyanma döneminde hasta uzaktan değil, her 5 dakikada bir yakından izlenmelidir (Slayt 33, 35)."
+          ]
+        }
+      ],
+      "flashcards": [
+        {
+          "id": "fc_mon_001",
+          "question": "Sağlıklı bir anestezi hastası operasyon boyunca hangi aralıklarla kontrol edilmelidir?",
+          "answer": "Sağlıklı hayvanların anestezi süresince her 3-5 dakikada bir hayati parametreleri düzenli olarak kontrol edilmeli ve kaydedilmelidir (Slayt 2)."
+        },
+        {
+          "id": "fc_mon_002",
+          "question": "Anestezi hastasının rutin monitörizasyonunda değerlendirilen temel fiziksel parametreler nelerdir?",
+          "answer": "Solunum (sayı, derinlik, karakter), kalp frekansı, pulzasyon gücü, mukoza rengi, CRT, çene kası gevşemesi, göz pozisyonu, palpebral refleks, O2 akış hızı, IV sıvı hızı ve vücut ısısı (Slayt 2)."
+        },
+        {
+          "id": "fc_mon_003",
+          "question": "Genel anestezide cerrahi uyarana karşı taşikardi veya hareket oluştuğunda yaklaşım ne olmalıdır?",
+          "answer": "Hasta ağrı veya yetersiz derinliktedir; cerrahiyi olumsuz etkiliyorsa anestezi derinleştirilir veya ilave analjezik (özellikle opioid) uygulanır. Cerrahiyi etkilemiyorsa anestezi gereksiz derinleştirilmemelidir (Slayt 4)."
+        },
+        {
+          "id": "fc_mon_004",
+          "question": "Laparotomi, torakotomi ve osteosentez operasyonlarında kas tonusunu kırmak için ne yapılmalıdır?",
+          "answer": "Anestezi derinliğini toksik seviyelere artırmak yerine, spesifik kas gevşetici ilaçlar (veya benzodiazepin/alfa2 agonist ilavesi) kullanılmalıdır (Slayt 5)."
+        },
+        {
+          "id": "fc_mon_005",
+          "question": "Anestezi altında orta düzey cerrahi dönemde küçük ve büyük hayvanlarda normal solunum sayısı kaçtır?",
+          "answer": "Küçük hayvanlarda: 8-20 soluk/dakika. Büyük hayvanlarda: 6-10 soluk/dakika (Slayt 7)."
+        },
+        {
+          "id": "fc_mon_006",
+          "question": "Solunum sayısının hangi kritik eşiklerin altına düşmesi tehlikeli derin anesteziye işaret eder?",
+          "answer": "Küçük hayvanlarda 8/dk'nın, büyük hayvanlarda 6/dk'nın altına düşmesi derin anestezi dönemine girildiğini gösterir (Slayt 7)."
+        },
+        {
+          "id": "fc_mon_007",
+          "question": "Anestezi uygulanan hayvanların çoğunda tidal volüm ne oranda azalır ve sebebi nedir?",
+          "answer": "Tidal volüm en az %25 azalır (hipoventilasyon). Sebebi, anesteziklerin inspirasyon sırasında interkostal kasların genişleme yeteneğini baskılamasıdır (Slayt 8)."
+        },
+        {
+          "id": "fc_mon_008",
+          "question": "Anestezi sırasında gelişen alveolar atelektazi nedir ve nasıl tedavi edilir?",
+          "answer": "Yetersiz havalanan alveollerin parsiyel kollabe olmasıdır. Anestezi cihazının rezerv balonu dikkatlice ve ılımlı sıkılarak (her 5 dakikada bir solunum desteği / bagging verilerek) akciğerler genişletilir (Slayt 9)."
+        },
+        {
+          "id": "fc_mon_009",
+          "question": "Taşipne ile hiperventilasyon arasındaki fark nedir?",
+          "answer": "Taşipne solunum sayısındaki artıştır (hızlı ve yüzeyseldir). Hiperventilasyon ise solunum derinliğindeki artıştır (Slayt 10)."
+        },
+        {
+          "id": "fc_mon_010",
+          "question": "Hangi analjezik grubunun uygulanması anestezi hastasında sıklıkla taşipneye neden olur?",
+          "answer": "Morfin ve türevleri (özellikle kedilerde veya eksitasyon/termoregülasyon değişimiyle) hızlı solunuma (taşipne) yol açabilir (Slayt 10)."
+        },
+        {
+          "id": "fc_mon_011",
+          "question": "Ketamin anestezisinde görülen tipik solunum kalıbı nedir ve nasıl tanımlanır?",
+          "answer": "Apnetik solunumdur. İnspirasyonu takiben, ekspirasyona geçmeden önce uzun bir duraklama (bekleme süresi) meydana gelir (Slayt 12)."
+        },
+        {
+          "id": "fc_mon_012",
+          "question": "Anestezi sırasında normal inspirasyon ve ekspirasyon süreleri ne kadardır?",
+          "answer": "İnspirasyon süresi 1 - 1.5 saniye, ekspirasyon süresi ise 3 - 5 saniye arasında değişir (Slayt 11)."
+        },
+        {
+          "id": "fc_mon_013",
+          "question": "Parsiyel karbondioksit basıncında (PaCO2) hipoventilasyon ve hiperventilasyon sınırları nelerdir?",
+          "answer": "PaCO2'nin 28 mmHg'nın altına düşmesi hiperventilasyonu; 45 mmHg'nın üzerine çıkması ise hipoventilasyonu gösterir (Slayt 13)."
+        },
+        {
+          "id": "fc_mon_014",
+          "question": "PaCO2 değerinin 60 mmHg'nın üzerine çıkması neyi gösterir ve klinik yaklaşım ne olmalıdır?",
+          "answer": "Aşırı respiratuar asidoz ve hipoksiye işaret eder; hastaya derhal mekanik ventilasyon desteği verilmelidir (Slayt 13)."
+        },
+        {
+          "id": "fc_mon_015",
+          "question": "PaCO2 değerinin 20 mmHg altına inmesinin beyin üzerindeki tehlikeli etkisi nedir?",
+          "answer": "Şiddetli solunum alkalozu serebral damarlarda vazokonstriksiyon yaparak serebral kan akımını azaltır ve serebral oksijenizasyonu bozar (Slayt 13)."
+        },
+        {
+          "id": "fc_mon_016",
+          "question": "Kapnograf cihazı klinikte hangi parametreleri gösterir?",
+          "answer": "Ekspirasyon sonu CO2 konsantrasyonunu grafiksel olarak sürekli kaydeder, solunum sayısını ve her solukta atılan CO2 miktarını ölçer (Slayt 14)."
+        },
+        {
+          "id": "fc_mon_017",
+          "question": "Pulse oksimetre probu nerelere takılır ve hangi durumda hatalı düşük (yalancı hipoksi) ölçer?",
+          "answer": "Dil, dudak, prepisyum veya kuyruğa takılır. Şiddetli periferik vazokonstriksiyon (örn. alfa-2 agonistler veya hipotermi) varlığında doku perfüzyonu azaldığı için hatalı düşük okur (Slayt 14)."
+        },
+        {
+          "id": "fc_mon_018",
+          "question": "Anestezide kabul edilebilir en düşük kalp frekansı köpek ve kedilerde kaçtır?",
+          "answer": "Köpeklerde en düşük 70/dk, kedilerde en düşük 100/dk'dır. Normal cerrahi anestezi aralığı ise 90-120/dk'dır (Slayt 15)."
+        },
+        {
+          "id": "fc_mon_019",
+          "question": "Kalp atım sesinin veya EKG'de QRS kompleksinin duyulması/görülmesi yeterli dolaşımı kanıtlar mı?",
+          "answer": "Hayır! Kalp frekansının varlığı sirkülasyonun yeterli olduğunu tek başına göstermez; mutlaka nabız dolgunluğu ve arteriyel kan basıncıyla birlikte değerlendirilmelidir (Slayt 16)."
+        },
+        {
+          "id": "fc_mon_020",
+          "question": "Köpek ve kedilerde periferal arteriyel pulzasyon en kolay hangi arterlerden palpe edilir?",
+          "answer": "Femoral arter, dorsal pedal arter, lingual arter ve karotid arterden palpe edilir (Slayt 18, 19)."
+        },
+        {
+          "id": "fc_mon_021",
+          "question": "Hangi inhalasyon anesteziği ve preanestezikler belirgin hipotansiyon oluşturur?",
+          "answer": "İnhalasyonlardan Halotan; preanesteziklerden ise periferik vazodilatasyon yapan Asepromazin ve Ksilazin belirgin hipotansiyon yapar (Slayt 17)."
+        },
+        {
+          "id": "fc_mon_022",
+          "question": "Kapiller Dolum Zamanının (CRT) uzaması hangi sistolik kan basıncı eşiğinde belirginleşir?",
+          "answer": "Sistolik kan basıncı 70-80 mmHg'nin altına düştüğünde periferal perfüzyon bozulur ve CRT belirgin şekilde uzar (Slayt 20)."
+        },
+        {
+          "id": "fc_mon_023",
+          "question": "İdrar atımının yavaşlaması veya durması anestezi sırasında neyin doğrudan göstergesidir?",
+          "answer": "Arteriyel kan basıncının düştüğünün ve renal perfüzyon basıncının yetersiz kaldığının en net göstergelerindendir (Slayt 20)."
+        },
+        {
+          "id": "fc_mon_024",
+          "question": "Hayvanlarda normal sistolik, diastolik ve ortalama kan basıncı (MAP) değerleri ne olmalıdır?",
+          "answer": "Sistolik: 100-160 mmHg, Diastolik: 60-100 mmHg, Ortalama kan basıncı (MAP): 80-120 mmHg olmalıdır (Slayt 22)."
+        },
+        {
+          "id": "fc_mon_025",
+          "question": "Serebral ve koroner perfüzyonun bozulduğu kritik kan basıncı eşikleri nelerdir?",
+          "answer": "Sistolik kan basıncının 80 mmHg'nin, ortalama kan basıncının (MAP) 60 mmHg'nin altına düşmesi hayati organ perfüzyonunu bozar (Slayt 22)."
+        },
+        {
+          "id": "fc_mon_026",
+          "question": "Anestezideki hipotansiyonun en önemli nedeni nedir ve nasıl tedavi edilir?",
+          "answer": "En önemli neden hipovolemidir; izotonik kristalloidler (Serum Fizyolojik, Laktatlı Ringer) ve gerekirse kolloid solüsyonlarla sıvı desteği yapılarak tedavi edilir (Slayt 23)."
+        },
+        {
+          "id": "fc_mon_027",
+          "question": "Sağlıklı kedi ve köpekler dolaşım şoku gelişmeksizin vücut kan volümünün yüzde kaçını tolere edebilir?",
+          "answer": "Kan volümünün %15'ini şok gelişmeden tolere edebilirler; bu miktar kedi ve köpeklerde yaklaşık 13 ml/kg'dır (Slayt 24)."
+        },
+        {
+          "id": "fc_mon_028",
+          "question": "Anestezi süresinin uzaması hastanın beden ısısını ne kadar düşürür ve temel nedenleri nelerdir?",
+          "answer": "3°C veya daha fazla düşürür. Nedenleri: Soğuk antiseptik/alkol uygulaması, titremenin olmaması, metabolizmanın yavaşlaması, açık vücut boşlukları ve vazodilatasyondur (Slayt 25)."
+        },
+        {
+          "id": "fc_mon_029",
+          "question": "Halotan anestezisinde görülebilen ölümcül hipertermi tablosuna ne ad verilir?",
+          "answer": "Malignant hipertermi (Malign Hipertermi) adı verilir; acilen önlem alınıp vücut ısısı düşürülmezse ölümle sonuçlanır (Slayt 25)."
+        },
+        {
+          "id": "fc_mon_030",
+          "question": "Ketamin ile Halotan anestezisinin palpebral refleks üzerindeki farkı nedir?",
+          "answer": "Ketamin anestezisinde palpebral refleks ortadan kalkmaz (korunur); Halotan anestezisinde ise tamamen ortadan kalkar (Slayt 26)."
+        },
+        {
+          "id": "fc_mon_031",
+          "question": "Korneal refleksin yok olması ne anlama gelir?",
+          "answer": "Anestezinin çok derin ve tehlikeli düzeye ulaştığını gösterir (Dönem III Plan 3'e kadar korunur, sonrasında kaybolur) (Slayt 28)."
+        },
+        {
+          "id": "fc_mon_032",
+          "question": "Anestezi dönemlerine göre göz küresi pozisyonu nasıl değişir?",
+          "answer": "Dönem I'de merkezde; Dönem II'de ventromedial (çeneye bakar); Cerrahi dönemde (Dönem III) tekrar merkezdedir (Slayt 30)."
+        },
+        {
+          "id": "fc_mon_033",
+          "question": "Göz küresinin merkezde olması, midriyazis ve ışık refleksinin olmaması neyi belgeler?",
+          "answer": "Anestezi derinliğinin tehlike sınırları içine (Dönem IV / solunum-dolaşım arresti öncesi) girdiğini gösterir (Slayt 31)."
+        },
+        {
+          "id": "fc_mon_034",
+          "question": "Cerrahi sırasında ovaryum ligamentinin çekilmesi veya organ manipülasyonunda ne tür yanıtlar oluşur?",
+          "answer": "Ağrı algılanır; sempatik deşarjla kalp frekansı ve kan basıncı artar, solunum hızlanır, lakrimasyon, salivasyon ve pedal hareketler görülebilir (Slayt 33)."
+        },
+        {
+          "id": "fc_mon_035",
+          "question": "Uyanma dönemindeki bir hastaya uzaktan bakarak takip yapmak neden yanlıştır?",
+          "answer": "Bu dönemde ölümcül bradikardi ve solunum yetmezliği gelişebilir; bunlar uzaktan gözle tespit edilemez, her 5 dakikada bir yakından mukoza, CRT ve nabız kontrol edilmelidir (Slayt 35)."
+        }
+      ],
+      "quizQuestions": [
+        {
+          "id": "mcq_mon_001",
+          "question": "Anestezi hastasının rutin monitörizasyonunda, stabil ve sağlıklı hayvanların hayati parametreleri cerrahi boyunca en geç hangi zaman aralığında kontrol edilmelidir?",
+          "options": {
+            "A": "Her 30 saniyede bir",
+            "B": "3 - 5 dakikada bir",
+            "C": "15 - 20 dakikada bir",
+            "D": "30 dakikada bir",
+            "E": "Sadece operasyon başında ve sonunda"
+          },
+          "correctAnswer": "B",
+          "explanation": "Slayt 2'de açıkça belirtildiği üzere, sağlıklı anestezi hastalarının operasyon boyunca her 3-5 dakikada bir düzenli olarak kontrol edilmesi gerekmektedir.",
+          "distractorAnalysis": "15-20 veya 30 dakika gibi uzun aralıklar akut gelişen hipotansiyon, hipoventilasyon veya kardiyak arresti fark etmek için çok geçtir.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_mon_002",
+          "question": "Aşağıdakilerden hangisi anestezi sırasında solunum fonksiyonunun izlenmesinde solunum sayısını ve ritmini belirlemek için doğrudan kullanılan fiziksel yöntemlerden biridir?",
+          "options": {
+            "A": "Sadece dil mukozasının rengine bakmak",
+            "B": "Anestezi cihazının rezerv balonunun veya göğüs kafesinin hareketlerini izlemek",
+            "C": "Sadece idrar torbasının doluluğunu ölçmek",
+            "D": "Vücut ısısını rektal prob ile takip etmek",
+            "E": "Kapiller dolum zamanını (CRT) kontrol etmek"
+          },
+          "correctAnswer": "B",
+          "explanation": "Solunum sayısı ve karakteri; göğüs kafesinin ekspansiyon hareketleri veya anestezi devresindeki rezerv balonunun inip kalkması izlenerek tayin edilir (Slayt 2).",
+          "distractorAnalysis": "CRT, mukoza rengi veya idrar dolaşım göstergeleridir; solunum frekansını göstermez.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_mon_003",
+          "question": "Anestezi derinliğinin tespit edilmesinde klinisyenin değerlendirdiği en temel iki klinik parametre aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Vücut ağırlığı ve deri elastikiyeti",
+            "B": "Kas tonusundaki azalma ve refleksler",
+            "C": "Kan glikoz düzeyi ve hematokrit değeri",
+            "D": "Tüy dökülmesi ve idrar rengi",
+            "E": "Ortam sıcaklığı ve nem oranı"
+          },
+          "correctAnswer": "B",
+          "explanation": "Anestezi derinliğinin belirlenmesinde özellikle iskelet kası tonusundaki azalma (örneğin çene tonusu) ve koruyucu refleksler (palpebral, pedal, korneal) dikkate alınır (Slayt 3).",
+          "distractorAnalysis": "Laboratuvar parametreleri derinlik kontrolünde anlık bilgi vermez.",
+          "slideNumber": 3
+        },
+        {
+          "id": "mcq_mon_004",
+          "question": "Genel anestezi altındaki bir hastada daha iyi düzeyde kas gevşemesi temin etmek amacıyla anesteziklere ilave olarak hangilerinin kullanılması önerilir?",
+          "options": {
+            "A": "Yalnızca sempatomimetik ajanlar",
+            "B": "Benzodiazepinler, fenotiyazin türevleri veya alfa-2 agonistler",
+            "C": "Sadece lokal vazokonstriktörler",
+            "D": "Solunum stimülanları (Doksapram)",
+            "E": "Antikolinesteraz inhibitörleri"
+          },
+          "correctAnswer": "B",
+          "explanation": "Daha iyi düzeyde kas gevşemesi ve dengeli anestezi için benzodiazepinler (diazepam, midazolam), fenotiyazinler (asepromazin) veya alfa-2 agonistler (ksilazin, medetomidin) genel anesteziklerle kombine edilir (Slayt 3).",
+          "distractorAnalysis": "Doksapram solunum stimülanıdır; sempatomimetikler kas gevşetmez.",
+          "slideNumber": 3
+        },
+        {
+          "id": "mcq_mon_005",
+          "question": "Yüzeysel anestezi altındaki bir hayvanda cerrahi uyarıya bağlı refleks veya spontan hareketlerin görülmesiyle ilgili klinik gerçek aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Hayvanın kesinlikle uyanık olduğunu ve cerrahiyi net olarak hatırlayacağını gösterir",
+            "B": "Bu hareketlerin varlığı, hayvanın ağrıyı bilinçli olarak algıladığı anlamına gelmez",
+            "C": "Derhal anestezi gazının maksimuma getirilmesini gerektiren acil bir krizdir",
+            "D": "Kalbin durmak üzere olduğunun ilk belirtisidir",
+            "E": "Spontan hareket sadece genel anestezi ölümle sonuçlandığında oluşur"
+          },
+          "correctAnswer": "B",
+          "explanation": "Slayt 4'te belirtildiği üzere, yüzeysel anestezide refleks ya da spontan hareketler meydana gelebilir ancak bu ağrıyı bilinçli olarak algıladığı anlamına gelmez.",
+          "distractorAnalysis": "Subkortikal ve spinal refleksler bilinçli kortikal algı olmaksızın da tetiklenebilir.",
+          "slideNumber": 4
+        },
+        {
+          "id": "mcq_mon_006",
+          "question": "Anestezi sırasında cerrahi müdahale taşikardi gibi sempatik uyarılara yol açıyor ancak hayvanın hafif hareketleri cerrahiyi olumsuz etkilemiyorsa doğru klinik yaklaşım hangisidir?",
+          "options": {
+            "A": "Anestezi derinliği artırılmamalı, gerekiyorsa analjezik eklenmelidir",
+            "B": "Hasta hemen uyandırılmalıdır",
+            "C": "Vaporizatör konsantrasyonu derhal üç katına çıkarılmalıdır",
+            "D": "Tüm sıvılar kesilmelidir",
+            "E": "Hasta entübe ise derhal ekstübe edilmelidir"
+          },
+          "correctAnswer": "A",
+          "explanation": "Hayvanın hareketleri cerrahi müdahaleyi olumsuz etkilemiyor ise anestezi derinliği gereksiz artırılmamalıdır; ağrı komponenti varsa ilave analjezik uygulanmalıdır (Slayt 4).",
+          "distractorAnalysis": "Gereksiz derinleştirme hipotansiyon ve solunum depresyonunu artırır.",
+          "slideNumber": 4
+        },
+        {
+          "id": "mcq_mon_007",
+          "question": "Torakotomi, laparotomi veya uzun sürecek osteosentez operasyonlarında kas tonusunu minimal düzeye indirmek için en rasyonel yaklaşım nedir?",
+          "options": {
+            "A": "Anestezi derinliğini tehlikeli boyutlara kadar artırmak",
+            "B": "Anestezi derinliğini artırmak yerine spesifik kas gevşetici ilaçları kullanmak",
+            "C": "Hastaya yüksek doz adrenalin enjekte etmek",
+            "D": "Sadece oksijen akışını kesmek",
+            "E": "Vücut ısısını kasıtlı olarak 30°C'ye düşürmek"
+          },
+          "correctAnswer": "B",
+          "explanation": "Bu tür operasyonlarda sadece kas gevşetmek için anestezi derinliğini artırmak kardiyotoksiktir; bunun yerine kas gevşetici ilaçların kullanılması esastır (Slayt 5).",
+          "distractorAnalysis": "Anesteziyi aşırı derinleştirmek kardiyovasküler kollapsa yol açar.",
+          "slideNumber": 5
+        },
+        {
+          "id": "mcq_mon_008",
+          "question": "Orta düzey cerrahi anestezi döneminde küçük hayvanlarda (kedi/köpek) ve büyük hayvanlarda normal solunum sayısı aralıkları sırasıyla hangisinde doğru verilmiştir?",
+          "options": {
+            "A": "Küçük: 25-40/dk | Büyük: 15-25/dk",
+            "B": "Küçük: 8-20/dk | Büyük: 6-10/dk",
+            "C": "Küçük: 2-4/dk | Büyük: 1-2/dk",
+            "D": "Küçük: 40-60/dk | Büyük: 20-30/dk",
+            "E": "Küçük: 1-5/dk | Büyük: 10-15/dk"
+          },
+          "correctAnswer": "B",
+          "explanation": "Orta düzey anestezi döneminde solunum sayısı büyük hayvanlarda 6-10/dk, küçük hayvanlarda ise 8-20/dk arasında olması normaldir (Slayt 7).",
+          "distractorAnalysis": "25-40 uyanık kedilerin solunum hızıdır; anestezide 8-20/dk normaldir.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_mon_009",
+          "question": "Anestezi altındaki bir kedi veya köpekte solunum sayısının dakikada kaçın altına düşmesi derin anestezi dönemine girildiğini gösterir?",
+          "options": {
+            "A": "8/dk",
+            "B": "15/dk",
+            "C": "20/dk",
+            "D": "25/dk",
+            "E": "30/dk"
+          },
+          "correctAnswer": "A",
+          "explanation": "Anestezi döneminde solunum sayısının küçük hayvanlarda 8/dk'nın (büyüklerde 6/dk'nın) altına düşmesi derin anesteziye girildiğini gösterir (Slayt 7).",
+          "distractorAnalysis": "8'in altı hipoventilasyon ve PaCO2 retansiyonu ile arrest riskidir.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_mon_010",
+          "question": "Anestezi uygulanan hayvanların çoğunda tidal volümün en az %25 azalmasının temel patofizyolojik sebebi nedir?",
+          "options": {
+            "A": "Mide içeriğinin bronşları tamamen tıkaması",
+            "B": "Preanestezik ve anestezik maddelerin inspirasyon sırasında interkostal kasların genişleme yeteneğini azaltması",
+            "C": "Kalp atımının durması",
+            "D": "Kan basıncının aniden 200 mmHg üzerine çıkması",
+            "E": "Hastanın hiperaktif olması"
+          },
+          "correctAnswer": "B",
+          "explanation": "Birçok anestezik ve preanestezik madde interkostal kasların genişleme yeteneğini baskılayarak solunumu yüzeyselleştirir ve tidal volümü en az %25 azaltır (Slayt 8).",
+          "distractorAnalysis": "Bu durum anesteziye bağlı hipoventilasyonun klasik fizyolojisidir.",
+          "slideNumber": 8
+        },
+        {
+          "id": "mcq_mon_011",
+          "question": "Anestezi sırasında yüzeysel solunum nedeniyle alt alveollere yeterli hava ulaşamaması ve alveollerin parsiyel kollabe olması tablosuna ne ad verilir?",
+          "options": {
+            "A": "Pnömotoraks",
+            "B": "Atelektazi",
+            "C": "Amfizem",
+            "D": "Plörizist",
+            "E": "Laringospazm"
+          },
+          "correctAnswer": "B",
+          "explanation": "Akciğerlerdeki bazı alveollere yeteri kadar hava ulaşamaması ve bu alveollerin parsiyel olarak kollabe olması 'atelektazi' olarak adlandırılır (Slayt 9).",
+          "distractorAnalysis": "Pnömotoraks göğüs boşluğunda serbest hava olmasıdır; atelektazi alveol kollapsıdır.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_mon_012",
+          "question": "İnhalasyon anestezisinde atelektaziyi önlemek amacıyla klinisyenin anestezi cihazının rezerv balonunu periyodik olarak dikkatlice sıkması işlemine ne ad verilir ve rutin aralığı nedir?",
+          "options": {
+            "A": "Defibrilasyon - Her saat başı",
+            "B": "Solunum desteği (Bagging) - Her 5 dakikada bir",
+            "C": "Vakumlama - Her 30 dakikada bir",
+            "D": "Hiperventilasyon şoku - Günde bir kez",
+            "E": "Ekstübasyon - Her 10 dakikada bir"
+          },
+          "correctAnswer": "B",
+          "explanation": "Rezerv balonu sıkılarak akciğerlerin ılımlı şişirilmesi (solunum desteği) rutin olarak her 5 dakikada bir uygulanarak atelektazi önlenir (Slayt 9).",
+          "distractorAnalysis": "Aşırı basınç uygulamadan göğüs kafesi izlenerek ılımlı yapılmalıdır.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_mon_013",
+          "question": "Solunum sayısındaki artışa __________, solunum derinliğindeki artışa ise __________ denir. Boşluklara sırasıyla hangisi gelmelidir?",
+          "options": {
+            "A": "Bradipne - Hipoventilasyon",
+            "B": "Taşipne - Hiperventilasyon",
+            "C": "Apne - Dispne",
+            "D": "Taşikardi - Hipertansiyon",
+            "E": "Siyanoz - Asidoz"
+          },
+          "correctAnswer": "B",
+          "explanation": "Solunum sayısındaki artış taşipne, solunum derinliğindeki artış ise hiperventilasyon olarak adlandırılır (Slayt 10).",
+          "distractorAnalysis": "Bradipne solunum yavaşlaması, taşikardi kalp hızı artışıdır.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_mon_014",
+          "question": "Aşağıdaki ilaçlardan hangisi uygulandığında anestezi hastalarında sıklıkla hızlı fakat yüzeysel solunum (taşipne) gelişir?",
+          "options": {
+            "A": "Morfin ve türevleri",
+            "B": "Atropin",
+            "C": "Tiyopental sodyum",
+            "D": "Propofol",
+            "E": "Lidokain"
+          },
+          "correctAnswer": "A",
+          "explanation": "Morfin ve türevleri uygulanan hayvanlarda bu tür hızlı ve yüzeysel solunum sıklıkla oluşur (Slayt 10).",
+          "distractorAnalysis": "Tiyopental ve propofol solunumu hızlandırmaz, aksine belirgin deprese eder veya apne yapar.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_mon_015",
+          "question": "Anestezi altındaki bir hastada normal inspirasyon ve ekspirasyon süreleri yaklaşık ne kadardır?",
+          "options": {
+            "A": "İnspirasyon: 5 sn | Ekspirasyon: 1 sn",
+            "B": "İnspirasyon: 1-1.5 sn | Ekspirasyon: 3-5 sn",
+            "C": "İnspirasyon: 10 sn | Ekspirasyon: 10 sn",
+            "D": "İnspirasyon: 0.1 sn | Ekspirasyon: 0.2 sn",
+            "E": "Her ikisi de tam olarak 2'şer saniyedir"
+          },
+          "correctAnswer": "B",
+          "explanation": "Normalde inspirasyon süresi 1-1.5 saniye, ekspirasyon süresi ise 3-5 saniye arasında değişir (Slayt 11).",
+          "distractorAnalysis": "Ekspirasyon pasif bir süreç olduğu için fizyolojik olarak inspirasyondan 2-3 kat daha uzundur.",
+          "slideNumber": 11
+        },
+        {
+          "id": "mcq_mon_016",
+          "question": "İnspirasyonu takiben ekspirasyon öncesinde uzun bir bekleme (duraklama) süresi ile karakterize 'apnetik solunum' hangi anestezik maddenin tipik etkisidir?",
+          "options": {
+            "A": "Ketamin",
+            "B": "Halotan",
+            "C": "İzofluran",
+            "D": "Eter",
+            "E": "Sevofluran"
+          },
+          "correctAnswer": "A",
+          "explanation": "Ketamin ile anesteziye alınan hayvanlarda apnetik solunum oluşur; inspirasyon sonrasında ekspirasyon öncesi uzun bir bekleme süresi meydana gelir (Slayt 12).",
+          "distractorAnalysis": "Ketamin dissosiyatif anesteziğe özgü apnetik solunum kalıbı yaratır.",
+          "slideNumber": 12
+        },
+        {
+          "id": "mcq_mon_017",
+          "question": "Arteriyel kanda ölçülen parsiyel CO2 basıncının (PaCO2) 45 mmHg'nın üzerine çıkması aşağıdakilerden hangisini belgeler?",
+          "options": {
+            "A": "Aşırı hiperventilasyonu",
+            "B": "Hipoventilasyonu",
+            "C": "Solunum alkalozunu",
+            "D": "Oksijen toksisitesini",
+            "E": "Hastanın tamamen uyandığını"
+          },
+          "correctAnswer": "B",
+          "explanation": "PaCO2'nin 45 mmHg'dan yukarı çıkması hastanın yeterli gaz değişimi yapamadığını, yani hipoventilasyonu gösterir (Slayt 13).",
+          "distractorAnalysis": "PaCO2'nin 28 mmHg altına düşmesi hiperventilasyondur.",
+          "slideNumber": 13
+        },
+        {
+          "id": "mcq_mon_018",
+          "question": "PaCO2 değerinin 60 mmHg'dan daha yukarı çıkması halinde klinisyenin derhal başlatması gereken hayati müdahale hangisidir?",
+          "options": {
+            "A": "Mekanik ventilasyon desteği vermek",
+            "B": "Oksijen akışını tamamen kesmek",
+            "C": "Hastaya yüksek doz potasyum enjekte etmek",
+            "D": "Entübasyon tüpünü hemen çekmek",
+            "E": "Anestezi gaz dozunu artırmak"
+          },
+          "correctAnswer": "A",
+          "explanation": "PaCO2'nin 60 mmHg'dan daha da yukarı çıkması aşırı respiratuar asidoz ve hipoksi oluştuğuna işaret eder; bu hastalara derhal mekanik ventilasyon desteği verilmelidir (Slayt 13).",
+          "distractorAnalysis": "Solunum asidozunu düzeltmenin tek yolu ventilasyon ile CO2'yi dışarı atmaktır.",
+          "slideNumber": 13
+        },
+        {
+          "id": "mcq_mon_019",
+          "question": "PaCO2 değerinin 20 mmHg'nin altına düşmesi şiddetli solunum alkalozu yaratır. Bu durumun beyin üzerindeki en tehlikeli klinik sonucu nedir?",
+          "options": {
+            "A": "Serebral damarlarda aşırı genişleme ve beyin kanaması",
+            "B": "Serebral kan akımında azalma meydana gelmesi ve serebral oksijenizasyonun bozulması",
+            "C": "Kafatası kemiklerinin erimesi",
+            "D": "Göz içi basıncının sıfıra inmesi",
+            "E": "Beyin omurilik sıvısının tamamen kuruması"
+          },
+          "correctAnswer": "B",
+          "explanation": "PaCO2'nin 20 mmHg altına düşmesi serebral damarlarda vazokonstriksiyona neden olur; serebral kan akımı azalır ve beyin dokusunun oksijenizasyonu bozulur (Slayt 13).",
+          "distractorAnalysis": "Hipokapni serebral iskemiye yol açabilir.",
+          "slideNumber": 13
+        },
+        {
+          "id": "mcq_mon_020",
+          "question": "Solunum sırasında ekspirasyon gazlarındaki CO2 konsantrasyonunu grafiksel olarak sürekli kaydeden ve solunum sayısı ile atılan CO2 miktarını veren cihaz hangisidir?",
+          "options": {
+            "A": "Sfigmomanometre",
+            "B": "Kapnograf",
+            "C": "Özefageal stetoskop",
+            "D": "Refraktometre",
+            "E": "Glukometre"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kapnograf; ekspirasyon gazlarındaki CO2 miktarını grafiksel kaydeden cihazdır (Slayt 14).",
+          "distractorAnalysis": "Sfigmomanometre kan basıncı, refraktometre idrar/protein dansitesi ölçer.",
+          "slideNumber": 14
+        },
+        {
+          "id": "mcq_mon_021",
+          "question": "Pulse oksimetre probu hastanın dili veya dudağına takıldığında ölçümün yetersiz ve hatalı düşük çıkmasının en önemli nedeni nedir?",
+          "options": {
+            "A": "Periferal vazodilatasyon",
+            "B": "Periferal vazokonstriksiyon",
+            "C": "Hipertansiyon",
+            "D": "Aşırı yüksek hemoglobin konsantrasyonu",
+            "E": "Ortamın karanlık olması"
+          },
+          "correctAnswer": "B",
+          "explanation": "Pulse oksimetrenin yeterince doğru ölçüm yapamamasının en önemli nedeni periferal vazokonstriksiyondur; doku kanlanması azaldığı için cihaz düşük değer okur ve hasta yalancı hipoksemik değerlendirilir (Slayt 14).",
+          "distractorAnalysis": "Vazokonstriksiyonda pulsatif arteriyel akım dalgası algılanamaz.",
+          "slideNumber": 14
+        },
+        {
+          "id": "mcq_mon_022",
+          "question": "Anestezi hastalarında kabul edilebilir en düşük kalp frekansı köpeklerde ve kedilerde sırasıyla kaçtır?",
+          "options": {
+            "A": "Köpek: 40/dk | Kedi: 60/dk",
+            "B": "Köpek: 70/dk | Kedi: 100/dk",
+            "C": "Köpek: 120/dk | Kedi: 180/dk",
+            "D": "Köpek: 90/dk | Kedi: 90/dk",
+            "E": "Köpek: 30/dk | Kedi: 50/dk"
+          },
+          "correctAnswer": "B",
+          "explanation": "Anestezi hastalarında kabul edilebilir en düşük kalp frekansı köpeklerde 70/dk, kedilerde 100/dk'dır (Slayt 15).",
+          "distractorAnalysis": "Bu değerlerin altına inmesi kardiyak debiyi tehlikeli şekilde düşürür.",
+          "slideNumber": 15
+        },
+        {
+          "id": "mcq_mon_023",
+          "question": "Anestezi sırasında stabil bir cerrahi dönemde kalp frekansının dakikada kaç arasında olması normal kabul edilir?",
+          "options": {
+            "A": "30 - 50/dk",
+            "B": "60 - 80/dk",
+            "C": "90 - 120/dk",
+            "D": "160 - 200/dk",
+            "E": "200 - 250/dk"
+          },
+          "correctAnswer": "C",
+          "explanation": "Anestezi sırasında kalp frekansının dakikada 90-120 arasında olması normal kabul edilir (Slayt 15).",
+          "distractorAnalysis": "90-120 aralığı anestezi altındaki kedi ve köpekler için hedeflenen optimal aralıktır.",
+          "slideNumber": 15
+        },
+        {
+          "id": "mcq_mon_024",
+          "question": "Birçok anestezik madde miyokard üzerine depresyon oluşturup kalp frekansını azaltırken, aşağıdaki ilaçlardan hangisi kalp frekansını belirgin şekilde yükseltir?",
+          "options": {
+            "A": "Atropin",
+            "B": "Halotan",
+            "C": "Ksilazin",
+            "D": "Asepromazin",
+            "E": "Tiyopental"
+          },
+          "correctAnswer": "A",
+          "explanation": "Atropin parasempatolitik (vagus blokeri) etkisi sayesinde hayvanlarda kalp frekansını belirgin yükseltir (Slayt 15).",
+          "distractorAnalysis": "Halotan ve ksilazin bradikardi yapma eğilimindedir.",
+          "slideNumber": 15
+        },
+        {
+          "id": "mcq_mon_025",
+          "question": "Kalp monitörizasyonunda stetoskop veya EKG ile kalp frekansının saptanması sirkülasyonun yeterli olduğunu tek başına neden kanıtlamaz?",
+          "options": {
+            "A": "Çünkü EKG sadece hayvan uyanıkken çalışır",
+            "B": "Kalp frekansı yeterli olsa bile vuru hacmi ve kan basıncı düşük olabilir, bu nedenle pulzasyon dolgunluğu ve kan basıncı ile birlikte değerlendirilmelidir",
+            "C": "Kalp sesleri akciğer sesleriyle tamamen aynıdır",
+            "D": "Stetoskop sadece solunum seslerini duyar",
+            "E": "Kalp atımı sadece idrar çıkışı varsa gerçekleşir"
+          },
+          "correctAnswer": "B",
+          "explanation": "Kalp frekansının varlığı sirkülasyonun yeterli olduğunu göstermez; pulzasyonun dolgunluğu veya kan basıncı ile birlikte değerlendirilmelidir (Slayt 16).",
+          "distractorAnalysis": "Elektromekanik disosiasyon veya derin hipotansiyonda ritim olabilir ama perfüzyon yoktur.",
+          "slideNumber": 16
+        },
+        {
+          "id": "mcq_mon_026",
+          "question": "İnhalasyon anesteziklerinden özellikle hangisi kullanıldığında, anestezi derinliğinin artması doğrudan belirgin hipotansiyon oluşturur?",
+          "options": {
+            "A": "Halotan",
+            "B": "N2O (Nitrous oxide)",
+            "C": "Oksijen",
+            "D": "Karbondioksit",
+            "E": "Azot"
+          },
+          "correctAnswer": "A",
+          "explanation": "Özellikle halotan kullanıldığında anestezi derinliğinin artması doğrudan miyokard kontraktilitesini ve periferik direnci düşürerek hipotansiyon oluşturur (Slayt 17).",
+          "distractorAnalysis": "Halotan doza bağımlı olarak güçlü bir kardiyovasküler depresandır.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_mon_027",
+          "question": "Preanestezik ilaçlardan Asepromazin ve Ksilazinin anestezi altındaki hastada hipotansiyon oluşturmasının temel mekanizması nedir?",
+          "options": {
+            "A": "Damarlarda dilatasyon (vazodilatasyon) oluşturmaları",
+            "B": "Akciğer alveollerini parçalamaları",
+            "C": "Kanda eritrosit sayısını aşırı artırmaları",
+            "D": "Vücut ısısını aniden 42°C'ye çıkarmaları",
+            "E": "Böbreklerden aşırı su emilimi yapmaları"
+          },
+          "correctAnswer": "A",
+          "explanation": "Asepromazin (alfa-1 blokaj ile) ve Ksilazin periferik damarlarda dilatasyon oluşturduğu için hipotansiyon meydana getirirler (Slayt 17).",
+          "distractorAnalysis": "Vazodilatasyon sistemik vasküler rezistansı düşürerek kan basıncını aşağı çeker.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_mon_028",
+          "question": "Anestezi altındaki bir köpekte periferal pulzasyon güçlükle hissediliyorsa veya zayıfsa bu durum öncelikle neye işaret eder?",
+          "options": {
+            "A": "Aşırı hipertansiyona",
+            "B": "Hipovolemi ya da derin anesteziye bağlı kan basıncının düştüğüne",
+            "C": "Hastanın tamamen anestezi dışına çıktığına",
+            "D": "Akciğerlerin aşırı havalandığına",
+            "E": "Kan şekerinin çok yükseldiğine"
+          },
+          "correctAnswer": "B",
+          "explanation": "Pulzasyon güçlükle hissediliyor ise bu durum hipovolemi ya da derin anesteziye bağlı kan basıncının düştüğünü gösterir (Slayt 18).",
+          "distractorAnalysis": "Zayıf nabız düşük atım hacmi ve düşük nabız basıncının işaretidir.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_mon_029",
+          "question": "Hastanın sistolik kan basıncı yaklaşık kaç mmHg'nın altına düştüğünde Kapiller Dolum Zamanı (CRT) belirgin derecede uzar?",
+          "options": {
+            "A": "140 - 150 mmHg",
+            "B": "110 - 120 mmHg",
+            "C": "70 - 80 mmHg",
+            "D": "95 - 100 mmHg",
+            "E": "180 mmHg"
+          },
+          "correctAnswer": "C",
+          "explanation": "Hastanın sistolik kan basıncı 70-80 mmHg'dan daha düşük ise periferik kılcal damar yatağı perfüzyonu çöker ve CRT belirgin derecede uzar (Slayt 20).",
+          "distractorAnalysis": "70-80 mmHg sistolik basınç periferik kapiller dolumu sürdürmek için kritik eşiktir.",
+          "slideNumber": 20
+        },
+        {
+          "id": "mcq_mon_030",
+          "question": "Anestezi sırasında idrar atımının çok yavaşlaması veya tamamen durması öncelikle hangi parametrenin bozulduğunu gösterir?",
+          "options": {
+            "A": "Arteriyel kan basıncının belirgin düştüğünü",
+            "B": "Hastanın aşırı su içtiğini",
+            "C": "Anestezi derinliğinin yetersiz olduğunu",
+            "D": "Vücut ısısının aşırı yükseldiğini",
+            "E": "Oksijen akış hızının fazla olduğunu"
+          },
+          "correctAnswer": "A",
+          "explanation": "İdrar atımı kan basıncının bir göstergesidir; kan basıncı düştüğünde böbrek glomerül filtrasyonu durur ve idrar atımı tamamen durabilir (Slayt 20).",
+          "distractorAnalysis": "Oligüri veya anüri anestezi sırasında renal hipoperfüzyonun en net uyarısıdır.",
+          "slideNumber": 20
+        },
+        {
+          "id": "mcq_mon_031",
+          "question": "Direkt kan basıncı ölçüm yönteminde artere (örneğin a. femoralis) yerleştirilen kateter ile elde edilen basınç değeri aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Sadece venöz santral basınç",
+            "B": "Ortalama kan basıncı (MAP)",
+            "C": "Sadece intrakraniyal basınç",
+            "D": "İntraoküler basınç",
+            "E": "Onkotik basınç"
+          },
+          "correctAnswer": "B",
+          "explanation": "Direkt yöntemde a. femoralis kateterizasyonu ile elde edilen basınç, ortalama kan basıncıdır (MAP) (Slayt 21).",
+          "distractorAnalysis": "Direkt arteriyel monitörizasyon kardiyak siklus boyunca ortalama basıncı verir.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_mon_032",
+          "question": "İndirekt kan basıncı ölçümünde sfigmomanometre kullanılırken ilk pulzasyon hareketinin başladığı ve hareketin söndüğü değerler sırasıyla neyi ifade eder?",
+          "options": {
+            "A": "Başladığı değer: Diastolik | Söndüğü değer: Sistolik",
+            "B": "Başladığı değer: Sistolik | Söndüğü değer: Diastolik",
+            "C": "Başladığı değer: Venöz | Söndüğü değer: Kapiller",
+            "D": "Başladığı değer: MAP | Söndüğü değer: Nabız",
+            "E": "Her iki değer de sadece nabız sayısını ifade eder"
+          },
+          "correctAnswer": "B",
+          "explanation": "İlk pulzasyon hareketinin başladığı değer sistolik basınç, hareketin söndüğü değer ise diastolik basınç olarak ölçülür (Slayt 21).",
+          "distractorAnalysis": "Manşon basıncı damar içi tepe basıncına eşitlendiğinde ilk akım (sistolik) başlar.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_mon_033",
+          "question": "Direkt kan basıncı ölçümü için köpek ve kedilerde en sık hangi arterler tercih edilir?",
+          "options": {
+            "A": "Pulmoner arter veya renal arter",
+            "B": "Dorsal pedal arter veya femoral arter",
+            "C": "Sadece vena kava kranyalis",
+            "D": "Portal ven veya juguler ven",
+            "E": "Koroner arterler"
+          },
+          "correctAnswer": "B",
+          "explanation": "Direkt kan basıncı ölçümü için köpek ve kedilerde dorsal pedal arter veya femoral arter kullanılır (Slayt 22).",
+          "distractorAnalysis": "At ve ruminantlarda ise dorsal metatarsal veya fasiyal arter kullanılır.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_mon_034",
+          "question": "Anestezi altındaki hayvanlarda normal sistolik, diastolik ve ortalama kan basıncı (MAP) sınırları hangisinde eksiksiz ve doğru verilmiştir?",
+          "options": {
+            "A": "Sistolik: 50-70 | Diastolik: 30-50 | MAP: 40-50 mmHg",
+            "B": "Sistolik: 100-160 | Diastolik: 60-100 | MAP: 80-120 mmHg",
+            "C": "Sistolik: 180-220 | Diastolik: 120-140 | MAP: 150-180 mmHg",
+            "D": "Sistolik: 80-90 | Diastolik: 40-50 | MAP: 50-60 mmHg",
+            "E": "Sistolik: 120-130 | Diastolik: 110-120 | MAP: 115 mmHg"
+          },
+          "correctAnswer": "B",
+          "explanation": "Hayvanlarda sistolik 100-160 mmHg, diastolik 60-100 mmHg, ortalama kan basıncı ise 80-120 mmHg olmalıdır (Slayt 22).",
+          "distractorAnalysis": "Bu değerler anestezi periyodunda organ hasarını önleyen ideal aralıklardır.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_mon_035",
+          "question": "Sistolik kan basıncının _____ mmHg'dan, ortalama kan basıncının ise _____ mmHg'dan aşağı düşmesi yetersiz serebral ve koroner perfüzyona neden olur. Boşluklara sırasıyla hangisi gelmelidir?",
+          "options": {
+            "A": "120 - 90",
+            "B": "80 - 60",
+            "C": "100 - 80",
+            "D": "60 - 40",
+            "E": "50 - 30"
+          },
+          "correctAnswer": "B",
+          "explanation": "Sistolik kan basıncının 80 mmHg'dan, ortalama kan basıncının 60 mmHg'dan aşağı düşmesi beyin ve kalp perfüzyonunu bozar (Slayt 22).",
+          "distractorAnalysis": "MAP < 60 mmHg böbrek, beyin ve miyokard iskemisinin başladığı mutlak sınırdır.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_mon_036",
+          "question": "Anestezi sırasında şekillenen hipotansiyonun klinikte karşılaşılan en önemli ve en yaygın nedeni aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Hipovolemi",
+            "B": "Hiperkalsemi",
+            "C": "Aşırı hemoglobin miktarı",
+            "D": "Hipotansiyon sadece travmatik beyin tümörlerinde görülür",
+            "E": "Aşırı sıvı yüklemesi"
+          },
+          "correctAnswer": "A",
+          "explanation": "Hipotansiyonun en önemli nedeni hipovolemidir; hipovolemi meydana geldiğinde kristalloid ve kolloidlerle tedavi edilmelidir (Slayt 23).",
+          "distractorAnalysis": "Dehidratasyon, kan kaybı veya açlık hipovolemiyi tetikler.",
+          "slideNumber": 23
+        },
+        {
+          "id": "mcq_mon_037",
+          "question": "Mukoza renginin değerlendirilmesinde en yaygın kullanılan bölge neresidir ve pigmentli olması halinde nerelere bakılır?",
+          "options": {
+            "A": "Sadece kulak kepçesi",
+            "B": "En yaygın gingivadır; pigmentliyse dil, yanak, alt göz kapağı konjonktivası, vulva/prepisyuma bakılır",
+            "C": "Sadece tırnak dipleri",
+            "D": "Karın derisi",
+            "E": "Kuyruk ucu"
+          },
+          "correctAnswer": "B",
+          "explanation": "En yaygın bölge diş etidir (gingiva). Pigmentliyse dil, yanak mukozası, konjonktiva, vulva ve prepisyum kontrol edilir (Slayt 24).",
+          "distractorAnalysis": "Pigmentsiz müköz membranlar kapiller kan akımını en net yansıtan bölgelerdir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_mon_038",
+          "question": "Mukoz membranların mavi renge dönmesi (siyanoz) anestezi altında öncelikle neyin göstergesidir?",
+          "options": {
+            "A": "Aşırı yüksek oksijen satürasyonunun",
+            "B": "Solunum yetmezliğinden veya üst solunum yolunda tıkanıklıktan kaynaklanan şiddetli hipoksinin",
+            "C": "Hastanın derin uykuya geçtiğinin",
+            "D": "Kan basıncının normale döndüğünün",
+            "E": "Anestezi gazının bittiğinin"
+          },
+          "correctAnswer": "B",
+          "explanation": "Mavi renge dönen mukoz membranlar siyanozdur; solunum yetmezliğinden veya üst solunum yolundaki bir tıkanıklıktan kaynaklanır (Slayt 24).",
+          "distractorAnalysis": "Deoksijenize hemoglobinin 5 g/dL üzerine çıkması siyanoz yaratır.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_mon_039",
+          "question": "Sağlıklı kedi ve köpekler vücut ağırlığı başına yaklaşık ne kadar kan kaybını sirkülasyon şoku gelişmeden tolere edebilirler?",
+          "options": {
+            "A": "1 - 2 ml/kg",
+            "B": "13 ml/kg (kan volümünün %15'i)",
+            "C": "45 ml/kg (kan volümünün %60'ı)",
+            "D": "80 ml/kg",
+            "E": "Hiçbir kan kaybı tolere edilemez"
+          },
+          "correctAnswer": "B",
+          "explanation": "Sağlıklı hayvanlar kan volümünün %15'ini şoksuz tolere edebilirler; bu miktar kedi ve köpeklerde yaklaşık 13 ml/kg'dır (Slayt 24).",
+          "distractorAnalysis": "13 ml/kg üzeri akut kanamalarda derhal kan/sıvı replasmanı gerekir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_mon_040",
+          "question": "Anestezi süresinin uzaması hastanın beden ısısında genellikle kaç derece düşüşe neden olur?",
+          "options": {
+            "A": "0.1°C",
+            "B": "3°C veya daha fazla",
+            "C": "10°C",
+            "D": "Hiç düşmez, daima 40°C'ye yükselir",
+            "E": "Isı değişimi sadece kuşlarda görülür"
+          },
+          "correctAnswer": "B",
+          "explanation": "Anestezi süresinin uzaması hastanın beden ısısında 3°C ya da daha fazla düşmeye (hipotermi) neden olur (Slayt 25).",
+          "distractorAnalysis": "Hipotermi anesteziklerin metabolizmasını yavaşlatıp uyanmayı geciktirir.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_mon_041",
+          "question": "Aşağıdakilerden hangisi anestezi altındaki hastada beden ısısının düşmesine (hipotermi) katkıda bulunan nedenlerden biri DEĞİLDİR?",
+          "options": {
+            "A": "Operasyon öncesi bölgenin soğuk antiseptik ve alkolle yıkanması",
+            "B": "Kas aktivitesi ve titreme oluşmamasına bağlı ısı üretilememesi",
+            "C": "Anestezi döneminde metabolizmanın belirgin yavaşlaması",
+            "D": "Operasyon sırasında vücut boşluklarının açılmasına bağlı ısı kaybı",
+            "E": "Tüm anesteziklerin aşırı vazokonstriksiyon yaparak ısıyı hapsetmesi"
+          },
+          "correctAnswer": "E",
+          "explanation": "Aksine, birçok preanestezik ve anestezik damarlarda vazodilatasyon oluşturarak radyasyonla ısı kaybını artırır (Slayt 25).",
+          "distractorAnalysis": "Vazodilatasyon ısı kaybını hızlandıran ana mekanizmalardan biridir.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_mon_042",
+          "question": "Özellikle Halotan kullanılan hayvanlarda nadiren görülen, acil önlem alınmazsa vücut ısısının aşırı artmasıyla ölüme sebebiyet veren tablo hangisidir?",
+          "options": {
+            "A": "Malignant hipertermi",
+            "B": "Hipotermik koma",
+            "C": "Anafilaktik şok",
+            "D": "Status epileptikus",
+            "E": "Solunum alkalozu"
+          },
+          "correctAnswer": "A",
+          "explanation": "Özellikle halotan kullanılan hayvanlarda oluşabilen ve ölümcül olan bu aşırı ısı artışına 'malignant hipertermi' denir (Slayt 25).",
+          "distractorAnalysis": "Malign hipertermi kalsiyum regülasyon bozukluğuna bağlı hiperkatabolik bir krizdir.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_mon_043",
+          "question": "Palpebral refleks nasıl test edilir ve hayvan için fizyolojik önemi nedir?",
+          "options": {
+            "A": "Korneaya iğne batırılarak; görme keskinliğini test eder",
+            "B": "Gözün medial ya da lateral açısına hafifçe dokunularak; bilinçli hayvanda gözün korunmasını sağlar",
+            "C": "Pupillaya kuvvetli ışık tutularak; beyin omurilik sıvısını ölçer",
+            "D": "Kulak kepçesi çekilerek; işitmeyi korur",
+            "E": "Çene açılarak; diş tonusunu belirler"
+          },
+          "correctAnswer": "B",
+          "explanation": "Gözün medial ya da lateral kantusuna hafifçe dokunularak tespit edilir. Bilinçli hayvanlarda gözün korunmasını sağlayan bir reflekstir (Slayt 26).",
+          "distractorAnalysis": "Cerrahi anestezide kaybolur, geri dönmesi uyanmayı gösterir.",
+          "slideNumber": 26
+        },
+        {
+          "id": "mcq_mon_044",
+          "question": "Ketamin anestezisi ile Halotan anestezisi altında palpebral refleksin durumu hangisinde doğru kıyaslanmıştır?",
+          "options": {
+            "A": "Ketaminde tamamen kaybolur, halotanda hiç değişmez",
+            "B": "Ketaminle anestezide palpebral refleks ortadan kalkmaz iken, halotan ile anestezide tamamen ortadan kalkar",
+            "C": "Her iki anestezikte de palpebral refleks her zaman pozitiftir",
+            "D": "Her iki anestezikte de ilk saniyede yok olur",
+            "E": "Ketamin sadece korneal refleksi yok eder"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ketamin dissosiyatif anestezi oluşturduğu için palpebral refleks ortadan kalkmaz; halotanda ise tamamen ortadan kalkar (Slayt 26).",
+          "distractorAnalysis": "Ketamin kullanan hastada palpebral refleksin olması anestezinin yüzeysel olduğu anlamına gelmez.",
+          "slideNumber": 26
+        },
+        {
+          "id": "mcq_mon_045",
+          "question": "Palpebral refleksin cerrahi operasyonun sonunda geri dönmesi klinisyen için neyi müjdeler?",
+          "options": {
+            "A": "Hayvanın arrest olduğunu",
+            "B": "Hayvanın anesteziden uyanmak üzere olduğunu",
+            "C": "Hayvanın felç geçirdiğini",
+            "D": "Anestezi gazının bittiğini ama uyanamayacağını",
+            "E": "Korneanın kuruduğunu"
+          },
+          "correctAnswer": "B",
+          "explanation": "Palpebral refleksin geri dönmesi hayvanın anesteziden uyanmak üzere olduğunu gösterir (Slayt 26).",
+          "distractorAnalysis": "Uyanma sürecinde reflekslerin sırasıyla geri dönüşü gözlemlenir.",
+          "slideNumber": 26
+        },
+        {
+          "id": "mcq_mon_046",
+          "question": "Yutkunma refleksinin anestezi dönemlerindeki seyri ve ekstübasyon zamanı ile ilişkisi nasıldır?",
+          "options": {
+            "A": "Yüzeyselde kaybolur, derinde ortaya çıkar",
+            "B": "Yüzeysel dönemde mevcuttur, orta düzey cerrahide kalkar; hayvan uyanırken geri döndüğü anda ekstübasyon yapılmalıdır",
+            "C": "Anestezi boyunca hiç kaybolmaz",
+            "D": "Sadece köpeklerde vardır, kedilerde yutkunma refleksi bulunmaz",
+            "E": "Yutkunma refleksi geri gelmeden tüp çekilmelidir"
+          },
+          "correctAnswer": "B",
+          "explanation": "Yüzeysel dönemde mevcuttur, orta düzeyde ortadan kalkar. Uyanırken geri döner ve aspirasyonu önlemek için tüp bu anda çekilmelidir (Slayt 27).",
+          "distractorAnalysis": "Yutkunma refleksi hava yolu güvenliğinin en kritik bekçisidir.",
+          "slideNumber": 27
+        },
+        {
+          "id": "mcq_mon_047",
+          "question": "Anestezi altındaki hastada korneaya dokunulması ile bakılan korneal refleksin tamamen yok olması neyi gösterir?",
+          "options": {
+            "A": "Anestezinin çok hafif ve yetersiz olduğunu",
+            "B": "Anestezinin çok derin düzeyde olduğunu (hayati risk)",
+            "C": "Hastanın görme yetisinin açıldığını",
+            "D": "Kalp frekansının arttığını",
+            "E": "Oksijen satürasyonunun %100 olduğunu"
+          },
+          "correctAnswer": "B",
+          "explanation": "Korneal refleksin yok olması anestezinin çok derin düzeyde olduğunu gösterir (Dönem III Plan 3'e kadar görülebilir) (Slayt 28).",
+          "distractorAnalysis": "Korneal refleks kaybı agoni ve medulla depresyonu sınırıdır; acil doz azaltılmalıdır.",
+          "slideNumber": 28
+        },
+        {
+          "id": "mcq_mon_048",
+          "question": "Aşağıdaki anestezik/sedatif maddelerden hangileri iskelet kas tonusunda gevşeme yerine tonus artışına (rijidite) neden olur?",
+          "options": {
+            "A": "Ksilazin ve Diazepam",
+            "B": "Ketamin ve Tiletamin",
+            "C": "İzofluran ve Sevofluran",
+            "D": "Propofol ve Tiopental",
+            "E": "Asepromazin ve Midazolam"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ketamin ve Tiletamin gibi dissosiyatif anestezikler kasların tonusunda artma meydana getirirler (Slayt 29).",
+          "distractorAnalysis": "Bu nedenle dissosiyatifler daima kas gevşetici ajanlarla (ksilazin, diazepam) kombine edilir.",
+          "slideNumber": 29
+        },
+        {
+          "id": "mcq_mon_049",
+          "question": "Anestezinin II. döneminde (Eksitasyon/Deliryum) göz küresi tipik olarak hangi pozisyondadır?",
+          "options": {
+            "A": "Tam merkezdedir",
+            "B": "Hayvan çenesine bakıyormuş pozisyonundadır (ventromedial)",
+            "C": "Tam yukarı tavana bakar",
+            "D": "Göz küreleri sürekli saat yönünde döner",
+            "E": "Gözler tamamen yuvasından dışarı fırlar"
+          },
+          "correctAnswer": "B",
+          "explanation": "Anestezinin II. döneminde göz küresi ventromedial pozisyona kayar, yani hayvan çenesine bakıyormuş pozisyonundadır (Slayt 30).",
+          "distractorAnalysis": "Cerrahi döneme (Dönem III) geçildiğinde göz tekrar merkezi pozisyona döner.",
+          "slideNumber": 30
+        },
+        {
+          "id": "mcq_mon_050",
+          "question": "Genel anestezide cerrahi anestezi dönemine (Dönem III) girildiğinde göz küresi pozisyonu nasıldır?",
+          "options": {
+            "A": "Tekrar merkezi pozisyonuna geri döner",
+            "B": "Çeneye doğru daha da aşağı sarkar",
+            "C": "Sadece tek bir göz yukarı bakar",
+            "D": "Göz kapakları asla kapanmaz",
+            "E": "Göz tamamen kaybolur"
+          },
+          "correctAnswer": "A",
+          "explanation": "Cerrahi anestezi döneminde göz tekrar merkezi pozisyonuna geri döner (Slayt 30).",
+          "distractorAnalysis": "Dönem I merkezde, Dönem II ventromedial, Dönem III cerrahide tekrar merkezdedir.",
+          "slideNumber": 30
+        },
+        {
+          "id": "mcq_mon_051",
+          "question": "Anestezi altındaki bir hastada gözün merkezde olması, belirgin midriyazis bulunması ve ışığa karşı pupiller refleksin hiç olmaması neyi belgeler?",
+          "options": {
+            "A": "Anestezinin ideal cerrahi düzeyde olduğunu",
+            "B": "Anestezi derinliğinin tehlike sınırları içerisine girdiğini (aşırı doz / arrest riski)",
+            "C": "Hayvanın tamamen uyanıp ayağa kalkacağını",
+            "D": "Kas gevşemesinin yetersiz olduğunu",
+            "E": "Oksijen tüpünün dolu olduğunu"
+          },
+          "correctAnswer": "B",
+          "explanation": "Gözün merkezde olması, midriyazis ve ışığa tepkinin olmaması anestezi derinliğinin tehlike sınırları içerisine girdiğini gösterir (Slayt 31).",
+          "distractorAnalysis": "Fiks dilate pupilla beyin sapı depresyonunu ve ölüm tehlikesini gösterir.",
+          "slideNumber": 31
+        },
+        {
+          "id": "mcq_mon_052",
+          "question": "Pupillanın değerlendirilmesinde, özellikle kedilerde midriyazis oluşturacağı için göz önünde bulundurulması gereken preanestezik ilaç hangisidir?",
+          "options": {
+            "A": "Atropin",
+            "B": "Ksilazin",
+            "C": "Asepromazin",
+            "D": "Fentanil",
+            "E": "Lidokain"
+          },
+          "correctAnswer": "A",
+          "explanation": "Kedilerde kullanılan atropinin midriyazis oluşturacağı göz önünde bulundurulmalıdır; bu durum anestezi derinliğiyle karıştırılmamalıdır (Slayt 31).",
+          "distractorAnalysis": "Atropin siliyer ganglion blokajı ile midriyazise neden olur.",
+          "slideNumber": 31
+        },
+        {
+          "id": "mcq_mon_053",
+          "question": "Genel kural olarak solunum sayısı ve kalp frekansı anestezi derinliği arttıkça nasıl bir seyir izler?",
+          "options": {
+            "A": "Her ikisi de kontrolsüz şekilde artar",
+            "B": "Her iki parametre de anestezi derinliği arttıkça azalma eğilimi gösterir",
+            "C": "Solunum artarken kalp frekansı tamamen durur",
+            "D": "Hiçbir şekilde değişmez",
+            "E": "Kalp hızı 300'e çıkar"
+          },
+          "correctAnswer": "B",
+          "explanation": "Bu iki parametre anestezi derinliği arttıkça azalma eğilimi gösterir (Slayt 32).",
+          "distractorAnalysis": "Merkezi sinir sistemi ve miyokard depresyonu arttıkça frekanslar düşer.",
+          "slideNumber": 32
+        },
+        {
+          "id": "mcq_mon_054",
+          "question": "Cerrahi sırasında iç organlara dokunulması veya ovaryum ligamentlerinin gerdirilmesi durumunda hayvanda hangi fizyolojik tepki gelişir?",
+          "options": {
+            "A": "Kalp frekansı ve kan basıncı düşer, hasta derin uykuya dalar",
+            "B": "Ağrı algılanmasına bağlı sempatik deşarjla kalp frekansı ve kan basıncı artar",
+            "C": "Vücut ısısı 25°C'ye iner",
+            "D": "Solunum tamamen durur",
+            "E": "CRT 0 saniyeye iner"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ovaryum ligamenti çekildiğinde ağrı algılanır; cerrahi uyarıyı algılayan hayvanda kalp frekansı ve kan basıncı artar (Slayt 33).",
+          "distractorAnalysis": "Viseral nosisepsiyon otonomik sempatik aktivasyonu tetikler.",
+          "slideNumber": 33
+        },
+        {
+          "id": "mcq_mon_055",
+          "question": "Cerrahi uyarı karşısında lakrimasyon (gözyaşı), salivasyon ve pedal hareketlerin görülmesi neyin kesin belgesidir?",
+          "options": {
+            "A": "Anestezinin çok derin ve toksik olduğunun",
+            "B": "Anestezinin yetersizliğini ve hayvanın ağrı hissettiğini",
+            "C": "Hayvanın görme yeteneğini kaybettiğinin",
+            "D": "Kan basıncının sıfıra indiğinin",
+            "E": "Atelektazinin tamamen çözüldüğünün"
+          },
+          "correctAnswer": "B",
+          "explanation": "Lakrimasyon, salivasyon ve pedal hareketler anestezinin yetersizliğini ve ağrının hissedildiğini belgeler (Slayt 33).",
+          "distractorAnalysis": "Bu klinik bulgular yetersiz anestezi derinliği ve yetersiz analjezinin açık kanıtıdır.",
+          "slideNumber": 33
+        },
+        {
+          "id": "mcq_mon_056",
+          "question": "Genel anesteziden uyanma süresinin uzamasını etkileyen faktörler arasında aşağıdakilerden hangisi YER ALMAZ?",
+          "options": {
+            "A": "Genel anestezi süresinin uzun olması",
+            "B": "Hayvanın genel durumunun zayıf veya kaşektik olması",
+            "C": "Uygulanan anestezik maddenin cinsi ve uygulanış şekli",
+            "D": "Enjektabl anesteziklerin IM yolla verilmiş olması",
+            "E": "Anestezi devresinde bakteri filtresi kullanılmış olması"
+          },
+          "correctAnswer": "E",
+          "explanation": "Bakteri filtresi uyanma süresini etkilemez. Süre, anestezi süresi, genel durum ve ilaç cinsine/yoluna bağlıdır (Slayt 34).",
+          "distractorAnalysis": "Uyanma süresini farmakokinetik faktörler ve hastanın metabolik kapasitesi belirler.",
+          "slideNumber": 34
+        },
+        {
+          "id": "mcq_mon_057",
+          "question": "İnhalasyon anestezisi ile enjektabl anesteziklerin uyanma süreleri kıyaslandığında doğru olan ifade hangisidir?",
+          "options": {
+            "A": "İnhalasyon anestezisinden uyanma, enjektabl anestezisinden uyanmaya göre daha kısa sürede gerçekleşir",
+            "B": "Enjektabl anesteziklerden uyanma daima inhalasyondan daha hızlıdır",
+            "C": "Her iki yöntemde de uyanma süresi saniyesi saniyesine aynıdır",
+            "D": "İnhalasyon anestezisinde uyanma için mutlaka antidot verilmelidir",
+            "E": "Enjektabl anesteziklerde uyanma karaciğerden bağımsızdır"
+          },
+          "correctAnswer": "A",
+          "explanation": "İnhalasyon anestezisinden uyanma ekspirasyonla hızlı gaz atılımı sayesinde enjektabl anesteziye göre daha kısa sürede gerçekleşir (Slayt 34).",
+          "distractorAnalysis": "Enjektabl anesteziklerin eliminasyonu karaciğer metabolizması ve renal atılıma bağımlıdır.",
+          "slideNumber": 34
+        },
+        {
+          "id": "mcq_mon_058",
+          "question": "Enjektabl anesteziklerin hangi yolla verilmesi, intramusküler (IM) yolla verilmesine kıyasla daha kısa sürede uyanma sağlar?",
+          "options": {
+            "A": "Deri altı (SC) yol",
+            "B": "İntravenöz (IV) yol",
+            "C": "Ağızdan (Oral) yol",
+            "D": "Rektal yol",
+            "E": "İntradermal yol"
+          },
+          "correctAnswer": "B",
+          "explanation": "Enjektabl uygulanan anesteziklerin IV yolla verilmesi, IM verilmesinden daha kısa sürede uyanma sağlar (Slayt 34).",
+          "distractorAnalysis": "IM uygulamada kastan kana emilim devam ettiği için uyanma belirgin şekilde gecikir.",
+          "slideNumber": 34
+        },
+        {
+          "id": "mcq_mon_059",
+          "question": "Uyanma dönemindeki bir hasta en geç hangi aralıklarla kontrol edilmelidir?",
+          "options": {
+            "A": "Her 5 dakikada bir",
+            "B": "Saatte bir kez",
+            "C": "Yalnızca ertesi sabah",
+            "D": "20 dakikada bir",
+            "E": "Kontrole gerek yoktur"
+          },
+          "correctAnswer": "A",
+          "explanation": "Uyanma dönemindeki hayvan her 5 dakikada bir kontrol edilmelidir (Slayt 35).",
+          "distractorAnalysis": "Postoperatif ilk saatler ölüm oranının en yüksek olduğu zaman dilimidir.",
+          "slideNumber": 35
+        },
+        {
+          "id": "mcq_mon_060",
+          "question": "Uyanma dönemindeki bir hastaya uzaktan bakarak değerlendirme yapmanın hekimlik açısından kesinlikle yanlış olmasının nedeni nedir?",
+          "options": {
+            "A": "Uzaktan bakıldığında hayvanın cinsiyeti anlaşılmaz",
+            "B": "Bu dönemde ölümcül bradikardi ve solunum yetmezliği oluşabilir ve bunlar uzaktan gözle asla tespit edilemez",
+            "C": "Uzaktan bakmak hastanın tansiyonunu yükseltir",
+            "D": "Işık yansıması nedeniyle göz refleksleri yanlış görülür",
+            "E": "Tüm hayvanlar uzaktan bakıldığında uyanmış gibi görünür"
+          },
+          "correctAnswer": "B",
+          "explanation": "Uyanma dönemindeki hayvana uzaktan bakıp değerlendirme doğru değildir; bu dönemde bradikardi ve solunum yetmezliği oluşabilir, bunlar uzaktan gözle tespit edilemez (Slayt 35).",
+          "distractorAnalysis": "Yakından stetoskop muayenesi, mukoza ve nabız kontrolü hayati önem taşır.",
+          "slideNumber": 35
+        },
+        {
+          "id": "mcq_mon_061",
+          "question": "Uyanma dönemindeki hastanın kontrolünde klinisyenin özellikle dikkat etmesi gereken üç temel parametre hangisidir?",
+          "options": {
+            "A": "Mukoza rengi, Kapiller dolum zamanı (CRT) ve solunum",
+            "B": "Tüy parlaklığı, tırnak uzunluğu ve iştah",
+            "C": "Kuyruk sallama sıklığı, kulak ısısı ve kilo",
+            "D": "Sadece idrarın berraklığı",
+            "E": "Sadece kan grubu"
+          },
+          "correctAnswer": "A",
+          "explanation": "Özellikle mukoz membran rengi, CRT (kapillar dolum zamanı) ve solunuma dikkat edilmelidir (Slayt 35).",
+          "distractorAnalysis": "Bu üç parametre oksijenizasyon, perfüzyon ve hava yolu güvenliğini doğrudan gösterir.",
+          "slideNumber": 35
+        },
+        {
+          "id": "mcq_mon_062",
+          "question": "Solunum sisteminin oskültasyonunda duyulan sürtünme veya ıslık sesi gibi anormal sesler öncelikle neyi düşündürür?",
+          "options": {
+            "A": "Anestezi gazının bittiğini",
+            "B": "Soluk yolunda daralma veya tıkanma ya da soluk yolları ve alveollerde sıvının varlığını",
+            "C": "Hayvanın şarkı söylediğini",
+            "D": "Kalp kapakçıklarının tamamen kapandığını",
+            "E": "Akciğerlerin aşırı genişlediğini"
+          },
+          "correctAnswer": "B",
+          "explanation": "Sürtünme sesi, ıslık sesi gibi normal olmayan sesler soluk yolunda daralma veya tıkanma ya da soluk yolları ve alveollerde sıvı varlığını gösterebilir (Slayt 12).",
+          "distractorAnalysis": "Stridor veya ronküs obstrüksiyon veya pulmoner ödem belirtisidir.",
+          "slideNumber": 12
+        },
+        {
+          "id": "mcq_mon_063",
+          "question": "Genel anestezi opioid türevleri (örn. fentanil, morfin) ile desteklendiğinde anesteziye mükemmel derecede ne eşlik eder?",
+          "options": {
+            "A": "Sadece iskelet kası felci",
+            "B": "Mükemmel derecede analjezi",
+            "C": "Şiddetli hipertansiyon",
+            "D": "Aşırı taşikardi",
+            "E": "Hipertermi krizleri"
+          },
+          "correctAnswer": "B",
+          "explanation": "Genel anestezi opioid türevleri ile destekleniyor ise anesteziye mükemmel derecede analjezi eşlik eder (Slayt 4).",
+          "distractorAnalysis": "Opioidler güçlü analjeziktir ancak yeterli kas gevşemesi için ilave ilaç gerekebilir.",
+          "slideNumber": 4
+        },
+        {
+          "id": "mcq_mon_064",
+          "question": "Büyük ruminant ve atlarda direkt arteriyel kan basıncı ölçümü için en sık kullanılan periferik arterler hangileridir?",
+          "options": {
+            "A": "Femoral arter veya lingual arter",
+            "B": "Dorsal metatarsal veya fasiyal arter",
+            "C": "Koroner arter veya renal arter",
+            "D": "Pulmoner arter",
+            "E": "Abdominal aorta"
+          },
+          "correctAnswer": "B",
+          "explanation": "Ruminant ve atlarda dorsal metatarsal veya fasiyal arterler kullanılır (Slayt 22).",
+          "distractorAnalysis": "Köpek ve kedilerde dorsal pedal ve femoral arter kullanılır.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_mon_065",
+          "question": "Anestezi altında mukoz membranların aşırı solgun olması klinisyene öncelikle hangi durumları düşündürmelidir?",
+          "options": {
+            "A": "Aşırı yüksek hematokrit ve polisitemi",
+            "B": "Kan kaybı, anemi veya anestezi süresinin uzamasına bağlı periferal perfüzyonun zayıflaması",
+            "C": "Şiddetli hipertermi ve terleme",
+            "D": "Üst solunum yolunun tıkandığını (siyanoz)",
+            "E": "Hastanın tamamen iyileştiğini"
+          },
+          "correctAnswer": "B",
+          "explanation": "Solgun mukoz membranlar kan kaybı ya da aneminin bir göstergesi veya anestezi süresinin uzamasına bağlı perfüzyonun zayıflamasından meydana gelebilir (Slayt 24).",
+          "distractorAnalysis": "Siyanoz mavi renktir; solgunluk vazokonstriksiyon, hipovolemi veya anemidir.",
+          "slideNumber": 24
+        }
+      ],
+      "openEndedQuestions": [
+        {
+          "id": "au_mon_001",
+          "question": "Anestezi hastasının monitörizasyonunun üç temel amacını ve sağlıklı bir hastada kontrol sıklığını yazınız.",
+          "idealAnswer": "Monitörizasyonun üç temel amacı: 1) Anestezinin maksimum derecede güvenli bir şekilde sürdürülmesini sağlamak, 2) Yaşamsal organ fonksiyonlarındaki azalmayı ve hasarı minimuma indirmek, 3) Cerrahi sonrasında sorunsuz ve sağlıklı bir şekilde uyanmanın gerçekleşmesini temin etmektir. Sağlıklı anestezi hastaları operasyon süresince her 3-5 dakikada bir düzenli olarak kontrol edilmeli ve parametreleri kaydedilmelidir.",
+          "slideNumber": 2
+        },
+        {
+          "id": "au_mon_002",
+          "question": "Anestezi altındaki bir hastada cerrahi uyarana karşı taşikardi veya hareket şekillendiğinde analjezi ve anestezi derinliği açısından nasıl bir karar verilmelidir?",
+          "idealAnswer": "Cerrahi uyarıya sempatik yanıt (kalp frekansı artışı) veya spontan hareket oluşması ağrı algılandığını gösterir. Eğer bu hareketler cerrahi müdahaleyi olumsuz etkiliyorsa anestezi derinliği artırılır veya ilave analjezik ilaçlar (özellikle opioidler) uygulanır. Ancak hayvanın hafif hareketleri cerrahi müdahaleyi olumsuz etkilemiyorsa, hastayı kardiyorespiratuvar depresyon riskine sokmamak için anestezi derinliği gereksiz yere artırılmamalıdır.",
+          "slideNumber": 4
+        },
+        {
+          "id": "au_mon_003",
+          "question": "Torakotomi ve laparotomi gibi operasyonlarda kas gevşemesini sağlamak amacıyla anestezi gazını artırmak yerine ne yapılmalıdır ve nedeni nedir?",
+          "idealAnswer": "Kas tonusunu minimal düzeye indirmek için genel anestezi derinliğini artırmak yerine spesifik kas gevşetici ilaçların (veya benzodiazepin/alfa-2 agonistlerin) kullanılması gerekir. Çünkü anestezi derinliğini sadece kas gevşetmek amacıyla artırmak; miyokard depresyonu, şiddetli hipotansiyon, solunum durması ve toksik doz aşımı gibi hayati risklere yol açar.",
+          "slideNumber": 5
+        },
+        {
+          "id": "au_mon_004",
+          "question": "Uyanık kedi/köpek ile orta düzey cerrahi anestezideki kedi/köpeğin normal solunum sayılarını yazarak, derin anesteziye işaret eden alt sınırları belirtiniz.",
+          "idealAnswer": "Uyanık normal solunum sayısı: Köpeklerde 10-30/dk, kedilerde 25-40/dk'dır. Orta düzey cerrahi anestezide: Küçük hayvanlarda 8-20/dk, büyük hayvanlarda 6-10/dk normal kabul edilir. Solunum sayısının küçük hayvanlarda 8/dk'nın, büyük hayvanlarda ise 6/dk'nın altına düşmesi derin anestezi dönemine girildiğini gösterir.",
+          "slideNumber": 7
+        },
+        {
+          "id": "au_mon_005",
+          "question": "Anestezide tidal volümün azalmasının (hipoventilasyon) patofizyolojik nedenini ve alveolar atelektazinin mekanizması ile sağaltımını açıklayınız.",
+          "idealAnswer": "Preanestezik ve anestezik maddeler inspirasyonda interkostal kasların genişleme yeteneğini azaltarak tidal volümün en az %25 azalmasına ve yüzeysel solunuma neden olur. Bu durumda alt alveollere yeterli hava ulaşamaz ve alveoller parsiyel olarak kollabe olur (atelektazi). Sağaltım: Anestezi cihazının rezerv balonu dikkatlice sıkılarak akciğerlere ılımlı basınçla solunum desteği verilir (her 5 dakikada bir rutin bagging). En iyi yöntem ise mekanik ventilatör kullanmaktır.",
+          "slideNumber": 9
+        },
+        {
+          "id": "au_mon_006",
+          "question": "Ketamin anestezisinde görülen 'apnetik solunum' paterninin özelliklerini açıklayınız.",
+          "idealAnswer": "Apnetik solunum; dissosiyatif anestezik olan ketamin uygulaması sonrasında gelişen özel bir solunum tipidir. Bu paternde hayvan derin bir inspirasyon yapar, inspirasyonu takiben soluğunu tutar ve ekspirasyon öncesinde belirgin, uzun bir duraklama (bekleme süresi) meydana gelir, ardından ekspirasyon gerçekleşir.",
+          "slideNumber": 12
+        },
+        {
+          "id": "au_mon_007",
+          "question": "Arteriyel PaCO2 değerinin 28, 45, 60 ve 20 mmHg olduğu durumlarda hastanın solunumsal durumunu ve organ etkilerini açıklayınız.",
+          "idealAnswer": "1) PaCO2 < 28 mmHg: Hiperventilasyonu gösterir. 2) PaCO2 > 45 mmHg: Hipoventilasyonu gösterir. 3) PaCO2 > 60 mmHg: Aşırı respiratuar asidoz ve hipoksiye işaret eder; hastaya acil mekanik ventilasyon verilmelidir. 4) PaCO2 < 20 mmHg: Şiddetli solunum alkalozunu gösterir; serebral damarlarda daralma oluşturarak serebral kan akımını azaltır ve beyin oksijenizasyonunu bozar.",
+          "slideNumber": 13
+        },
+        {
+          "id": "au_mon_008",
+          "question": "Pulse oksimetrenin çalışma prensibini yazarak, hangi klinik durumda hatalı düşük değer ölçebileceğini açıklayınız.",
+          "idealAnswer": "Pulse oksimetre; arteriyel kandaki oksijenle doymuş (sature) hemoglobin yüzdesini (SpO2) ve nabız frekansını probu (dil, dudak, kuyruk) aracılığıyla noninvaziv yöntemle sürekli ölçer. Yeterince doğru ölçüm yapamamasının en önemli nedeni periferal vazokonstriksiyondur (örn. alfa-2 agonistler veya hipotermi). Bu durumda probun altındaki doku perfüzyonu azaldığı için sinyal zayıflar, cihaz düşük değer okur ve hasta aslında hipoksemik olmadığı halde yalancı hipoksi tanısı konur.",
+          "slideNumber": 14
+        },
+        {
+          "id": "au_mon_009",
+          "question": "Anestezi altındaki kedi ve köpeklerde kabul edilebilir en düşük kalp frekanslarını ve normal anestezi aralığını yazınız.",
+          "idealAnswer": "Anestezi hastalarında kabul edilebilir en düşük kalp frekansı: Köpeklerde 70 atım/dakika, kedilerde 100 atım/dakikadır. Anestezi sırasında kalp frekansının dakikada 90-120 arasında olması normal kabul edilir. Bu sınırların altına inmesi miyokardiyal depresyon veya derin anestezi dönemine işaret eder.",
+          "slideNumber": 15
+        },
+        {
+          "id": "au_mon_010",
+          "question": "Kalp seslerinin stetoskopla duyulması veya EKG ritminin varlığı tek başına dolaşımın yeterli olduğunu neden kanıtlamaz?",
+          "idealAnswer": "Çünkü EKG sadece kalbin elektriksel aktivitesini, stetoskop ise kapak seslerini yansıtır; kalbin her elektriksel veya mekanik vurusu dokuları perfüze edecek güçte bir atım hacmi (strok volüm) oluşturamayabilir. Yeterli bir dolaşımın varlığından emin olmak için kalp frekansı mutlaka arteriyel nabız kalitesi (dolgunluğu), kapiller dolum zamanı (CRT) ve arteriyel kan basıncı ölçümleri ile birlikte değerlendirilmelidir.",
+          "slideNumber": 16
+        },
+        {
+          "id": "au_mon_011",
+          "question": "Küçük hayvanlarda direkt ve indirekt kan basıncı ölçüm yöntemlerini ve kullanılan damarları karşılaştırınız.",
+          "idealAnswer": "Direkt yöntem: a. femoralis veya dorsal pedal artere kateter yerleştirilerek doğrudan basınç dönüştürücüye bağlanır; en doğru ortalama arter basıncını (MAP) verir. İndirekt yöntem: Ekstremiteye manşon takılarak sfigmomanometre (Doppler veya osilometrik) kullanılır; ilk pulzasyon sesi sistolik, sesin kaybolduğu nokta diastolik basınç olarak kaydedilir.",
+          "slideNumber": 21
+        },
+        {
+          "id": "au_mon_012",
+          "question": "Hayvanlarda normal sistolik, diastolik ve ortalama kan basıncı (MAP) değerleri ile kritik iskemi sınırlarını yazınız.",
+          "idealAnswer": "Normal değerler: Sistolik: 100-160 mmHg, Diastolik: 60-100 mmHg, Ortalama kan basıncı (MAP): 80-120 mmHg olmalıdır. Kritik iskemi sınırları: Sistolik kan basıncının 80 mmHg'nin, ortalama kan basıncının (MAP) 60 mmHg'nin altına düşmesi beyin (serebral) ve kalp (koroner) perfüzyonunun yetersiz kalmasına ve iskemik hasara yol açar.",
+          "slideNumber": 22
+        },
+        {
+          "id": "au_mon_013",
+          "question": "Anestezi sırasında CRT uzaması ve idrar atımının durması hangi patofizyolojik durumun göstergesidir?",
+          "idealAnswer": "Hastanın sistolik kan basıncının 70-80 mmHg'nin altına düştüğünün ve belirgin hipotansiyon/hipovolemi geliştiğinin göstergesidir. Kan basıncı bu kritik seviyenin altına indiğinde periferal kılcal damar yatağı çöker ve CRT uzar; aynı zamanda böbrek glomerül filtrasyon basıncı yetersiz kaldığı için idrar atımı belirgin yavaşlar veya tamamen durur.",
+          "slideNumber": 20
+        },
+        {
+          "id": "au_mon_014",
+          "question": "Sağlıklı kedi ve köpeklerin dolaşım şoku gelişmeden tolere edebileceği kan kaybı oranını ve miktarını yazınız.",
+          "idealAnswer": "Sağlıklı hayvanlar toplam kan hacimlerinin %15'ini sirkülasyon şoku gelişmeksizin kompanse edip tolere edebilirler. Bu tolere edilebilir miktar kedi ve köpeklerde vücut ağırlığı başına yaklaşık 13 ml/kg'dır.",
+          "slideNumber": 24
+        },
+        {
+          "id": "au_mon_015",
+          "question": "Anestezi sırasında hastanın vücut ısısının 3°C veya daha fazla düşmesine (hipotermi) katkıda bulunan 5 temel nedeni yazınız.",
+          "idealAnswer": "1) Operasyon öncesinde operasyon bölgesinin soğuk antiseptik ve alkolle yıkanması, 2) Anestezi sırasında titreme ve kas aktivitesi oluşmamasına bağlı ısı üretilememesi, 3) Anestezi döneminde metabolizmanın yavaşlaması, 4) Operasyon sırasında vücut boşluklarının (karın, göğüs) açılmasına bağlı doğrudan ısı kaybı, 5) Birçok preanestezik ve anestezik ilacın periferik vazodilatasyon oluşturarak radyasyonla ısı kaybını artırması.",
+          "slideNumber": 25
+        },
+        {
+          "id": "au_mon_016",
+          "question": "Malignant hiperterminin tanımını, hangi anestezikle ilişkili olduğunu ve klinik önemini açıklayınız.",
+          "idealAnswer": "Malignant hipertermi; özellikle Halotan anestezisi uygulanan genetik duyarlı hayvanlarda iskelet kaslarında aşırı kalsiyum salınımı ile kontrolsüz ısı artışına yol açan nadir fakat ölümcül bir komplikasyondur. Vücut ısısı hızla kritik seviyeleri aşar; derhal anestezi kesilip agresif soğutma ve tedavi uygulanmazsa hızla ölümle sonuçlanır.",
+          "slideNumber": 25
+        },
+        {
+          "id": "au_mon_017",
+          "question": "Palpebral refleks ile korneal refleksin kontrol yöntemlerini ve anestezi derinliği açısından klinik farklarını açıklayınız.",
+          "idealAnswer": "Palpebral refleks: Gözün medial veya lateral açısına dokunularak aranır; I. ve II. dönemde pozitiftir, cerrahi dönemde kaybolur (ketaminde kaybolmaz, halotanda kaybolur), geri dönmesi uyanmayı gösterir. Korneal refleks ise doğrudan korneaya dokunularak bakılır; anestezinin 3. döneminin 3. planına kadar mevcuttur. Korneal refleksin kaybolması anestezinin hayati tehlike yaratacak düzeyde aşırı derinleştiğini belgeler.",
+          "slideNumber": 26
+        },
+        {
+          "id": "au_mon_018",
+          "question": "Anestezi dönemlerine göre göz küresi pozisyonunu ve tehlikeli anestezi evresindeki göz-pupil tablosunu açıklayınız.",
+          "idealAnswer": "Dönem I: Göz merkezdedir. Dönem II: Göz ventromedial pozisyondadır (hayvan çenesine bakar gibidir). Dönem III (Cerrahi dönem): Göz tekrar merkezi pozisyonuna geri döner. Tehlikeli aşırı derin anestezi evresinde ise; göz küresi merkezdedir, pupillalar tamamen dilate (fiks midriyazis) haldedir ve ışığa karşı hiçbir pupiller refleks cevabı yoktur.",
+          "slideNumber": 30
+        },
+        {
+          "id": "au_mon_019",
+          "question": "Cerrahi sırasında ovaryum ligamentinin çekilmesi gibi visceral ağrılı uyarılarda hastada ortaya çıkan otonom ve motor belirtileri yazınız.",
+          "idealAnswer": "Visceral ağrı ve sempatik uyarım algılandığında: Kalp frekansı (taşikardi) ve kan basıncı aniden yükselir, solunum sayısı artar (taşipne), lakrimasyon (gözyaşı akışı), salivasyon (tükürük artışı) ve pedal hareketler (bacakları çekme) meydana gelir. Bu bulgular anestezinin cerrahi için yetersiz olduğunu belgeler.",
+          "slideNumber": 33
+        },
+        {
+          "id": "au_mon_020",
+          "question": "Uyanma döneminde hastanın uzaktan izlenmesinin neden kesinlikle yanlış olduğunu ve yapılması gereken kontrol protokolünü açıklayınız.",
+          "idealAnswer": "Uyanma dönemi mortalitenin en yüksek olduğu kritik dönemlerden biridir; bu dönemde akut bradikardi, aritmiler ve solunum yolu obstrüksiyonuna bağlı solunum yetmezliği gelişebilir ve bunlar uzaktan bakarak asla fark edilemez. Protokol: Hayvan uyanana kadar her 5 dakikada bir yakından kontrol edilmeli; stetoskopla kalp ve akciğer sesleri dinlenmeli, mukoza rengi, CRT, nabız kalitesi ve yutkunma refleksi muayene edilerek ekstübasyon güvenle yapılmalıdır.",
+          "slideNumber": 35
+        }
+      ]
     }
   ]
 }

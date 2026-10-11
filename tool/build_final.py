@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Kümülatif 6'lı Modül Birleştirici:
+Kümülatif 7'li Modül Birleştirici:
 1. Ders: Anesteziye Giriş & Muayene (38 Slayt - 65 Soru)
 2. Ders: Preanestezik İlaçlar & İndüksiyon (74 Slayt - 60 Soru)
 3. Ders: Sindirim Sistemi Hastalıkları (240 Slayt - 140 Soru)
 4. Ders: Genel Anestezi & Anestezi Dönemleri (22 Slayt - 55 Soru)
 5. Ders: Anestezi Ekipmanları ve Cihazları (25 Slayt - 60 Soru)
 6. Ders: İnhalasyon Anestezikleri & Farmakolojisi (24 Slayt - 60 Soru)
+7. Ders: Anestezi Hastasının Monitörizasyonu (35 Slayt - 65 Soru)
 """
 import json
 import os
@@ -39,6 +40,14 @@ from inhalasyon_notes import (
     BILGI_KARTLARI as INHAL_BILGI_KARTLARI,
     ACIK_UCLU_SORULAR as INHAL_ACIK_UCLU_SORULAR,
     COKTAN_SECMELI_SORULAR as INHAL_COKTAN_SECMELI_SORULAR
+)
+
+from monitorizasyon_notes import (
+    METADATA as MON_METADATA,
+    SUMMARY_SECTIONS as MON_SUMMARY_SECTIONS,
+    BILGI_KARTLARI as MON_BILGI_KARTLARI,
+    ACIK_UCLU_SORULAR as MON_ACIK_UCLU_SORULAR,
+    COKTAN_SECMELI_SORULAR as MON_COKTAN_SECMELI_SORULAR
 )
 
 # 1. Mevcut data.js'den anestezi verisini oku
@@ -151,8 +160,26 @@ inhalasyon_module = {
     "coktan_secmeli_sorular": INHAL_COKTAN_SECMELI_SORULAR
 }
 
-# 7. Kümülatif Veritabanı
+# 7. Anestezi Monitörizasyonu modülü (7. Ders)
+monitorizasyon_module = {
+    "id": "monitorizasyon",
+    "name": MON_METADATA["name"],
+    "shortName": MON_METADATA["shortName"],
+    "icon": MON_METADATA["icon"],
+    "badge": MON_METADATA["badge"],
+    "kategori": MON_METADATA["kategori"],
+    "alt_kategori": MON_METADATA["alt_kategori"],
+    "ozet": MON_METADATA["ozet"],
+    "kilit_noktalar": MON_METADATA["kilit_noktalar"],
+    "summarySections": MON_SUMMARY_SECTIONS,
+    "bilgi_kartlari": MON_BILGI_KARTLARI,
+    "acik_uclu_sorular": MON_ACIK_UCLU_SORULAR,
+    "coktan_secmeli_sorular": MON_COKTAN_SECMELI_SORULAR
+}
+
+# 8. Kümülatif Veritabanı
 all_modules = {
+    "monitorizasyon": monitorizasyon_module,
     "inhalasyon": inhalasyon_module,
     "ekipmanlar": ekipman_module,
     "genel_anestezi": genel_anestezi_module,
@@ -161,11 +188,11 @@ all_modules = {
     "anestezi": anestezi_module
 }
 
-new_js_content = f"""// VetMeri Eğitim Modülleri Veri Tabanı (Kümülatif 6 Modül)
+new_js_content = f"""// VetMeri Eğitim Modülleri Veri Tabanı (Kümülatif 7 Modül)
 window.ALL_MODULES = {json.dumps(all_modules, ensure_ascii=False, indent=2)};
 
-// Geriye dönük uyumluluk (Varsayılan aktif modül: İnhalasyon Anestezikleri)
-window.MODULE_DATA = window.ALL_MODULES["inhalasyon"];
+// Geriye dönük uyumluluk (Varsayılan aktif modül: Hasta Monitörizasyonu)
+window.MODULE_DATA = window.ALL_MODULES["monitorizasyon"];
 """
 
 with open('data.js', 'w', encoding='utf-8') as f:
@@ -178,6 +205,7 @@ print(f"3. Sindirim: {len(sindirim_module['coktan_secmeli_sorular'])} MCQ, {len(
 print(f"4. Genel Anestezi: {len(genel_anestezi_module['coktan_secmeli_sorular'])} MCQ, {len(genel_anestezi_module['bilgi_kartlari'])} Kart, {len(genel_anestezi_module['acik_uclu_sorular'])} Klasik")
 print(f"5. Anestezi Ekipmanları: {len(ekipman_module['coktan_secmeli_sorular'])} MCQ, {len(ekipman_module['bilgi_kartlari'])} Kart, {len(ekipman_module['acik_uclu_sorular'])} Klasik")
 print(f"6. İnhalasyon Anestezikleri: {len(inhalasyon_module['coktan_secmeli_sorular'])} MCQ, {len(inhalasyon_module['bilgi_kartlari'])} Kart, {len(inhalasyon_module['acik_uclu_sorular'])} Klasik")
+print(f"7. Hasta Monitörizasyonu: {len(monitorizasyon_module['coktan_secmeli_sorular'])} MCQ, {len(monitorizasyon_module['bilgi_kartlari'])} Kart, {len(monitorizasyon_module['acik_uclu_sorular'])} Klasik")
 
 total_mcq = (
     len(anestezi_module['coktan_secmeli_sorular']) +
@@ -185,11 +213,12 @@ total_mcq = (
     len(sindirim_module['coktan_secmeli_sorular']) +
     len(genel_anestezi_module['coktan_secmeli_sorular']) +
     len(ekipman_module['coktan_secmeli_sorular']) +
-    len(inhalasyon_module['coktan_secmeli_sorular'])
+    len(inhalasyon_module['coktan_secmeli_sorular']) +
+    len(monitorizasyon_module['coktan_secmeli_sorular'])
 )
 print(f"TOPLAM KÜMÜLATİF SORU: {total_mcq} MCQ")
 
-# 8. data.json'ı da 6 dersli olarak güncelle
+# 9. data.json'ı da 7 dersli olarak güncelle
 data_json = {
     "lessons": [
         {
@@ -383,6 +412,38 @@ data_json = {
                 }
                 for o in inhalasyon_module["acik_uclu_sorular"]
             ]
+        },
+        {
+            "id": "lesson_7",
+            "title": monitorizasyon_module["name"],
+            "subtitle": monitorizasyon_module["badge"],
+            "icon": monitorizasyon_module["icon"],
+            "summarySections": monitorizasyon_module["summarySections"],
+            "flashcards": [
+                {"id": f["kart_id"], "question": f["on_yuz"], "answer": f["arka_yuz"]}
+                for f in monitorizasyon_module["bilgi_kartlari"]
+            ],
+            "quizQuestions": [
+                {
+                    "id": q["soru_id"],
+                    "question": q["soru_metni"],
+                    "options": q["secenekler"],
+                    "correctAnswer": q["dogru_cevap"],
+                    "explanation": q["aciklama"]["genel"],
+                    "distractorAnalysis": q["aciklama"]["celdirici_analizi"],
+                    "slideNumber": q["slayt_no"]
+                }
+                for q in monitorizasyon_module["coktan_secmeli_sorular"]
+            ],
+            "openEndedQuestions": [
+                {
+                    "id": o["soru_id"],
+                    "question": o["soru"],
+                    "idealAnswer": o["ideal_cevap"],
+                    "slideNumber": o["slayt_no"]
+                }
+                for o in monitorizasyon_module["acik_uclu_sorular"]
+            ]
         }
     ]
 }
@@ -390,4 +451,4 @@ data_json = {
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(data_json, f, ensure_ascii=False, indent=2)
 
-print("data.json başarıyla 6 dersli olarak güncellendi!")
+print("data.json başarıyla 7 dersli olarak güncellendi!")
