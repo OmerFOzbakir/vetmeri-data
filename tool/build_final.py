@@ -1,18 +1,27 @@
 # -*- coding: utf-8 -*-
 """
-Kümülatif 3'lü Modül Birleştirici:
+Kümülatif 4'lü Modül Birleştirici:
 1. Ders: Anesteziye Giriş & Muayene (38 Slayt - 65 Soru)
 2. Ders: Preanestezik İlaçlar & İndüksiyon (74 Slayt - 60 Soru)
 3. Ders: Sindirim Sistemi Hastalıkları (240 Slayt - 140 Soru)
+4. Ders: Genel Anestezi & Anestezi Dönemleri (22 Slayt - 55 Soru)
 """
 import json
 import os
 import re
 
-from sindirim_notes import METADATA, SUMMARY_SECTIONS, BILGI_KARTLARI, ACIK_UCLU_SORULAR
+from sindirim_notes import METADATA as SIND_METADATA, SUMMARY_SECTIONS as SIND_SUMMARY_SECTIONS, BILGI_KARTLARI as SIND_BILGI_KARTLARI, ACIK_UCLU_SORULAR as SIND_ACIK_UCLU_SORULAR
 from sindirim_part1 import QUESTIONS_PART1
 from sindirim_part2 import QUESTIONS_PART2
 from sindirim_part3 import QUESTIONS_PART3
+
+from genel_anestezi_notes import (
+    METADATA as GA_METADATA,
+    SUMMARY_SECTIONS as GA_SUMMARY_SECTIONS,
+    BILGI_KARTLARI as GA_BILGI_KARTLARI,
+    ACIK_UCLU_SORULAR as GA_ACIK_UCLU_SORULAR,
+    COKTAN_SECMELI_SORULAR as GA_COKTAN_SECMELI_SORULAR
+)
 
 # 1. Mevcut data.js'den anestezi verisini oku
 with open('data.js', 'r', encoding='utf-8') as f:
@@ -63,41 +72,65 @@ sindirim_module = {
     "shortName": "Sindirim Sistemi",
     "icon": "🐾",
     "badge": "240 Slayt • Özefagus, Mide, GDV, İntestinal & Vaka",
-    "kategori": METADATA["kategori"],
-    "alt_kategori": METADATA["alt_kategori"],
-    "ozet": METADATA["ozet"],
-    "kilit_noktalar": METADATA["kilit_noktalar"],
-    "summarySections": SUMMARY_SECTIONS,
-    "bilgi_kartlari": BILGI_KARTLARI,
-    "acik_uclu_sorular": ACIK_UCLU_SORULAR,
+    "kategori": SIND_METADATA["kategori"],
+    "alt_kategori": SIND_METADATA["alt_kategori"],
+    "ozet": SIND_METADATA["ozet"],
+    "kilit_noktalar": SIND_METADATA["kilit_noktalar"],
+    "summarySections": SIND_SUMMARY_SECTIONS,
+    "bilgi_kartlari": SIND_BILGI_KARTLARI,
+    "acik_uclu_sorular": SIND_ACIK_UCLU_SORULAR,
     "coktan_secmeli_sorular": sindirim_mcqs
 }
 
-# 4. Kümülatif Veritabanı
+# 4. Genel Anestezi modülü (4. Ders)
+genel_anestezi_module = {
+    "id": "genel_anestezi",
+    "name": GA_METADATA["name"],
+    "shortName": GA_METADATA["shortName"],
+    "icon": GA_METADATA["icon"],
+    "badge": GA_METADATA["badge"],
+    "kategori": GA_METADATA["kategori"],
+    "alt_kategori": GA_METADATA["alt_kategori"],
+    "ozet": GA_METADATA["ozet"],
+    "kilit_noktalar": GA_METADATA["kilit_noktalar"],
+    "summarySections": GA_SUMMARY_SECTIONS,
+    "bilgi_kartlari": GA_BILGI_KARTLARI,
+    "acik_uclu_sorular": GA_ACIK_UCLU_SORULAR,
+    "coktan_secmeli_sorular": GA_COKTAN_SECMELI_SORULAR
+}
+
+# 5. Kümülatif Veritabanı
 all_modules = {
+    "genel_anestezi": genel_anestezi_module,
     "sindirim": sindirim_module,
     "preanestezi": preanestezi_module,
     "anestezi": anestezi_module
 }
 
-new_js_content = f"""// VetMeri Eğitim Modülleri Veri Tabanı (Kümülatif 3 Modül)
+new_js_content = f"""// VetMeri Eğitim Modülleri Veri Tabanı (Kümülatif 4 Modül)
 window.ALL_MODULES = {json.dumps(all_modules, ensure_ascii=False, indent=2)};
 
-// Geriye dönük uyumluluk (Varsayılan aktif modül: Sindirim Sistemi)
-window.MODULE_DATA = window.ALL_MODULES["sindirim"];
+// Geriye dönük uyumluluk (Varsayılan aktif modül: Genel Anestezi)
+window.MODULE_DATA = window.ALL_MODULES["genel_anestezi"];
 """
 
 with open('data.js', 'w', encoding='utf-8') as f:
     f.write(new_js_content)
 
-print(f"data.js güncellendi!")
+print("data.js güncellendi!")
 print(f"1. Anestezi: {len(anestezi_module['coktan_secmeli_sorular'])} MCQ, {len(anestezi_module['bilgi_kartlari'])} Kart, {len(anestezi_module['acik_uclu_sorular'])} Klasik")
 print(f"2. Preanestezi: {len(preanestezi_module['coktan_secmeli_sorular'])} MCQ, {len(preanestezi_module['bilgi_kartlari'])} Kart, {len(preanestezi_module['acik_uclu_sorular'])} Klasik")
 print(f"3. Sindirim: {len(sindirim_module['coktan_secmeli_sorular'])} MCQ, {len(sindirim_module['bilgi_kartlari'])} Kart, {len(sindirim_module['acik_uclu_sorular'])} Klasik")
-total_mcq = len(anestezi_module['coktan_secmeli_sorular']) + len(preanestezi_module['coktan_secmeli_sorular']) + len(sindirim_module['coktan_secmeli_sorular'])
+print(f"4. Genel Anestezi: {len(genel_anestezi_module['coktan_secmeli_sorular'])} MCQ, {len(genel_anestezi_module['bilgi_kartlari'])} Kart, {len(genel_anestezi_module['acik_uclu_sorular'])} Klasik")
+total_mcq = (
+    len(anestezi_module['coktan_secmeli_sorular']) +
+    len(preanestezi_module['coktan_secmeli_sorular']) +
+    len(sindirim_module['coktan_secmeli_sorular']) +
+    len(genel_anestezi_module['coktan_secmeli_sorular'])
+)
 print(f"TOPLAM KÜMÜLATİF SORU: {total_mcq} MCQ")
 
-# 5. data.json'ı da 3 dersli olarak güncelle
+# 6. data.json'ı da 4 dersli olarak güncelle
 data_json = {
     "lessons": [
         {
@@ -195,6 +228,38 @@ data_json = {
                 }
                 for o in sindirim_module["acik_uclu_sorular"]
             ]
+        },
+        {
+            "id": "lesson_4",
+            "title": genel_anestezi_module["name"],
+            "subtitle": genel_anestezi_module["badge"],
+            "icon": genel_anestezi_module["icon"],
+            "summarySections": genel_anestezi_module["summarySections"],
+            "flashcards": [
+                {"id": f["kart_id"], "question": f["on_yuz"], "answer": f["arka_yuz"]}
+                for f in genel_anestezi_module["bilgi_kartlari"]
+            ],
+            "quizQuestions": [
+                {
+                    "id": q["soru_id"],
+                    "question": q["soru_metni"],
+                    "options": q["secenekler"],
+                    "correctAnswer": q["dogru_cevap"],
+                    "explanation": q["aciklama"]["genel"],
+                    "distractorAnalysis": q["aciklama"]["celdirici_analizi"],
+                    "slideNumber": q["slayt_no"]
+                }
+                for q in genel_anestezi_module["coktan_secmeli_sorular"]
+            ],
+            "openEndedQuestions": [
+                {
+                    "id": o["soru_id"],
+                    "question": o["soru"],
+                    "idealAnswer": o["ideal_cevap"],
+                    "slideNumber": o["slayt_no"]
+                }
+                for o in genel_anestezi_module["acik_uclu_sorular"]
+            ]
         }
     ]
 }
@@ -202,4 +267,4 @@ data_json = {
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(data_json, f, ensure_ascii=False, indent=2)
 
-print("data.json başarıyla 3 dersli olarak güncellendi!")
+print("data.json başarıyla 4 dersli olarak güncellendi!")

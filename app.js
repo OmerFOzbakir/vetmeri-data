@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const heroDesc = document.getElementById('hero-desc');
 
   // Kaydedilmiş son aktif modülü yükle
-  let currentModuleKey = localStorage.getItem('vetmeri_active_module') || 'sindirim';
+  let currentModuleKey = localStorage.getItem('vetmeri_active_module') || 'genel_anestezi';
   if (!allModules[currentModuleKey] && currentModuleKey !== 'hepsi') {
-    currentModuleKey = 'sindirim';
+    currentModuleKey = 'genel_anestezi';
   }
   if (moduleSelector) {
     moduleSelector.value = currentModuleKey;
@@ -28,38 +28,43 @@ document.addEventListener('DOMContentLoaded', () => {
       const anestezi = allModules['anestezi'] || {};
       const preanestezi = allModules['preanestezi'] || {};
       const sindirim = allModules['sindirim'] || {};
+      const genel_anestezi = allModules['genel_anestezi'] || {};
       return {
         id: 'hepsi',
         name: 'Tüm Konular (Kümülatif Havuz)',
         shortName: 'Kümülatif Soru Havuzu',
         icon: '📚',
-        badge: '352 Slayt • 265 Soru • 3 Ders Bir Arada',
+        badge: '374 Slayt • 320 Soru • 4 Ders Bir Arada',
         kategori: 'Veteriner Hekimlik',
         alt_kategori: 'Kümülatif Sınav Hazırlığı',
-        ozet: 'Anesteziye Giriş (38 Slayt), Preanestezik İlaçlar (74 Slayt) ve Sindirim Sistemi Hastalıkları (240 Slayt) derslerinin tüm soru ve bilgi kartlarını içeren birleşik çalışma havuzu.',
+        ozet: 'Anesteziye Giriş (38 Slayt), Preanestezik İlaçlar (74 Slayt), Sindirim Sistemi Hastalıkları (240 Slayt) ve Genel Anestezi (22 Slayt) derslerinin tüm soru ve bilgi kartlarını içeren birleşik çalışma havuzu.',
         summarySections: [
+          ...(genel_anestezi.summarySections || []).map(s => ({ ...s, title: `[Genel Anestezi] ${s.title}` })),
           ...(sindirim.summarySections || []).map(s => ({ ...s, title: `[Sindirim] ${s.title}` })),
           ...(preanestezi.summarySections || []).map(s => ({ ...s, title: `[Preanestezi] ${s.title}` })),
           ...(anestezi.summarySections || []).map(s => ({ ...s, title: `[Anestezi] ${s.title}` }))
         ],
         bilgi_kartlari: [
+          ...(genel_anestezi.bilgi_kartlari || []),
           ...(sindirim.bilgi_kartlari || []),
           ...(preanestezi.bilgi_kartlari || []),
           ...(anestezi.bilgi_kartlari || [])
         ],
         acik_uclu_sorular: [
+          ...(genel_anestezi.acik_uclu_sorular || []),
           ...(sindirim.acik_uclu_sorular || []),
           ...(preanestezi.acik_uclu_sorular || []),
           ...(anestezi.acik_uclu_sorular || [])
         ],
         coktan_secmeli_sorular: [
+          ...(genel_anestezi.coktan_secmeli_sorular || []),
           ...(sindirim.coktan_secmeli_sorular || []),
           ...(preanestezi.coktan_secmeli_sorular || []),
           ...(anestezi.coktan_secmeli_sorular || [])
         ]
       };
     }
-    return allModules[currentModuleKey] || allModules['sindirim'] || window.MODULE_DATA;
+    return allModules[currentModuleKey] || allModules['genel_anestezi'] || allModules['sindirim'] || window.MODULE_DATA;
   }
 
   let activeData = getActiveData();
