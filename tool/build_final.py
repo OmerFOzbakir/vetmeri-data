@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Kümülatif 4'lü Modül Birleştirici:
+Kümülatif 5'li Modül Birleştirici:
 1. Ders: Anesteziye Giriş & Muayene (38 Slayt - 65 Soru)
 2. Ders: Preanestezik İlaçlar & İndüksiyon (74 Slayt - 60 Soru)
 3. Ders: Sindirim Sistemi Hastalıkları (240 Slayt - 140 Soru)
 4. Ders: Genel Anestezi & Anestezi Dönemleri (22 Slayt - 55 Soru)
+5. Ders: Anestezi Ekipmanları ve Cihazları (25 Slayt - 60 Soru)
 """
 import json
 import os
@@ -21,6 +22,14 @@ from genel_anestezi_notes import (
     BILGI_KARTLARI as GA_BILGI_KARTLARI,
     ACIK_UCLU_SORULAR as GA_ACIK_UCLU_SORULAR,
     COKTAN_SECMELI_SORULAR as GA_COKTAN_SECMELI_SORULAR
+)
+
+from ekipman_notes import (
+    METADATA as EKIP_METADATA,
+    SUMMARY_SECTIONS as EKIP_SUMMARY_SECTIONS,
+    BILGI_KARTLARI as EKIP_BILGI_KARTLARI,
+    ACIK_UCLU_SORULAR as EKIP_ACIK_UCLU_SORULAR,
+    COKTAN_SECMELI_SORULAR as EKIP_COKTAN_SECMELI_SORULAR
 )
 
 # 1. Mevcut data.js'den anestezi verisini oku
@@ -99,19 +108,37 @@ genel_anestezi_module = {
     "coktan_secmeli_sorular": GA_COKTAN_SECMELI_SORULAR
 }
 
-# 5. Kümülatif Veritabanı
+# 5. Anestezi Ekipmanları modülü (5. Ders)
+ekipman_module = {
+    "id": "ekipmanlar",
+    "name": EKIP_METADATA["name"],
+    "shortName": EKIP_METADATA["shortName"],
+    "icon": EKIP_METADATA["icon"],
+    "badge": EKIP_METADATA["badge"],
+    "kategori": EKIP_METADATA["kategori"],
+    "alt_kategori": EKIP_METADATA["alt_kategori"],
+    "ozet": EKIP_METADATA["ozet"],
+    "kilit_noktalar": EKIP_METADATA["kilit_noktalar"],
+    "summarySections": EKIP_SUMMARY_SECTIONS,
+    "bilgi_kartlari": EKIP_BILGI_KARTLARI,
+    "acik_uclu_sorular": EKIP_ACIK_UCLU_SORULAR,
+    "coktan_secmeli_sorular": EKIP_COKTAN_SECMELI_SORULAR
+}
+
+# 6. Kümülatif Veritabanı
 all_modules = {
+    "ekipmanlar": ekipman_module,
     "genel_anestezi": genel_anestezi_module,
     "sindirim": sindirim_module,
     "preanestezi": preanestezi_module,
     "anestezi": anestezi_module
 }
 
-new_js_content = f"""// VetMeri Eğitim Modülleri Veri Tabanı (Kümülatif 4 Modül)
+new_js_content = f"""// VetMeri Eğitim Modülleri Veri Tabanı (Kümülatif 5 Modül)
 window.ALL_MODULES = {json.dumps(all_modules, ensure_ascii=False, indent=2)};
 
-// Geriye dönük uyumluluk (Varsayılan aktif modül: Genel Anestezi)
-window.MODULE_DATA = window.ALL_MODULES["genel_anestezi"];
+// Geriye dönük uyumluluk (Varsayılan aktif modül: Anestezi Ekipmanları)
+window.MODULE_DATA = window.ALL_MODULES["ekipmanlar"];
 """
 
 with open('data.js', 'w', encoding='utf-8') as f:
@@ -122,15 +149,18 @@ print(f"1. Anestezi: {len(anestezi_module['coktan_secmeli_sorular'])} MCQ, {len(
 print(f"2. Preanestezi: {len(preanestezi_module['coktan_secmeli_sorular'])} MCQ, {len(preanestezi_module['bilgi_kartlari'])} Kart, {len(preanestezi_module['acik_uclu_sorular'])} Klasik")
 print(f"3. Sindirim: {len(sindirim_module['coktan_secmeli_sorular'])} MCQ, {len(sindirim_module['bilgi_kartlari'])} Kart, {len(sindirim_module['acik_uclu_sorular'])} Klasik")
 print(f"4. Genel Anestezi: {len(genel_anestezi_module['coktan_secmeli_sorular'])} MCQ, {len(genel_anestezi_module['bilgi_kartlari'])} Kart, {len(genel_anestezi_module['acik_uclu_sorular'])} Klasik")
+print(f"5. Anestezi Ekipmanları: {len(ekipman_module['coktan_secmeli_sorular'])} MCQ, {len(ekipman_module['bilgi_kartlari'])} Kart, {len(ekipman_module['acik_uclu_sorular'])} Klasik")
+
 total_mcq = (
     len(anestezi_module['coktan_secmeli_sorular']) +
     len(preanestezi_module['coktan_secmeli_sorular']) +
     len(sindirim_module['coktan_secmeli_sorular']) +
-    len(genel_anestezi_module['coktan_secmeli_sorular'])
+    len(genel_anestezi_module['coktan_secmeli_sorular']) +
+    len(ekipman_module['coktan_secmeli_sorular'])
 )
 print(f"TOPLAM KÜMÜLATİF SORU: {total_mcq} MCQ")
 
-# 6. data.json'ı da 4 dersli olarak güncelle
+# 7. data.json'ı da 5 dersli olarak güncelle
 data_json = {
     "lessons": [
         {
@@ -260,6 +290,38 @@ data_json = {
                 }
                 for o in genel_anestezi_module["acik_uclu_sorular"]
             ]
+        },
+        {
+            "id": "lesson_5",
+            "title": ekipman_module["name"],
+            "subtitle": ekipman_module["badge"],
+            "icon": ekipman_module["icon"],
+            "summarySections": ekipman_module["summarySections"],
+            "flashcards": [
+                {"id": f["kart_id"], "question": f["on_yuz"], "answer": f["arka_yuz"]}
+                for f in ekipman_module["bilgi_kartlari"]
+            ],
+            "quizQuestions": [
+                {
+                    "id": q["soru_id"],
+                    "question": q["soru_metni"],
+                    "options": q["secenekler"],
+                    "correctAnswer": q["dogru_cevap"],
+                    "explanation": q["aciklama"]["genel"],
+                    "distractorAnalysis": q["aciklama"]["celdirici_analizi"],
+                    "slideNumber": q["slayt_no"]
+                }
+                for q in ekipman_module["coktan_secmeli_sorular"]
+            ],
+            "openEndedQuestions": [
+                {
+                    "id": o["soru_id"],
+                    "question": o["soru"],
+                    "idealAnswer": o["ideal_cevap"],
+                    "slideNumber": o["slayt_no"]
+                }
+                for o in ekipman_module["acik_uclu_sorular"]
+            ]
         }
     ]
 }
@@ -267,4 +329,4 @@ data_json = {
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(data_json, f, ensure_ascii=False, indent=2)
 
-print("data.json başarıyla 4 dersli olarak güncellendi!")
+print("data.json başarıyla 5 dersli olarak güncellendi!")

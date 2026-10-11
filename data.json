@@ -6036,6 +6036,1209 @@
           "slideNumber": 22
         }
       ]
+    },
+    {
+      "id": "lesson_5",
+      "title": "5. Ders: Anestezi Ekipmanları ve Cihazları",
+      "subtitle": "25 Slayt • Endotrakeal Tüpler, Vaporizatör, Balon & Kanister",
+      "icon": "🎛️",
+      "summarySections": [
+        {
+          "title": "1. İnhalasyon Anestezi Prensipleri & Temel Ekipman Listesi",
+          "icon": "🧪",
+          "points": [
+            "Likid Anestezikler & Buharlaştırma: İnhalasyon anestezikleri sıvı haldedir; uygulanabilmeleri için özel vaporizatör sistemlerinde buharlaştırılıp gaz haline getirilmeleri gerekir (Slayt 2).",
+            "Cihaz Boyutu & Tür Uyumu: İnsan anestezi cihazları kedi ve köpekler için uygundur; fakat at ve sığır gibi büyük hayvanlarda çok daha büyük hacimli özel cihazlar şarttır (Slayt 2).",
+            "Tarihsel Gelişim: Eskiden eter gazlı beze damlatılarak açık sistemle solutulurken, modern anesteziyolojide hassas vaporizatörlerle kontrollü konsantrasyon sağlanır (Slayt 2).",
+            "Ekipman Listesi 1: Enjektör ve iğneler, laringoskop, endotrakeal tüpler, tüp kaf enjektörü, lidokain sprey (özellikle kedi larinksi için), göz damlası/pomadı, maske, oksijen ve N2O (Slayt 3).",
+            "Ekipman Listesi 2: Y parçası ve konnektörler, rezerv balonu, ventilatör, İngiliz anahtarı, acil resüsitasyon ilaçları, hastayı ısıtma örtüleri/battaniyeler, steteskop, termometre, atık gaz sistemi ve gözlem kartı (Slayt 4)."
+          ]
+        },
+        {
+          "title": "2. Endotrakeal Tüp Çeşitleri & Malzeme Özellikleri",
+          "icon": "🩺",
+          "points": [
+            "Tüp Materyalleri: Kauçuk, vinil plastik ve silikonlu kauçuktan imal edilirler (Slayt 5).",
+            "Kauçuk Tüpler (Turuncu): Ucuzdur ve yaygındır. Ancak dezenfektanları absorbe eder; zamanla yüzeyinde çatlak, kuruma ve matlaşma oluşur. Çok esnektir, ince olanları kıvrılıp kollabe olabilir. Spiral metal/plastik telli olanları (armored) bükülmeye dirençlidir (Slayt 5).",
+            "Vinil Plastik Tüpler: Şeffaftır (transparent), çatlamaz; ancak kauçuğa göre daha sert yapıdadır (Slayt 6).",
+            "Silikonlu Kauçuk Tüpler: Pahalıdır fakat veteriner hekimlikte EN ÇOK TERCİH EDİLMESİ GEREKEN tüptür. Yumuşak, esnek ve dokulara karşı en az irritandır (Slayt 6)."
+          ]
+        },
+        {
+          "title": "3. Murphy vs Magill Tüpler & Kaflı Sistem Dinamikleri",
+          "icon": "📐",
+          "points": [
+            "Murphy ve Magill Tasarımları: Her iki tüp de eğimlidir. Murphy tüpünün distal ucunda 'Murphy deliği' bulunur. Bu delik, tüpün ana ucu mukus veya trakea duvarına yapışıp tıkandığında alternatif hava yolu sağlar (Slayt 7).",
+            "Uygulama Yolu: Çoğunlukla oral entübasyon yapılır; ağız içi cerrahilerde nazal entübasyon tercih edilebilir (Slayt 7).",
+            "Kaflı Tüp Avantajları: Ekspirasyon gazının odaya sızıp personeli zehirlemesini önler; kan, mukus, salya ve kusmuğun akciğerlere aspirasyonunu engeller; hastanın oda havası soluyup anesteziden uyanmasını engeller (Slayt 8).",
+            "Kaf Dezavantajı: Kaf aşırı şişirilirse trakea mukozasında basınç nekrozu ve yırtılma oluşabilir (özellikle kedilerde ve uzun süreli operasyonlarda) (Slayt 8)."
+          ]
+        },
+        {
+          "title": "4. Canlı Ağırlığa Göre Endotrakeal Tüp Çapları (mm)",
+          "icon": "⚖️",
+          "points": [
+            "Kedi Tüp Çapları: 1 kg kedi için 2.5 - 3 mm; 3 kg kedi için 3 - 3.5 mm; 5 kg kedi için 4 - 4.5 mm internal çap (Slayt 9).",
+            "Köpek Tüp Çapları: 2 kg için 4-5 mm; 4 kg için 5 mm; 7 kg için 6 mm; 9 kg için 7 mm; 12 kg için 7-8 mm; 14 kg için 8 mm; 16-20 kg için 9 mm; 30-40 kg için 9-10 mm internal çap (Slayt 9).",
+            "At ve Sığır Tüp Çapları: <30 kg tay/buzağı için 4-7 mm; 30-40 kg için 8-10 mm; 60-80 kg için 10-12 mm; 100 kg için 12 mm; 200-300 kg için 14-16 mm; 300-400 kg için 16-22 mm; 400-600 kg için 22-26 mm; >600 kg için 26 mm internal çap kullanılır (Slayt 9)."
+          ]
+        },
+        {
+          "title": "5. Anestezi Cihazı Görevleri & Oksijen Kaynağı",
+          "icon": "💨",
+          "points": [
+            "Cihazın Temel Fonksiyonu: Volatil anestezikleri istenen oranda buharlaştırıp taşıyıcı gazla (O2 / O2+N2O) hastaya ulaştırmak ve ekspirasyon gazlarını sistemden tahliye etmektir (Slayt 10, 11).",
+            "Kritik Oksijen Desteği: Anestezi cihazları vaporizatör kapatılarak kritik hastalarda maske veya entübasyonla saf oksijen ventilasyonu sağlamak için de kullanılır (Slayt 11).",
+            "Neden Yüksek O2 Verilir?: 1) Anestezideki hastanın oksijen ihtiyacı uyanık hayvana göre daha fazladır; 2) Hastanın tidal volümü ve solunumu azaldığı için hipoksiyi önlemek adına %100 O2 uygulanır (Slayt 12).",
+            "O2 Tankı Güvenliği: Basınçlı metal silindirlerde bulunur. Vana SOLA çevrilerek açılır, SAĞA çevrilerek tamamen kapatılır (Slayt 13)."
+          ]
+        },
+        {
+          "title": "6. Flowmetre & Vaporizatör İşleyişi",
+          "icon": "⚙️",
+          "points": [
+            "Flowmetre: Gaz akışını dakikada litre (L/dk) olarak hassas şekilde ayarlayan kısımdır. Oksijen tankı açılsa dahi flowmetre açılmadıkça sisteme gaz iletilemez (Slayt 14).",
+            "Vaporizatör: Oksijen flowmetreden geçerek vaporizatöre ulaşır. Görevi likid anestezik maddeyi buharlaştırıp belirli konsantrasyonda sisteme katmaktır (Slayt 15).",
+            "Buharlaşma Şartı: Sıvı anesteziğin buharlaşması için vaporizatör içinden gaz akışı (flow) geçmesi zorunludur; flowmetre kapatılırsa vaporizatörden anestezik çıkışı durur (Slayt 15)."
+          ]
+        },
+        {
+          "title": "7. Rezerv Balonu Fonksiyonları & Ventilasyon Desteği",
+          "icon": "🎈",
+          "points": [
+            "Rezerv Balonu Hacimleri: Kedi ve küçük yavrularda 500 ml; köpeklerde 1-2 litre; at ve sığırlarda 30 litredir (Slayt 16).",
+            "Solunum Kolaylığı & Monitörizasyon: Sert borular yerine esnek balondan nefes almak hastaya kolaylık sağlar. Balonun hareketi solunum hızı, derinliği ve tüpün trakeada olup olmadığı hakkında doğrudan bilgi verir (Slayt 17).",
+            "Basınçlı Ventilasyon (IPPV): Anestezide tidal volüm %50 azalır. Rezerv balonuna aralıklı ılımlı basınç uygulanarak atelektazi önlenir, kollabe alveoller açılır ve solunumu duran hastada hayat kurtarılır (Slayt 18).",
+            "Balon Riskleri: Aşırı şişerse alveol rüptürü (barotravma) yapar; bunu önlemek için pop-off valfi açık tutulmalıdır. Tamamen sönerse hasta nefes alamaz (Slayt 19)."
+          ]
+        },
+        {
+          "title": "8. Tek Yönlü Valfler, O2 Flash, Pop-off & Kanister (Sodalime)",
+          "icon": "🔄",
+          "points": [
+            "İnspirasyon ve Ekspirasyon Valfleri: Tek yönlü kanatçıklardır. Gazın sadece hastaya ve hastadan da kanistere doğru tek yönde akmasını sağlar (Slayt 20, 21).",
+            "O2 Flash Valfi: Flowmetre ve vaporizatörü baypas ederek sisteme doğrudan yüksek debili saf O2 verir. Rezerv balonu söndüğünde, acilde veya uyanmada kullanılır. Non-rebreathing sistemlerde barotravma riski nedeniyle KULLANILMAZ (Slayt 22).",
+            "Pop-off Valfi: Fazla gazı tahliye eden emniyet valfidir. Kapalı unutulursa sistem basıncı aşırı artar ve akciğer alveolleri yırtılır (Slayt 23, 24).",
+            "Karbondioksit Tutucu Kanister: Sodalime veya baryum lime içerir. Ekspirasyon havasındaki CO2'yi kimyasal olarak bağlar. Taze granüller ufalanabilirken doymuş olanlar serttir ve rengi mavi-mora döner (Slayt 25)."
+          ]
+        }
+      ],
+      "flashcards": [
+        {
+          "id": "ekart_001",
+          "question": "İnhalasyon anestezisinde sıvı anesteziklerin hastaya verilebilmesi için hangi özel sisteme ihtiyaç vardır?",
+          "answer": "Volatil likid anestezik maddeleri belirli konsantrasyonda buharlaştırıp gaz haline getiren vaporizatör kabinlerine gereksinim vardır (Slayt 2)."
+        },
+        {
+          "id": "ekart_002",
+          "question": "Küçük hayvanlar ile büyük hayvanların (at, sığır) anestezi cihazları arasındaki temel fark nedir?",
+          "answer": "İnsan anestezi cihazları kedi ve köpekler için uygundur; ancak at ve sığır gibi büyük cüsseli hayvanlar için yüksek hacim ve akış kapasitesine sahip özel dizayn edilmiş anestezi cihazları gereklidir (Slayt 2)."
+        },
+        {
+          "id": "ekart_003",
+          "question": "Eski dönemlerde eter gibi volatil anestezikler nasıl uygulanıyordu?",
+          "answer": "Bir gazlı beze damlatılması ve buharının solutulması şeklinde (açık damlatma) uygulanıyordu; günümüzde sadece bazı laboratuvar hayvanlarında kullanılır (Slayt 2)."
+        },
+        {
+          "id": "ekart_004",
+          "question": "Veteriner hekimlikte kullanılan endotrakeal tüpler hangi 3 temel materyalden üretilir?",
+          "answer": "Kauçuk, vinil plastik ve silikonlu kauçuktan üretilir (Slayt 5)."
+        },
+        {
+          "id": "ekart_005",
+          "question": "Kauçuk endotrakeal tüplerin avantaj ve dezavantajları nelerdir?",
+          "answer": "Ucuzdurlar. Ancak dezenfektanları absorbe ederler, uzun sürede çatlar ve kururlar, çok esnek olduklarından kolayca kıvrılıp kollabe olabilirler (Slayt 5)."
+        },
+        {
+          "id": "ekart_006",
+          "question": "Spiral telli (armored / reinforced) endotrakeal tüplerin yapısal özelliği nedir?",
+          "answer": "Yapımında spiral metal ya da plastik teller kullanılır; esnektirler ancak dış baskılardan ezilmez ve kıvrılmaz yapıya sahiptirler (Slayt 5)."
+        },
+        {
+          "id": "ekart_007",
+          "question": "Vinil plastik endotrakeal tüplerin temel fiziksel özellikleri nelerdir?",
+          "answer": "Şeffaf (transparent) görünümdedirler, yüzeyinde çatlak oluşmaz ancak kauçuk tüplere kıyasla daha sert yapıdadırlar (Slayt 6)."
+        },
+        {
+          "id": "ekart_008",
+          "question": "Silikonlu kauçuk endotrakeal tüplerin klinik açıdan en büyük üstünlüğü nedir?",
+          "answer": "Pahalıdır ancak en çok tercih edilmesi gereken tüptür; yumuşak ve esnektir, kauçuk ve vinile göre dokulara çok daha az irritandır (Slayt 6)."
+        },
+        {
+          "id": "ekart_009",
+          "question": "Murphy endotrakeal tüpü Magill tüpünden ayıran en kritik yapı nedir?",
+          "answer": "Distal ucuna yakın gövdesinde bulunan 'Murphy deliği'dir (Slayt 7)."
+        },
+        {
+          "id": "ekart_010",
+          "question": "Murphy deliğinin hayati fonksiyonu nedir?",
+          "answer": "Tüp ucu mukusla veya trakea çeperine değerek tıkandığında gaz geçişi için alternatif bir açıklık sağlar (Slayt 7)."
+        },
+        {
+          "id": "ekart_011",
+          "question": "Endotrakeal tüpler veteriner hekimlikte hangi yollarla uygulanabilir?",
+          "answer": "Daha sıklıkla oral yoldan uygulanır; ağız içi operasyonlarda ise nazal uygulama yolu tercih edilebilir (Slayt 7)."
+        },
+        {
+          "id": "ekart_012",
+          "question": "Kaflı endotrakeal tüplerin sağladığı 3 büyük avantaj nedir?",
+          "answer": "1) Atık gazın ameliyathaneye kaçmasını önler, 2) Kusmuk, kan ve salyanın akciğerlere aspirasyonunu önler, 3) Hayvanın oda havası soluyup anesteziden çıkmasını engeller (Slayt 8)."
+        },
+        {
+          "id": "ekart_013",
+          "question": "Endotrakeal tüp kafının aşırı şişirilmesinin en tehlikeli komplikasyonu nedir?",
+          "answer": "Trakeanın iç çeperinde basınç nekrozuna ve yırtılmaya neden olabilir (özellikle küçük hayvanlarda ve uzun süreli anestezide) (Slayt 8)."
+        },
+        {
+          "id": "ekart_014",
+          "question": "1 kg, 3 kg ve 5 kg ağırlığındaki kedilerde hangi çapta (internal mm) tüpler kullanılır?",
+          "answer": "1 kg kedi: 2.5-3 mm; 3 kg kedi: 3-3.5 mm; 5 kg kedi: 4-4.5 mm internal çaplı tüpler kullanılır (Slayt 9)."
+        },
+        {
+          "id": "ekart_015",
+          "question": "10-14 kg ve 30-40 kg ağırlığındaki köpeklerde hangi iç çapta tüpler tercih edilir?",
+          "answer": "12-14 kg köpekte 7-8 mm; 30-40 kg köpekte 9-10 mm internal çaplı tüpler kullanılır (Slayt 9)."
+        },
+        {
+          "id": "ekart_016",
+          "question": "400-600 kg ağırlığındaki bir at veya sığırda kullanılacak endotrakeal tüpün çapı nedir?",
+          "answer": "22 - 26 mm internal çaplı tüpler kullanılır (Slayt 9)."
+        },
+        {
+          "id": "ekart_017",
+          "question": "Anestezi cihazında oksijen gazının iki temel fonksiyonu nedir?",
+          "answer": "1) Hastanın hücresel oksijen ihtiyacını karşılamak, 2) Volatil anestezik maddeleri taşıyıcı gaz olarak hastaya iletmek (Slayt 10)."
+        },
+        {
+          "id": "ekart_018",
+          "question": "Anestezi hastasına neden %100'e yakın yüksek konsantrasyonda oksijen verilir?",
+          "answer": "Anestezide oksijen ihtiyacı artmıştır ve anestezik depresyon nedeniyle tidal volüm azaldığından hipoksiyi önlemek için yüksek O2 verilir (Slayt 12)."
+        },
+        {
+          "id": "ekart_019",
+          "question": "Oksijen silindirinin vanası hangi yöne açılarak devreye sokulur, hangi yöne kapatılır?",
+          "answer": "Vana SOLA çevrilerek açılır, SAĞA doğru çevrilerek tamamen kapatılır (Slayt 13)."
+        },
+        {
+          "id": "ekart_020",
+          "question": "Flowmetrenin görevi ve ölçüm birimi nedir?",
+          "answer": "Cihazdan dakikada hastaya ulaşacak gaz miktarını ayarlar; gaz akışı dakikada litre (L/dk) olarak sağlanır (Slayt 14)."
+        },
+        {
+          "id": "ekart_021",
+          "question": "Vaporizatörün çalışabilmesi için flowmetrenin açık olması neden şarttır?",
+          "answer": "Volatil likid anestezik maddenin buharlaşabilmesi için vaporizatör içinden gaz akışı olması gerekir; akış kapatılırsa anestezik buharlaşamaz ve sisteme giremez (Slayt 15)."
+        },
+        {
+          "id": "ekart_022",
+          "question": "Kedi, köpek ve büyük hayvanlarda kullanılan rezerv balonu hacimleri nelerdir?",
+          "answer": "Kedi ve yavru köpeklerde 500 ml; köpeklerde sıklıkla 1-2 litre; at ve sığırlarda ise 30 litrelik rezerv balonları kullanılır (Slayt 16)."
+        },
+        {
+          "id": "ekart_023",
+          "question": "Rezerv balonunun yeterli miktarda hareket etmemesi hekime neyi düşündürür?",
+          "answer": "Hastanın bir miktar oda havası soluduğunu, yani endotrakeal tüp kafının yeterince şişirilmediğini ve kaf etrafından hava kaçtığını gösterir (Slayt 17)."
+        },
+        {
+          "id": "ekart_024",
+          "question": "Anestezide rezerv balonuna ılımlı basınç uygulamanın (IPPV) temel faydaları nelerdir?",
+          "answer": "Atelektaziyi önler, kollabe olan akciğerleri tekrar şişirir, azalan tidal volümde taze gazın alveollere ulaşmasını sağlar ve solunumu duran hastada hayat kurtarır (Slayt 18)."
+        },
+        {
+          "id": "ekart_025",
+          "question": "Rezerv balonunun aşırı şişmesi neden tehlikelidir ve nasıl önlenir?",
+          "answer": "Akciğer alveollerinin yırtılmasına (barotravma) neden olabilir; önlemek için pop-off valfi bir miktar açık bırakılmalıdır (Slayt 19)."
+        },
+        {
+          "id": "ekart_026",
+          "question": "İnhalasyon ve ekspirasyon valflerinin devre sistemindeki ortak görevi nedir?",
+          "answer": "Tek yönlü çalışarak gazın sadece ileriye doğru hareket etmesini ve atık ekspirasyon gazının kanisterden geçmeden geri solunmasını engellerler (Slayt 20, 21)."
+        },
+        {
+          "id": "ekart_027",
+          "question": "Oksijen Flash Valfine basıldığında ne gerçekleşir?",
+          "answer": "Oksijen flowmetre ve vaporizatöre uğramadan doğrudan sisteme yüksek debide saf oksijen olarak verilir (Slayt 22)."
+        },
+        {
+          "id": "ekart_028",
+          "question": "Oksijen Flash Valfi hangi anestezi sistemlerinde KESİNLİKLE kullanılmamalıdır?",
+          "answer": "Non-rebreathing sistemlerde kullanılmamalıdır; balonu hızla aşırı şişirip akciğerleri yırtabilir (Slayt 22)."
+        },
+        {
+          "id": "ekart_029",
+          "question": "Pop-off valfinin kapalı unutulması halinde hastada ne gibi ölümcül sonuçlar doğar?",
+          "answer": "Sistem gaz basıncı aşırı artar; bu aşırı basınç akciğer alveollerinde yırtılmalara, pnömotoraksa ve kardiyak basıya yol açar (Slayt 24)."
+        },
+        {
+          "id": "ekart_030",
+          "question": "Karbondioksit tutucu kanisterdeki granüllerin doyduğunu nasıl anlarız?",
+          "answer": "Taze granüller parmakla kolayca ufalanırken doymuş olanlar sertleşir ve rengi beyazdan mavi-mora döner (Slayt 25)."
+        }
+      ],
+      "quizQuestions": [
+        {
+          "id": "mcq_ekip_001",
+          "question": "Anestezik maddelerin uygulanması için anestezi cihazlarında özel buharlaştırıcı sistemlere (vaporizatör) gereksinim duyulmasının temel nedeni nedir?",
+          "options": {
+            "A": "Anestezik maddelerin oda ısısında katı kristal halde bulunması",
+            "B": "Anestezik maddelerin likid (sıvı) halde olmaları",
+            "C": "Anestezik maddelerin sadece damar içi enjeksiyonla verilebilmesi",
+            "D": "Gaz moleküllerinin kanda çözünememesi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; anestezik maddeler likid haldedirler ve uygulanabilmeleri için özel buharlaştırıcı sistemlere (vaporizatör) gereksinim vardır (Slayt 2).",
+          "distractorAnalysis": "A şıkkı katı değildir; likittir. C ve D şıkları bilimsel olarak yanlıştır.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_ekip_002",
+          "question": "Anestezi cihazlarının türlere uyumu konusunda aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+          "options": {
+            "A": "İnsanlar için dizayn edilmiş anestezi cihazları at ve sığırlarda doğrudan kullanılabilir",
+            "B": "İnsanlar için dizayn edilmiş anestezi cihazları kedi ve köpek gibi küçük hayvanlar için uygundur, ancak at ve sığırlar için özel dizayn edilmiş cihazlar gerekir",
+            "C": "Kedi ve köpekler için sadece açık gazlı bez yöntemi kullanılır",
+            "D": "Büyük hayvanlarda anestezi cihazına hiçbir zaman ihtiyaç duyulmaz"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; insan cihazları kedi ve köpeğe uygundur ancak büyük hayvanlar için özel tasarlanmış büyük anestezi cihazları gereklidir (Slayt 2).",
+          "distractorAnalysis": "İnsan cihazı atın 30 L'lik solunum hacmini karşılayamaz.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_ekip_003",
+          "question": "Eskiden uygulanan eter damlatma yönteminin günümüzdeki kullanım alanı ve yerini alan modern sistem hangisidir?",
+          "options": {
+            "A": "At anestezisinde kullanılır / Yerini enjeksiyona bırakmıştır",
+            "B": "Daha çok laboratuvar hayvanlarında kullanılır / Yerini vaporizatörlü anestezi cihazlarına bırakmıştır",
+            "C": "Rutin kedi cerrahisinde kullanılır / Yerini elektrokoter almıştır",
+            "D": "Tamamen yasaklanmıştır / Yerini lokal anestezi almıştır"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; eter damlatma artık laboratuvar hayvanlarında kullanılır; modern cerrahide vaporizatörlerle buharlaştırılıp verilir (Slayt 2).",
+          "distractorAnalysis": "Slayt 2'de açıkça belirtilen tarihsel ve klinik gelişimdir.",
+          "slideNumber": 2
+        },
+        {
+          "id": "mcq_ekip_004",
+          "question": "İnhalasyon anestezi hazırlığında özellikle kedilerde entübasyon esnasında larinkse uygulanmak üzere hazır bulundurulan lokal anestezik sprey hangisidir?",
+          "options": {
+            "A": "Bupivakain sprey",
+            "B": "Lidokain (Lidocaine) sprey",
+            "C": "Prokain sprey",
+            "D": "Artikain sprey"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; ekipman listesinde yer alan lokal anestezik Lidokain spreydir (Slayt 3).",
+          "distractorAnalysis": "Lidokain sprey kedilerde laringospazmı engellemek için larinks vokal kordlarına sıkılır.",
+          "slideNumber": 3
+        },
+        {
+          "id": "mcq_ekip_005",
+          "question": "Aşağıdakilerden hangisi inhalasyon anestezisinde kullanılan temel ekipman ve aletlerden biri DEĞİLDİR?",
+          "options": {
+            "A": "Laringoskop ve endotrakeal tüpler",
+            "B": "Göz pomadı ve damlaları",
+            "C": "Oksijen tankı ve atık gaz sistemi",
+            "D": "Kemik iliği biyopsi iğnesi"
+          },
+          "correctAnswer": "D",
+          "explanation": "D seçeneği anestezi hazırlık ekipman listesinde yer almaz (Slayt 3, 4).",
+          "distractorAnalysis": "A, B ve C seçenekleri Slayt 3 ve 4'te listelenen temel anestezi ekipmanlarıdır.",
+          "slideNumber": 3
+        },
+        {
+          "id": "mcq_ekip_006",
+          "question": "Veteriner hekimlikte en sık kullanılan turuncu renkli kauçuk endotrakeal tüplerin temel dezavantajı hangisidir?",
+          "options": {
+            "A": "Hiç esnek olmaması ve kırılması",
+            "B": "Dezenfektan solüsyonları absorbe edebilmeleri, zamanla yüzeyinde çatlak ve matlaşma olması ve kolayca kıvrılıp kollabe olabilmeleri",
+            "C": "Fiyatlarının aşırı pahalı olması",
+            "D": "İçlerinden oksijen gazının geçememesi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kauçuk tüpler dezenfektanları emer, çatlar, kurur ve ince çaplıları kolayca kıvrılıp tıkanabilir (Slayt 5).",
+          "distractorAnalysis": "A şıkkı yanlıştır (aşırı esnektir); C şıkkı yanlıştır (aksine ucuzdur).",
+          "slideNumber": 5
+        },
+        {
+          "id": "mcq_ekip_007",
+          "question": "Dış baskılardan etkilenmeyen, ezilmeyen ve kıvrılmayan yapıya sahip kuvvetlendirilmiş tüplerin üretiminde ne kullanılır?",
+          "options": {
+            "A": "Ahşap çıtalar",
+            "B": "Spiral metal ya da plastik teller",
+            "C": "Cam lifleri",
+            "D": "Kurşun plakalar"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; spiral metal ya da plastik teller kullanılarak kuvvetlendirilmiş tüpler (armored tüpler) dış baskılardan etkilenmez ve kıvrılmaz (Slayt 5).",
+          "distractorAnalysis": "Spiral tel desteği tüp lümeninin bükülmesini ve tıkanmasını engeller.",
+          "slideNumber": 5
+        },
+        {
+          "id": "mcq_ekip_008",
+          "question": "Şeffaf (transparent) görünümlü, yüzeyinde çatlak meydana gelmeyen ancak kauçuk tüplere göre daha sert olan endotrakeal tüp türü hangisidir?",
+          "options": {
+            "A": "Kauçuk tüp",
+            "B": "Vinil plastik tüp",
+            "C": "Silikon tüp",
+            "D": "Lateks tüp"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; vinil plastik tüpler transparent görünümdedir, çatlamaz ancak kauçuğa göre daha serttir (Slayt 6).",
+          "distractorAnalysis": "Şeffaflık ve çatlamama vinil plastiğin ayırıcı özelliğidir.",
+          "slideNumber": 6
+        },
+        {
+          "id": "mcq_ekip_009",
+          "question": "Pahalı olmasına rağmen veteriner anesteziyolojide 'EN ÇOK TERCİH EDİLMESİ GEREKEN', yumuşak, esnek ve en az irritan endotrakeal tüp hangisidir?",
+          "options": {
+            "A": "Vinil plastik tüpler",
+            "B": "Kauçuk tüpler",
+            "C": "Silikonlu kauçuktan yapılmış tüpler",
+            "D": "Alüminyum tüpler"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; silikonlu kauçuk tüpler pahalıdır ancak yumuşak, esnek ve en az irritan oldukları için en çok tercih edilmesi gereken tüplerdir (Slayt 6).",
+          "distractorAnalysis": "Slayt 6'da kırmızıyla vurgulanmış kritik sınav bilgisidir.",
+          "slideNumber": 6
+        },
+        {
+          "id": "mcq_ekip_010",
+          "question": "Veteriner hekimlikte kullanılan Murphy endotrakeal tüpünü Magill tüpünden ayıran karakteristik anatomik özellik hangisidir?",
+          "options": {
+            "A": "Tüpün tamamen düz olması",
+            "B": "Distal ucuna yakın gövdesinde bir delik bulunması (Murphy deliği)",
+            "C": "Kafının bulunmaması",
+            "D": "Sadece metalden üretilmesi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; Murphy türündeki tüplerin distal ucuna yakın bölgesinde tüpün gövdesinde bir delik (Murphy deliği) mevcuttur (Slayt 7).",
+          "distractorAnalysis": "Magill tüplerinde bu yan delik yoktur.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_ekip_011",
+          "question": "Endotrakeal tüplerde bulunan 'Murphy deliği'nin temel işlevi nedir?",
+          "options": {
+            "A": "Kafı şişirmek için hava girişi sağlamak",
+            "B": "Tüp ucunun mukus ya da trakea çeperine değerek tıkanması durumunda alternatif bir açıklık sağlamak",
+            "C": "İçine stete sokulmasını engellemek",
+            "D": "Tüpün ağırlığını azaltmak"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; tüp ucu tıkandığında alternatif bir açıklık sağlayarak hastanın havasız kalmasını önler (Slayt 7).",
+          "distractorAnalysis": "A şıkkı pilot balona aittir; C ve D işlevsiz çeldiricilerdir.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_ekip_012",
+          "question": "Ağız içinde yapılacak cerrahi operasyonlarda endotrakeal tüpün hangi yolla uygulanması tercih edilebilir?",
+          "options": {
+            "A": "Oral yol",
+            "B": "Nazal uygulama yolu",
+            "C": "Rektal yol",
+            "D": "Özefagal yol"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; ağız içinde yapılacak operasyonlarda nazal uygulama yolu tercih edilebilir (Slayt 7).",
+          "distractorAnalysis": "Rutin oraldir ancak ağız cerrahisinde ağız boşluğunu rahatlatmak için nazal tercih edilir.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_ekip_013",
+          "question": "Kaflı endotrakeal tüplerde kafın temel görevi hangisinde doğru tanımlanmıştır?",
+          "options": {
+            "A": "Tüpün trakeadan kayıp mideye gitmesini sağlamak",
+            "B": "Endotrakeal tüpün dış çeperi ile trakea arasında bir tıpa görevi görmek",
+            "C": "Oksijen üretimini artırmak",
+            "D": "Tüpün sıcaklığını vücut sıcaklığına eşitlemek"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kaf endotrakeal tüpün dış çeperi ile trakea arasında bir tıpa (mühür) görevi görür (Slayt 7).",
+          "distractorAnalysis": "Hava ve sıvı geçişini bloke eden mekanik bariyerdir.",
+          "slideNumber": 7
+        },
+        {
+          "id": "mcq_ekip_014",
+          "question": "Aşağıdakilerden hangisi kaflı endotrakeal tüp kullanılmasının sağladığı avantajlardan biri DEĞİLDİR?",
+          "options": {
+            "A": "Ekspirasyon havasının odaya karışmasını önleyerek oda havasının atık gazlarla kirlenmesini önlemesi",
+            "B": "Kan, mukus, salya veya kusmuğun akciğerlere kaçmasını önlemesi",
+            "C": "İnspirasyonda hayvanın oda havasından solumasını engelleyerek anestezi derinliğinin korunmasını sağlaması",
+            "D": "Kafın şişirilmesiyle hayvanın spontan solunum yapmasını tamamen durdurması"
+          },
+          "correctAnswer": "D",
+          "explanation": "D seçeneği yanlıştır; kaf solunumu durdurmaz, sadece hava yolu sızdırmazlığını sağlar (Slayt 8).",
+          "distractorAnalysis": "A, B ve C seçenekleri slayt 8'de sıralanan kaflı tüpün temel avantajlarıdır.",
+          "slideNumber": 8
+        },
+        {
+          "id": "mcq_ekip_015",
+          "question": "Endotrakeal tüpün kafı çok fazla şişirilecek olursa özellikle küçük hayvanlarda ve uzun süreli anestezide hangi komplikasyon şekillenir?",
+          "options": {
+            "A": "Trakeanın iç çeperinde basınç nekrozu",
+            "B": "Midede aşırı gaz birikmesi",
+            "C": "Göz tansiyonunun düşmesi",
+            "D": "Dilde kangren"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; kaf aşırı şişirilirse trakeanın iç çeperinde basınç nekrozu oluşabilir (Slayt 8).",
+          "distractorAnalysis": "Mukozal iskemi trakea perforasyonuna ve nekroza yol açabilir.",
+          "slideNumber": 8
+        },
+        {
+          "id": "mcq_ekip_016",
+          "question": "Tabloya göre 3 kg ağırlığındaki bir kedide kullanılması gereken endotrakeal tüpün iç çapı (internal çap) kaç mm'dir?",
+          "options": {
+            "A": "1.5 - 2 mm",
+            "B": "3 - 3.5 mm",
+            "C": "5 - 6 mm",
+            "D": "7 - 8 mm"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; 3 kg kedi için internal çap 3 - 3.5 mm'dir (Slayt 9).",
+          "distractorAnalysis": "1 kg kedi: 2.5-3; 3 kg kedi: 3-3.5; 5 kg kedi: 4-4.5 mm.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_ekip_017",
+          "question": "Tabloya göre 14 kg ağırlığındaki bir köpekte tercih edilmesi gereken endotrakeal tüp internal çapı kaç mm'dir?",
+          "options": {
+            "A": "4 mm",
+            "B": "6 mm",
+            "C": "8 mm",
+            "D": "12 mm"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; 14 kg köpekte internal çap 8 mm'dir (Slayt 9).",
+          "distractorAnalysis": "Slayt 9 tablosunda 14 kg köpek için net 8 mm belirtilmiştir.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_ekip_018",
+          "question": "Tabloya göre 400 - 600 kg canlı ağırlığındaki bir at veya sığırda kullanılacak endotrakeal tüp iç çapı kaç mm olmalıdır?",
+          "options": {
+            "A": "10 - 12 mm",
+            "B": "14 - 16 mm",
+            "C": "22 - 26 mm",
+            "D": "35 - 40 mm"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; 400-600 kg at ve sığırda 22-26 mm internal çap kullanılır (Slayt 9).",
+          "distractorAnalysis": ">600 kg için ise 26 mm kullanılır.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_ekip_019",
+          "question": "Anestezi cihazında volatil likid anesteziklerin hastaya ulaştırılmasında sistemden geçen hangi gazlar 'taşıyıcı' görevi üstlenir?",
+          "options": {
+            "A": "Yalnızca karbondioksit",
+            "B": "Oksijen ya da oksijen + nitrous oxide (N2O) karışımı",
+            "C": "Saf azot gazı",
+            "D": "Helyum ve argon karışımı"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; sistemden geçen oksijen veya oksijen+N2O karışımı volatil anestezikler için taşıyıcı görevi üstlenir (Slayt 10).",
+          "distractorAnalysis": "Oksijen akımı olmadan gaz taşınamaz.",
+          "slideNumber": 10
+        },
+        {
+          "id": "mcq_ekip_020",
+          "question": "Kritik durumdaki hastalarda anestezi cihazı ile saf oksijen ventilasyonu yaptırılacağı zaman cihaz üzerinde hangi parça 'KAPALI' tutulmalıdır?",
+          "options": {
+            "A": "Flowmetre",
+            "B": "Vaporizatör",
+            "C": "Oksijen tüpü",
+            "D": "İnspirasyon valfi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kritik hastalarda sadece oksijen ventilasyonu yaptırılırken anestezi cihazının vaporizatörü kapalı halde tutulmalıdır (Slayt 11).",
+          "distractorAnalysis": "Vaporizatör kapalı tutulmazsa kritik hastaya anestezik gaz gider.",
+          "slideNumber": 11
+        },
+        {
+          "id": "mcq_ekip_021",
+          "question": "Anestezi hastasında Nitrous oxide (N2O) kullanılmayacak ise oksijen hangi konsantrasyonda uygulanır?",
+          "options": {
+            "A": "%21 konsantrasyonda",
+            "B": "%50 konsantrasyonda",
+            "C": "%100 konsantrasyonda",
+            "D": "%5 konsantrasyonda"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; N2O kullanılmayacaksa oksijen %100 konsantrasyonda uygulanır (Slayt 12).",
+          "distractorAnalysis": "Oda havası %21'dir; saf O2 kaynağı %100 sağlar.",
+          "slideNumber": 12
+        },
+        {
+          "id": "mcq_ekip_022",
+          "question": "Anestezi hastasında yüksek konsantrasyonda oksijen kullanılmasının iki temel yararlı etkisi hangisinde doğru verilmiştir?",
+          "options": {
+            "A": "Vücut ısısını artırması ve kan basıncını yükseltmesi",
+            "B": "Anestezi hastasının daha yüksek oksijene gereksinim duyması ve azalan tidal volüm nedeniyle hipoksinin önlenmesi",
+            "C": "Mide asiditesini nötralize etmesi ve kas spazmını çözmesi",
+            "D": "Göz bebeklerini daraltması ve nabzı sıfırlaması"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; anestezi hastasının oksijen ihtiyacı yüksektir ve tidal volüm azaldığı için yüksek konsantrasyon O2 hayati fayda sağlar (Slayt 12).",
+          "distractorAnalysis": "Slayt 12'de iki madde halinde açıkça vurgulanmıştır.",
+          "slideNumber": 12
+        },
+        {
+          "id": "mcq_ekip_023",
+          "question": "Anestezi cihazında kullanılan oksijen gaz silindirinin (tüpünün) vanası hangi yöne doğru açılarak gaz akışı başlatılır?",
+          "options": {
+            "A": "Sağa doğru",
+            "B": "Sola doğru",
+            "C": "Yukarı doğru çekilerek",
+            "D": "Aşağı bastırılarak"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; vananın sola doğru açılması ile anestezi cihazına gaz akışı başlar; sağa doğru kapatılır (Slayt 13).",
+          "distractorAnalysis": "Tüm gaz vanalarında sola açma (saat yönü tersi), sağa kapama kuralı geçerlidir.",
+          "slideNumber": 13
+        },
+        {
+          "id": "mcq_ekip_024",
+          "question": "Anestezi cihazında hastaya ulaşacak gazın dakikadaki miktar ayarının yapıldığı parça hangisidir ve gaz akışı hangi birimle sağlanır?",
+          "options": {
+            "A": "Vaporizatör / Yüzde (%)",
+            "B": "Flowmetre / Dakikada litre (L/dk)",
+            "C": "Rezerv balonu / Mililitre (ml)",
+            "D": "Pop-off valf / Bar"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; flowmetre gaz miktarını ayarlar ve gaz akışı dakikada litre (L/dk) olarak sağlanır (Slayt 14).",
+          "distractorAnalysis": "Vaporizatör konsantrasyonu (yüzde) ayarlar; flowmetre akımı (L/dk) ayarlar.",
+          "slideNumber": 14
+        },
+        {
+          "id": "mcq_ekip_025",
+          "question": "Oksijen tankı açılmasına rağmen anestezi cihazından hastaya gazın ulaşabilmesi için cihaz üzerinde ek olarak hangi parçanın vanası açılmalıdır?",
+          "options": {
+            "A": "Pop-off valfi",
+            "B": "Flowmetre",
+            "C": "Atık gaz filtresi",
+            "D": "Karbondioksit kanisteri"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; tek başına oksijen tankının açılması yetmez, cihaz üzerinde bulunan flowmetrenin de vanasının açılması gereklidir (Slayt 14).",
+          "distractorAnalysis": "Flowmetre hattın akış musluğudur.",
+          "slideNumber": 14
+        },
+        {
+          "id": "mcq_ekip_026",
+          "question": "Flowmetreden gaz akışı kapatılır ise vaporizatör ve volatil anestezik maddeye ne olur?",
+          "options": {
+            "A": "Volatil likid anestezik madde buharlaşamaz ve sisteme giremez",
+            "B": "Anestezik madde kendiliğinden kaynayıp patlar",
+            "C": "Konsantrasyonu %100'e çıkarak hastayı zehirler",
+            "D": "Rezerv balonunu aşırı derecede şişirir"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; flowmetreden gaz akışı kapatılırsa volatil likid anestezik madde buharlaşamaz ve sisteme giremez (Slayt 15).",
+          "distractorAnalysis": "Buharlaşma gaz geçişi ile sürdürülür.",
+          "slideNumber": 15
+        },
+        {
+          "id": "mcq_ekip_027",
+          "question": "Kedi ve yavru köpek gibi küçük cüsseli hayvanlarda kullanılan rezerv balonlarının standart hacmi ne kadardır?",
+          "options": {
+            "A": "100 ml",
+            "B": "500 ml",
+            "C": "3 Litre",
+            "D": "30 Litre"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; küçük cüsseli hayvanlarda (kedi, köpek yavrusu) 500 ml hacimli balonlar kullanılır (Slayt 16).",
+          "distractorAnalysis": "Köpekte 1-2 L, at ve sığırda 30 L'dir.",
+          "slideNumber": 16
+        },
+        {
+          "id": "mcq_ekip_028",
+          "question": "At ve sığırlarda kullanılan anestezi rezerv balonlarının hacmi ne kadardır?",
+          "options": {
+            "A": "2 Litre",
+            "B": "5 Litre",
+            "C": "10 Litre",
+            "D": "30 Litre"
+          },
+          "correctAnswer": "D",
+          "explanation": "D seçeneği doğrudur; at ve sığırlarda çok daha hacimli 30 litrelik rezerv balonları kullanılır (Slayt 16).",
+          "distractorAnalysis": "Büyük hayvanların yüksek tidal volümü için 30 L zorunludur.",
+          "slideNumber": 16
+        },
+        {
+          "id": "mcq_ekip_029",
+          "question": "Köpeklerde sıklıkla tercih edilen rezerv balonu hacmi aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "200 ml",
+            "B": "1 - 2 Litre",
+            "C": "15 Litre",
+            "D": "50 Litre"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; köpeklerde sıklıkla 1-2 litre hacmindeki rezerv balonları tercih edilir (Slayt 16).",
+          "distractorAnalysis": "Slayt 16'nın son cümlesinde belirtilmiştir.",
+          "slideNumber": 16
+        },
+        {
+          "id": "mcq_ekip_030",
+          "question": "Anestezi sırasında rezerv balonunun hareketlerine bakılarak hangi parametreleri tayin etmek mümkün olur?",
+          "options": {
+            "A": "Yalnızca vücut ısısını",
+            "B": "Dakikadaki ventilasyon sayısını ve solunum hacmini",
+            "C": "Kan şekeri ve hemoglobin değerini",
+            "D": "İdrar miktarını"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; rezerv balonunun hareketine bakarak dakikadaki ventilasyon sayısı ve solunum hacmi tayin edilir (Slayt 17).",
+          "distractorAnalysis": "Balon solunum derinliğini ve hızını doğrudan yansıtır.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_ekip_031",
+          "question": "Anestezi takibinde rezerv balonunun YETERLİ MİKTARDA HAREKET ETMEMESİ neyin kanıtıdır?",
+          "options": {
+            "A": "Hastanın öldüğünün",
+            "B": "Hastanın solunumunun bir kısmını oda havasından yaptığının (endotrakeal tüp kafının yetersiz şişirilmesine bağlı hava kaçağı olduğunun)",
+            "C": "Vaporizatörün bozulduğunun",
+            "D": "Oksijen tüpünün fazla dolu olduğunun"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; balonun yetersiz hareketi kafın yetersiz şişirilmesine bağlı oda havasından solunduğunu gösterir (Slayt 17).",
+          "distractorAnalysis": "Kaf etrafından kaçak olunca balon yeterince inip kalkmaz.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_ekip_032",
+          "question": "Solunum depresyonu durumunda rezerv balonuna ılımlı basınç uygulanarak yapılan işleme ne ad verilir?",
+          "options": {
+            "A": "Kardiyak defibrilasyon",
+            "B": "Anestezist tarafından basınçlı ventilasyon yaptırılması",
+            "C": "Endoskopik lavaj",
+            "D": "Epidural anestezi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; rezerv balonuna ılımlı basınç uygulayarak anestezist tarafından yapay ventilasyon yaptırılır (Slayt 17, 18).",
+          "distractorAnalysis": "Manuel IPPV (aralıklı pozitif basınçlı ventilasyon) sağlanır.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_ekip_033",
+          "question": "Uzun anestezi uygulamalarında rezerv balonuna ılımlı basınç uygulanarak akciğerlerin şişirilmesi hangi patolojinin oluşmasını önler?",
+          "options": {
+            "A": "Atelektazi",
+            "B": "Amfizem",
+            "C": "Pnömotoraks",
+            "D": "Plevral efüzyon"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; ılımlı basınç uygulanarak atelektazinin (alveol kollapsının) oluşması önlenir (Slayt 18).",
+          "distractorAnalysis": "Slayt 18'in ilk maddesinde net olarak belirtilmiştir.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_ekip_034",
+          "question": "Genel anestezi altındaki bir hastada solunum ile inhale edilen gazın volümü (tidal volüm) yaklaşık ne oranda azalır?",
+          "options": {
+            "A": "%5 oranında",
+            "B": "%10 oranında",
+            "C": "%50 oranında",
+            "D": "%95 oranında"
+          },
+          "correctAnswer": "C",
+          "explanation": "C seçeneği doğrudur; anestezi hastasındaki solunum ile inhale edilen gazın volümü %50 oranında azalır (Slayt 18).",
+          "distractorAnalysis": "Bu nedenle aralıklı pozitif basınçla taze gazın alveollere ulaştırılması gerekir.",
+          "slideNumber": 18
+        },
+        {
+          "id": "mcq_ekip_035",
+          "question": "Rezerv balonunun aşırı derecede şişmesi ve dolu tutulması hastada hangi tehlikeli sonuca neden olabilir?",
+          "options": {
+            "A": "Vücut ısısının aşırı artmasına",
+            "B": "Akciğer alveollerinin yırtılmasına (barotravma)",
+            "C": "Midede ülser delinmesine",
+            "D": "Kanda lökositlerin tükenmesine"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; aşırı derecede şiş olan rezerv balonu alveollerin yırtılmasına neden olabilir (Slayt 19).",
+          "distractorAnalysis": "Yüksek devre basıncı doğrudan barotravmaya yol açar.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_ekip_036",
+          "question": "Rezerv balonunun aşırı doldurulmasını önlemek için sistem üzerinde hangi valf bir miktar açık bırakılmalıdır?",
+          "options": {
+            "A": "Vaporizatör dolum kapağı",
+            "B": "Atık gaz (pop-off) valfi",
+            "C": "Oksijen flash valfi",
+            "D": "İnspirasyon valfi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; balonun aşırı dolmasını önlemek için atık gaz (pop-off) valfi bir miktar açık bırakılmalıdır (Slayt 19).",
+          "distractorAnalysis": "Pop-off valf fazla gazın tahliye kapısıdır.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_ekip_037",
+          "question": "Atık gaz valfinin (pop-off) tam olarak açık kalması rezerv balonunda neye yol açar?",
+          "options": {
+            "A": "Balonun patlamasına",
+            "B": "Rezerv balonunun tamamen sönmesine ve hastanın yeteri kadar nefes alamamasına",
+            "C": "Anestezi gazının konsantrasyonunun iki katına çıkmasına",
+            "D": "Oksijen tüpünün donmasına"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; atık gaz valfinin tam açık kalması rezerv balonunun tamamen sönmesine neden olur (Slayt 19).",
+          "distractorAnalysis": "Balon tam sönerse hasta inspirasyonda gaz bulamaz.",
+          "slideNumber": 19
+        },
+        {
+          "id": "mcq_ekip_038",
+          "question": "Hasta nefes aldığında açılan, gazın tek yönlü olarak sadece hastaya doğru yol almasını sağlayan valf hangisidir?",
+          "options": {
+            "A": "Pop-off valfi",
+            "B": "İnhalasyon valfi (İnspirasyon valfi)",
+            "C": "Flash valfi",
+            "D": "Kanister tahliye musluğu"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; hasta nefes aldığında inhalasyon valfi açılır ve gaz sadece hastaya doğru tek yönlü hareket eder (Slayt 20).",
+          "distractorAnalysis": "İnspirasyon valfi tek yönlü bir geçiş klapesidir.",
+          "slideNumber": 20
+        },
+        {
+          "id": "mcq_ekip_039",
+          "question": "Ekspirasyon valfinin tek yönlü çalışmasının sisteme sağladığı en önemli katkı nedir?",
+          "options": {
+            "A": "Ekspirasyonla atılan gazın karbondioksit tutucusundan (kanister) geçmeden hasta tarafından geri solunmasını engellemesi",
+            "B": "Hastanın oksijen tüketimini sıfırlaması",
+            "C": "Vaporizatördeki sıvı seviyesini artırması",
+            "D": "Endotrakeal tüpün kafını otomatik şişirmesi"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; ekspirasyon gazının karbondioksit tutucusundan geçmeden geri solunmasını engeller (Slayt 21).",
+          "distractorAnalysis": "Valf gazın sadece hastadan cihaza doğru gitmesine izin verir.",
+          "slideNumber": 21
+        },
+        {
+          "id": "mcq_ekip_040",
+          "question": "Anestezi cihazı üzerinde bulunan 'Oksijen Flash Valfi'ne (Flush) basıldığında oksijen nereye uğramadan doğrudan sisteme verilir?",
+          "options": {
+            "A": "Basınç düşürücü regülatöre",
+            "B": "Flowmetre ve vaporizatöre",
+            "C": "Rezerv balonuna",
+            "D": "Endotrakeal tüpe"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; flash valfe basıldığında oksijen flowmetre ve vaporizatöre gitmeden direkt olarak sisteme verilir (Slayt 22).",
+          "distractorAnalysis": "Bu baypas sayesinde hatta saf oksijen hızla dolar.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_ekip_041",
+          "question": "Aşağıdaki klinik durumlardan hangisinde Oksijen Flash Valfinin kullanılması yararlı DEĞİLDİR?",
+          "options": {
+            "A": "Sisteme kısa sürede saf oksijen verilmesini gerektiren genel durumu kötü hastalarda",
+            "B": "Rezerv balonu söndüğünde balonun kısa sürede doldurulmasında",
+            "C": "Uyanma aşamasında sistemin anestezik gazlardan arındırılmasında",
+            "D": "Non-rebreathing sistemlerde anestezi derinliğini anında artırmak amacıyla"
+          },
+          "correctAnswer": "D",
+          "explanation": "D seçeneği yanlıştır; non-rebreathing sistemlerde flash valf akciğerleri patlatabileceğinden KULLANILMAMALIDIR (Slayt 22).",
+          "distractorAnalysis": "A, B ve C şıkları Slayt 22'de flash valfin faydaları olarak sıralanmıştır.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_ekip_042",
+          "question": "Oksijen Flash Valfinin 'Non-rebreathing' sistemlerde KULLANILMAMASININ hayati nedeni nedir?",
+          "options": {
+            "A": "Oksijen tankının anında boşalması",
+            "B": "Balonun kısa sürede aşırı derecede şişmesine ve akciğerlerin bir anda zarar görmesine (barotravma) neden olabilmesi",
+            "C": "Cihazın elektriğinin kesilmesi",
+            "D": "Vaporizatördeki ilacın donması"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; balonun aşırı şişmesine ve akciğerlerin bir anda zarar görmesine neden olabileceğinden kullanılmamalıdır (Slayt 22).",
+          "distractorAnalysis": "Non-rebreathing devre hacmi çok küçüktür, yüksek akım doğrudan akciğere basar.",
+          "slideNumber": 22
+        },
+        {
+          "id": "mcq_ekip_043",
+          "question": "Bütün anestezi cihazlarının üzerinde sistemin gazının boşaltılmasını ve basıncın düşürülmesini sağlayan valf sistemi hangisidir?",
+          "options": {
+            "A": "Vaporizatör kontrol kadranı",
+            "B": "Pop-off valf",
+            "C": "İnspirasyon valfi",
+            "D": "Regülatör emniyet pimi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; pop-off valf sistemin gazının boşaltılmasını ve basıncın düşürülmesini sağlar (Slayt 23).",
+          "distractorAnalysis": "Sistemin basınç emniyet ve tahliye sübabıdır.",
+          "slideNumber": 23
+        },
+        {
+          "id": "mcq_ekip_044",
+          "question": "Pop-off valfinin kapalı ya da kapalıya yakın konumda tutulması halinde zorunlu kural nedir?",
+          "options": {
+            "A": "Oksijen akışı maksimuma çıkarılmalıdır",
+            "B": "Sisteme taze gaz akışı minimum seviyede sürdürülmelidir",
+            "C": "Vaporizatör %5'e getirilmelidir",
+            "D": "Rezerv balonu çıkarılmalıdır"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kapalı ya da kapalıya yakın tutulması halinde sisteme taze gaz akışı minimum seviyede sürdürülmelidir (Slayt 23).",
+          "distractorAnalysis": "Aksi takdirde gaz sıkışarak rezerv balonunu patlatır.",
+          "slideNumber": 23
+        },
+        {
+          "id": "mcq_ekip_045",
+          "question": "Anestezi sırasında Pop-off valfinin kapalı olduğu fark edilmezse hastada ne şekillenir?",
+          "options": {
+            "A": "Hasta anında uyanır",
+            "B": "Sistemde gaz basıncı aşırı artar, akciğerlerde aşırı basınç oluşur ve alveollerde yırtılmalar meydana gelir",
+            "C": "Sistem vakum yaparak hastanın akciğerlerini büzer",
+            "D": "Oksijen tüpü patlar"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; aşırı gaz basıncı akciğerlerde aşırı basınca ve alveollerde yırtılmalara (barotravma) neden olur (Slayt 24).",
+          "distractorAnalysis": "Slayt 24'te kelimesi kelimesine bu ölümcül tehlike vurgulanmıştır.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_ekip_046",
+          "question": "Pop-off valfinin açık tutulması ile fazla gazlar nereye tahliye edilir?",
+          "options": {
+            "A": "Vaporizatörün içine",
+            "B": "Atık gaz sistemine (atık sistemine)",
+            "C": "Oksijen tüpünün içine",
+            "D": "Ameliyat masasının altına"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; pop-off valfin kullanılması ile atık gazların atık sistemine geçmesi sağlanır (Slayt 24).",
+          "distractorAnalysis": "Atık gaz scavenging sistemine yönlendirilir.",
+          "slideNumber": 24
+        },
+        {
+          "id": "mcq_ekip_047",
+          "question": "Rebreathing sistemlerde ekspirasyon ile atılan gazlar tekrar solunmadan önce hangi parçadan geçerek karbondioksitten arındırılır?",
+          "options": {
+            "A": "Vaporizatör",
+            "B": "Karbondioksit tutucu kanister",
+            "C": "Flowmetre",
+            "D": "Basınç regülatörü"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; ekspirasyon gazları tekrar alınmadan önce karbondioksit tutucu kanisterden geçerler (Slayt 25).",
+          "distractorAnalysis": "Kanister karbondioksiti kimyasal olarak absorbe eder.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_ekip_048",
+          "question": "Karbondioksit tutucu kanister içinde CO2 tutma özelliğine sahip kimyasal madde olarak hangileri bulunur?",
+          "options": {
+            "A": "Aktif kömür veya silika jel",
+            "B": "Soda lime ya da baryum hidroksid lime (barium lime)",
+            "C": "Sodyum bikarbonat veya potasyum klorür",
+            "D": "Kalsiyum klorür ve magnezyum sülfat"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kanister içinde ya soda lime ya da baryum hidroksid lime bulunur (Slayt 25).",
+          "distractorAnalysis": "Sodalime ve barium lime bazik karakterli CO2 emicilerdir.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_ekip_049",
+          "question": "Karbondioksit tutucu kanisterdeki granüllerin taze mi yoksa CO2 ile doymuş mu olduğu fiziksel olarak parmakla nasıl anlaşılır?",
+          "options": {
+            "A": "Taze granüller parmaklar arasında kolayca ufalanıp parçalanabilir, ancak CO2 ile doymuş granüller sert ve dayanıklıdır",
+            "B": "Taze olanlar demir gibi serttir, doymuş olanlar sıvılaşır",
+            "C": "Her ikisi de her zaman hamur kıvamındadır",
+            "D": "Parmakla dokunulduğunda taze granüller anında alev alır"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; taze granüller kolayca ufalanırken CO2 ile doymuş granüller sert ve dayanıklıdır (Slayt 25).",
+          "distractorAnalysis": "Karbondioksiti bağlayan kalsiyum karbonat taşlaşma gösterir.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_ekip_050",
+          "question": "Sodalime ya da barium lime granüllerinin kullanıldıkça ve karbondioksitle doydukça gösterdiği karakteristik renk değişimi hangisidir?",
+          "options": {
+            "A": "Yeşilden kırmızıya",
+            "B": "Beyazdan mavi-mora",
+            "C": "Siyahtan sarıya",
+            "D": "Maviden şeffafa"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; granüllerde renk değişimi kullanıldıkça mavi-mor şeklinde görülür (Slayt 25).",
+          "distractorAnalysis": "Slayt 25'te parantez içinde açıkça '(kullanıldıkça mavi-mor)' olarak verilmiştir.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_ekip_051",
+          "question": "Bir hastanın anestezi sırasında kan, mukus veya kusmuk aspire etmesini önlemede en kritik anestezi ekipmanı hangisidir?",
+          "options": {
+            "A": "Yüz maskesi",
+            "B": "Kaflı endotrakeal tüp",
+            "C": "Vaporizatör",
+            "D": "Flowmetre"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; kaflı endotrakeal tüp trakeayı tıkayarak sıvıların akciğere aspirasyonunu kesin olarak önler (Slayt 8).",
+          "distractorAnalysis": "Yüz maskesi aspirasyonu engelleyemez.",
+          "slideNumber": 8
+        },
+        {
+          "id": "mcq_ekip_052",
+          "question": "Anestezi devresinde 'Y' parçasının konumu ve görevi hangisinde doğru ifade edilmiştir?",
+          "options": {
+            "A": "Oksijen tüpü ile flowmetre arasındadır / Basıncı düşürür",
+            "B": "İnhalasyon ve ekspirasyon hortumları ile endotrakeal tüp arasındadır / Gaz iletimini sağlar",
+            "C": "Vaporizatörün içinde yer alır / Sıvıyı ısıtır",
+            "D": "Kanisterin altındadır / Su tahliyesi yapar"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; Y parçası solunum hortumları ile endotrakeal tüp arasında yer alır ve gaz geçişini sağlar (Slayt 4, 20).",
+          "distractorAnalysis": "İnspirasyon ve ekspirasyon kollarını endotrakeal tüpe bağlar.",
+          "slideNumber": 4
+        },
+        {
+          "id": "mcq_ekip_053",
+          "question": "Anestezi sırasında hastanın inspirasyonda oda havası soluması halinde klinik olarak ne gibi bir sorun ortaya çıkar?",
+          "options": {
+            "A": "Anestezi anında derinleşir",
+            "B": "Yeterli anestezi derinliğini sürdürmek zorlaşır ve hasta uyanma eğilimi gösterebilir",
+            "C": "Vaporizatör donar",
+            "D": "Kanisterdeki granüller anında erir"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; hayvan oda havasından da soluyacak olursa yeterli anestezi derinliğini sürdürmek zorlaşır (Slayt 8).",
+          "distractorAnalysis": "Oda havası anestezik konsantrasyonu sulandırır.",
+          "slideNumber": 8
+        },
+        {
+          "id": "mcq_ekip_054",
+          "question": "Tabloya göre 7 kg ve 9 kg ağırlığındaki köpeklerde kullanılması gereken endotrakeal tüp iç çapları sırasıyla hangileridir?",
+          "options": {
+            "A": "7 kg: 4 mm / 9 kg: 5 mm",
+            "B": "7 kg: 6 mm / 9 kg: 7 mm",
+            "C": "7 kg: 8 mm / 9 kg: 9 mm",
+            "D": "7 kg: 10 mm / 9 kg: 12 mm"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; 7 kg köpek için 6 mm, 9 kg köpek için 7 mm iç çap kullanılır (Slayt 9).",
+          "distractorAnalysis": "Slayt 9 tablosunda net olarak verilmiştir.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_ekip_055",
+          "question": "Anestezi cihazında hastaya yüksek konsantrasyonda oksijen sağlanamazsa hastada hangi klinik patoloji gelişir?",
+          "options": {
+            "A": "Hiperoksi",
+            "B": "Hipoksi",
+            "C": "Alkalozis",
+            "D": "Hipertermi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; artan oksijen ihtiyacı ve azalan tidal volüm hipoksiye neden olabilir (Slayt 13).",
+          "distractorAnalysis": "Slayt 13'ün ilk maddesinde açıkça belirtilmiştir.",
+          "slideNumber": 13
+        },
+        {
+          "id": "mcq_ekip_056",
+          "question": "Aşağıdakilerden hangisi anestezi sırasında rezerv balonunun sürekli gaz akış borularına göre hastaya sağladığı doğrudan bir avantajdır?",
+          "options": {
+            "A": "Anestezi hastasının sürekli gaz akış borularına göre rezerv balonundan nefes almasının daha kolay olması",
+            "B": "Hastanın gözlerini nemlendirmesi",
+            "C": "Vücut ısısını 40 dereceye çıkarması",
+            "D": "Kalp atımını iki katına çıkarması"
+          },
+          "correctAnswer": "A",
+          "explanation": "A seçeneği doğrudur; sürekli gaz akışını sağlayan borular sistemine göre rezerv balonundan nefes alması daha kolaydır (Slayt 17).",
+          "distractorAnalysis": "Esnek balon solunum iş yükünü (work of breathing) azaltır.",
+          "slideNumber": 17
+        },
+        {
+          "id": "mcq_ekip_057",
+          "question": "Karbondioksit tutucu kanisterdeki sodalime ya da barium lime granüllerinin kullanım süresiyle ilgili hangisi DOĞRUDUR?",
+          "options": {
+            "A": "Granüllerin kullanımı sınırsızdır, asla tükenmez",
+            "B": "Granüller belirli bir kullanım süresi sonrasında karbondioksit tutma görevlerini yapamazlar ve değiştirilmeleri gerekir",
+            "C": "Granüller her 5 dakikada bir mutlaka çöpe atılmalıdır",
+            "D": "Granüller suyla yıkanıp kurutularak tekrar tekrar kullanılabilir"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; granüller belirli bir kullanım süresi sonrasında karbondioksit tutma görevini yapamazlar (Slayt 25).",
+          "distractorAnalysis": "Doygunluğa ulaştığında kimyasal bağlanma sona erer.",
+          "slideNumber": 25
+        },
+        {
+          "id": "mcq_ekip_058",
+          "question": "Anestezi cihazında gaz silindirinin vanasının sağa doğru çevrilmesi ne anlama gelir?",
+          "options": {
+            "A": "Gaz akışının hızlandırılması",
+            "B": "Gazın tamamen kapatılması",
+            "C": "Gazın ısıtılması",
+            "D": "Gazın N2O ile karıştırılması"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; vananın sağa doğru kapatılması ile gazın gelmesi tamamen kapatılır (Slayt 13).",
+          "distractorAnalysis": "Sola açılır, sağa kapatılır.",
+          "slideNumber": 13
+        },
+        {
+          "id": "mcq_ekip_059",
+          "question": "Tabloya göre 200 - 300 kg ağırlığındaki bir tay veya sığırda kullanılacak endotrakeal tüp internal çapı kaç mm'dir?",
+          "options": {
+            "A": "8 - 10 mm",
+            "B": "14 - 16 mm",
+            "C": "26 mm",
+            "D": "4 - 5 mm"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; 200-300 kg canlı ağırlık için internal çap 14-16 mm'dir (Slayt 9).",
+          "distractorAnalysis": "Slayt 9 tablosundaki değerdir.",
+          "slideNumber": 9
+        },
+        {
+          "id": "mcq_ekip_060",
+          "question": "İnhalasyon anestezi devresinde endotrakeal tüpün doğru olarak trakea içine yerleştirildiğinin pratik klinik kanıtı nedir?",
+          "options": {
+            "A": "Vaporizatörün ses çıkarması",
+            "B": "Rezerv balonunun yeterli ve senkron hareketi",
+            "C": "Oksijen tüpünün basıncının artması",
+            "D": "Kanisterin anında maviye dönmesi"
+          },
+          "correctAnswer": "B",
+          "explanation": "B seçeneği doğrudur; rezerv balonunun yeterli hareketi endotrakeal tüpün doğru olarak trakea içine yerleştirildiğini gösterir (Slayt 17).",
+          "distractorAnalysis": "Tüp özefagusta olsaydı balon nefesle senkron inip kalkmazdı.",
+          "slideNumber": 17
+        }
+      ],
+      "openEndedQuestions": [
+        {
+          "id": "au_ekip_001",
+          "question": "Volatil likid anesteziklerin uygulanmasında vaporizatör kullanımının gerekliliğini ve büyük hayvan (at, sığır) ile küçük hayvan anestezi cihazları arasındaki farkı açıklayınız.",
+          "idealAnswer": "Volatil anestezikler oda ısısında sıvı formdadır. Hastaya solutulabilmeleri için buharlaştırılıp gaz fazına geçirilmeleri ve taşıyıcı gazla hassas yüzdelerde karıştırılmaları zorunludur; bunu vaporizatör kabinleri sağlar. İnsan anestezi cihazları kedi ve köpeklerin tidal volüm ve gaz akış dinamiklerine uyumludur. Ancak at ve sığır gibi yüzlerce kiloluk büyük hayvanların akciğer kapasitesi, tidal volümü ve dakika ventilasyonu çok yüksek olduğundan, devasa rezerv balonları (30 L) ve yüksek akış kapasiteli özel dizayn edilmiş büyük anestezi cihazları gereklidir.",
+          "slideNumber": 2
+        },
+        {
+          "id": "au_ekip_002",
+          "question": "Kauçuk, vinil plastik ve silikonlu kauçuk endotrakeal tüplerin yapısal özelliklerini, avantaj ve dezavantajlarını karşılaştırınız.",
+          "idealAnswer": "1) Kauçuk tüpler (turuncu): Ucuzdur ancak dezenfektanları absorbe eder, zamanla çatlar ve kurur; aşırı esnek olduklarından bükülüp tıkanabilir (spiral telli olanları bükülmeye dirençlidir). 2) Vinil plastik tüpler: Şeffaftır, çatlama yapmaz, ancak kauçuğa göre daha serttir. 3) Silikonlu kauçuk tüpler: Pahalıdır fakat veteriner hekimlikte en çok tercih edilmesi gereken tüptür; son derece yumuşak ve esnektir, trakea mukozasına karşı en az irritandır.",
+          "slideNumber": 5
+        },
+        {
+          "id": "au_ekip_003",
+          "question": "Murphy endotrakeal tüpünün distal ucunda bulunan 'Murphy deliği'nin anatomik yapısını ve hayati fonksiyonunu açıklayınız.",
+          "idealAnswer": "Murphy tüpünün eğimli gövdesinin distal ucuna yakın yan duvarında oval bir delik bulunur ve buna 'Murphy deliği' adı verilir. Hayati önemi: Eğer endotrakeal tüpün primer distal ağzı trakea çeperine (mukozaya) dayanarak veya lümendeki kalın mukus/sekresyon tıkacıyla tamamen kapanırsa, Murphy deliği gaz ve oksijen akışının kesilmesini engelleyen alternatif bir acil hava kanalı oluşturarak hastanın asfiksiden boğulmasını önler.",
+          "slideNumber": 7
+        },
+        {
+          "id": "au_ekip_004",
+          "question": "Kaflı endotrakeal tüp kullanımının ameliyathane güvenliği ve hasta fizyolojisi açısından 3 temel avantajını ve aşırı şişirilmesinin riskini yazınız.",
+          "idealAnswer": "Avantajları: 1) Ekspirasyon gazlarının odaya sızmasını engelleyerek ameliyathane personelinin kronik atık gaz solumasını önler. 2) Regürgitasyon veya kusma anında mide içeriğinin, kan ve salyanın akciğerlere kaçmasını (aspirasyon pnömonisini) önler. 3) Hastanın tüp etrafından oda havası solumasını engelleyerek anestezi derinliğinin stabil kalmasını sağlar. Dezavantaj/Risk: Kaf enjektörle aşırı şişirilirse trakea kapiller perfüzyonunu aşan basınca bağlı olarak trakea iç çeperinde iskemi, basınç nekrozu ve yırtılma oluşabilir.",
+          "slideNumber": 8
+        },
+        {
+          "id": "au_ekip_005",
+          "question": "Farklı tür ve ağırlıktaki hayvanlarda endotrakeal tüp internal çapı (mm) seçimini kedi, orta ırk köpek ve yetişkin at örnekleri üzerinden açıklayınız.",
+          "idealAnswer": "Tüp çapı canlı ağırlığa göre seçilir: 1 kg yavru kedide 2.5-3 mm, yetişkin 3-5 kg kedilerde 3.5-4.5 mm kullanılır. 12-14 kg ağırlığında bir köpekte 7-8 mm, 30-40 kg iri bir köpekte 9-10 mm internal çap tercih edilir. 400-600 kg yetişkin bir atta ise 22-26 mm (>600 kg atta 26 mm) internal çapa sahip geniş endotrakeal tüpler kullanılır.",
+          "slideNumber": 9
+        },
+        {
+          "id": "au_ekip_006",
+          "question": "Anestezi cihazlarında hastaya neden anestezide olmayana kıyasla yüksek konsantrasyonda (%100) oksijen uygulanır? İki temel fizyolojik gerekçesini yazınız.",
+          "idealAnswer": "1) Anestezide olmayan sağlıklı hayvana kıyasla genel anestezi altındaki hastanın hücresel bazda oksijen gereksinimi daha yüksektir. 2) Genel anesteziklerin santral solunum merkezini ve interkostal kasları deprese etmesi sonucu hastanın tidal volümü (%50 oranında) ve dakika solunumu belirgin şekilde azalır. Azalan ventilasyonda hipoksinin önlenmesi ve doku perfüzyonunun korunması için yüksek konsantrasyonda oksijen verilmesi şarttır.",
+          "slideNumber": 12
+        },
+        {
+          "id": "au_ekip_007",
+          "question": "Anestezi cihazında flowmetrenin fonksiyonunu, ölçüm birimini ve oksijen tankı ile vaporizatör arasındaki konumunun önemini açıklayınız.",
+          "idealAnswer": "Flowmetre, anestezi cihazına gelen basınçlı oksijen gazının dakikada hastaya ulaşacak miktarını hassas olarak ayarlayan kısımdır ve gaz akışını 'dakikada litre' (L/dk) cinsinden sağlar. Konum önemi: Oksijen tankından gelen gaz önce flowmetreden geçer, ardından vaporizatöre ulaşır. Oksijen tüpü açık olsa dahi flowmetrenin vanası açılmazsa sisteme gaz gitmez ve vaporizatör içinden gaz akışı gerçekleşmediği için anestezik madde buharlaşamaz.",
+          "slideNumber": 14
+        },
+        {
+          "id": "au_ekip_008",
+          "question": "Vaporizatörün temel çalışma prensibini ve gaz akışı kesildiğinde volatil anestezik maddelere ne olduğunu açıklayınız.",
+          "idealAnswer": "Vaporizatör, sıvı haldeki volatil anestezik maddeyi kontrollü sıcaklık ve basınç altında buharlaştırarak, içinden geçen oksijen gazına belirli bir konsantrasyonda (% hacim) karışmasını sağlar. Buharlaşmanın gerçekleşebilmesi için vaporizatörün içinden sürekli bir taşıyıcı gaz akışının olması şarttır. Eğer flowmetreden gaz akışı kapatılırsa buharlaşma durur, volatil likid anestezik sisteme giremez ve hastaya anestezi gazı iletilemez.",
+          "slideNumber": 15
+        },
+        {
+          "id": "au_ekip_009",
+          "question": "Rezerv balonunun farklı hayvan cüsselerine göre hacim standartlarını (kedi, köpek, at/sığır) yazınız.",
+          "idealAnswer": "Rezerv balonları hayvanın tidal volümüne göre seçilir: Kedi ve küçük yavru köpeklerde 500 ml hacimli balonlar kullanılır. Köpeklerde vücut ağırlığına bağlı olarak sıklıkla 1 - 2 litrelik rezerv balonları tercih edilir. At ve sığır gibi büyük cüsseli hayvanlarda ise çok daha hacimli olan 30 litrelik devasa rezerv balonları kullanılmaktadır.",
+          "slideNumber": 16
+        },
+        {
+          "id": "au_ekip_010",
+          "question": "Anestezi sırasında rezerv balonunun hareketlerine bakılarak elde edilen klinik izlem parametrelerini ve balonun az hareket etmesinin nedenini açıklayınız.",
+          "idealAnswer": "Rezerv balonunun inip kalkmasıyla dakikadaki solunum sayısı (solunum frekansı) ve her nefeste alınan gaz hacmi (tidal volüm) gözle takip edilir. Balonun yeterli ve senkron hareketi endotrakeal tüpün doğru olarak trakea içine yerleştiğini gösterir. Eğer balon yeterli miktarda hareket etmiyorsa, hasta solunumunun bir kısmını oda havasından alıyor demektir; bu da endotrakeal tüp kafının yetersiz şişirilmesine bağlı kaf etrafından hava kaçışı olduğunu kanıtlar.",
+          "slideNumber": 17
+        },
+        {
+          "id": "au_ekip_011",
+          "question": "Rezerv balonuna basınç uygulayarak ventilasyon yaptırılmasının (IPPV) atelektazi ve alveolar gaz değişimi üzerindeki etkilerini açıklayınız.",
+          "idealAnswer": "Genel anestezide solunum depresyonuna bağlı olarak tidal volüm %50 oranında azalır ve alveollerde biriken sekresyonlar atelektaziye (alveol kollapsı) yol açar. Rezerv balonuna aralıklı ılımlı basınç uygulandığında pozitif basınçlı ventilasyon sağlanarak kollabe olmuş alveoller yeniden açılır, taze oksijen ve anestezik gazın alveol kılcal damar membranına ulaşması temin edilir ve atelektazi önlenir; spontan solunumu duran hastalarda ise hayat kurtarır.",
+          "slideNumber": 18
+        },
+        {
+          "id": "au_ekip_012",
+          "question": "Rezerv balonunun aşırı dolu tutulmasının ve tamamen sönmesinin yaratacağı tehlikeleri yazınız.",
+          "idealAnswer": "Aşırı dolu olması durumunda: Balonun solunumla hareketleri izlenemez hale gelir ve devre içi basınç tehlikeli seviyelere fırlayarak akciğer alveollerinin yırtılmasına (barotravma, pnömotoraks) yol açabilir. Tamamen sönmesi durumunda ise: Hasta nefes almak istediğinde devreden yeterli gaz çekemez, hipoksi ve asfiksiye girer. Bu dengeyi korumak için pop-off valfi uygun açıklıkta tutulmalıdır.",
+          "slideNumber": 19
+        },
+        {
+          "id": "au_ekip_013",
+          "question": "İnhalasyon valfi, 'Y' parçası ve ekspirasyon valfinin tek yönlü çalışma prensibini ve gaz sirkülasyonundaki rolünü açıklayınız.",
+          "idealAnswer": "İnhalasyon valfi tek yönlü bir klapedir; hasta nefes aldığında açılarak gazın sadece hastaya doğru akmasını sağlar; gaz 'Y' parçasını geçerek endotrakeal tüple akciğere ulaşır. Ekspirasyonda ise atılan gaz yine endotrakeal tüp ve 'Y' parçasından geçerek tek yönlü ekspirasyon valfine ulaşır. Ekspirasyon valfi gazın hastaya geri dönmesini engeller ve atık gazı karbondioksit tutucu kanistere (veya atık sistemine) yönlendirir; böylece CO2'li havanın temizlenmeden geri solunması önlenir.",
+          "slideNumber": 20
+        },
+        {
+          "id": "au_ekip_014",
+          "question": "Oksijen Flash Valfinin (O2 Flush) kullanım amaçlarını ve non-rebreathing sistemlerde neden kesinlikle KONTRENDİKE olduğunu açıklayınız.",
+          "idealAnswer": "O2 flash valfine basıldığında yüksek basınçlı saf oksijen, flowmetre ve vaporizatörü baypas ederek doğrudan devreye girer. Kullanım amaçları: 1) Genel durumu kötü acil hastalara saf oksijen sağlamak, 2) Sönen rezerv balonunu saniyeler içinde doldurmak, 3) Anestezi bitiminde devredeki anestezik gazı temizleyip saf O2 ile uyanmayı hızlandırmak. Kontrendikasyon: Non-rebreathing (açık/yarı açık) sistemlerde devre hacmi çok küçük olduğundan, bu yüksek akımlı valfe basılması rezerv balonunu ve hayvanın akciğerlerini anında patlatarak ölümcül barotravmaya neden olur.",
+          "slideNumber": 22
+        },
+        {
+          "id": "au_ekip_015",
+          "question": "Pop-off valfinin işlevini, anestezi sırasındaki ideal konumunu ve kapalı unutulmasının patofizyolojik sonucunu izah ediniz.",
+          "idealAnswer": "Pop-off valfi sistemdeki fazla gazın atık sistemine tahliyesini sağlayarak devre içi basıncı düzenleyen bir emniyet valfidir. İdeal olarak bir miktar açık bırakılmalı ve az miktarda sürekli gaz kaçışı sağlanmalıdır. Eğer pop-off valfi kapalı unutulursa, sürekli gelen taze gaz sistemi ve rezerv balonunu aşırı şişirir; oluşan yüksek intratorasik basınç venöz dönüşü engelleyip kardiyak arrest oluşturur ve doğrudan alveolleri patlatarak tansiyon pnömotoraksa ve ölüme yol açar.",
+          "slideNumber": 23
+        },
+        {
+          "id": "au_ekip_016",
+          "question": "Karbondioksit tutucu kanisterde kullanılan kimyasal maddeleri, granüllerin doymuşluk testini ve renk değişim mekanizmasını açıklayınız.",
+          "idealAnswer": "Kanister içinde CO2 tutucu kimyasal olarak 'soda lime' (kalsiyum hidroksit bazı) veya 'baryum hidroksit lime' bulunur. Doymuşluk testi: Taze granüller parmaklar arasında kolayca ufalanıp parçalanabilirken, CO2 ile doyup kalsiyum karbonata dönüşen granüller taş gibi sert ve dayanıklıdır. Renk değişimi: İçerdiği etil menekşesi (pH indikatörü) sayesinde granüller asitlendikçe ve CO2 ile doydukça beyaz renkten mavi-mora döner; mor renk granüllerin değiştirilmesi gerektiğini bildirir.",
+          "slideNumber": 25
+        },
+        {
+          "id": "au_ekip_017",
+          "question": "Anestezi cihazının sadece anestezi için değil, kritik acil hastalarda ventilasyon amacıyla nasıl kullanıldığını açıklayınız.",
+          "idealAnswer": "Anestezi cihazları acil veya kritik kardiyorespiratuvar yetmezlikteki hastalarda oksijen ventilasyonu sağlamak için mükemmel bir platformdur. Bu amaçla kullanıldığında anestezi cihazının vaporizatörü kesinlikle 'KAPALI' konumda tutulur; böylece sisteme anestezik madde karışmaz. Yalnızca flowmetreden oksijen akışı açılarak maske aracılığıyla veya entübe edilen hastalarda doğrudan endotrakeal tüp üzerinden saf oksijen ventilasyonu uygulanır.",
+          "slideNumber": 11
+        },
+        {
+          "id": "au_ekip_018",
+          "question": "Rezerv balonunun hayvanın nefes alma ve verme döngüsündeki hacimsel değişimini ve tek yönlü valflerle koordinasyonunu açıklayınız.",
+          "idealAnswer": "Gaz akışı sürdükçe taze gaz rezerv balonuna dolar. Hayvan inspirasyon yaptığında gazın bir kısmı inhalasyon valfini açarak hayvana gideceğinden rezerv balonunun hacminde azalma (boşalma) meydana gelir. Ekspirasyon anında ise hasta nefesini ekspirasyon valfinden kanistere doğru verirken, flowmetreden gelen taze gaz rezerv balonunu tekrar doldurur. Böylece rezerv balonu her nefeste düzenli olarak bir miktar boşalır ve ardından yeniden şişer.",
+          "slideNumber": 16
+        },
+        {
+          "id": "au_ekip_019",
+          "question": "İnhalasyon anestezi hazırlığında laringoskop, lidokain sprey ve göz pomadının kullanılma gerekçelerini açıklayınız.",
+          "idealAnswer": "1) Laringoskop: Epiglottisi ekarte edip vokal kordları ve glottisi aydınlatarak körleme olmadan atravmatik entübasyon sağlar. 2) Lidokain sprey: Özellikle kedilerde aşırı hassas olan laringeal refleksleri baskılamak ve entübasyon esnasında ölümcül laringospazmı önlemek için larinkse sıkılır. 3) Göz pomadı/damlası: Anestezide lakrimal sekresyon azaldığı ve göz kapakları açık kaldığı için korneanın kurumasını, kornea ülseri ve keratit şekillenmesini önlemek amacıyla her iki göze rutin uygulanır.",
+          "slideNumber": 3
+        },
+        {
+          "id": "au_ekip_020",
+          "question": "Anestezi devresinde 'atık gaz sistemi' (scavenging system) neden zorunlu bir ekipmandır ve hangi valf üzerinden çalışır?",
+          "idealAnswer": "İnhalasyon anestezikleri (izofluran, halotan vb.) ameliyathane ortamına salındığında cerrahi ekipte baş ağrısı, yorgunluk, hepatotoksisite, teratojenite ve spontan abortus gibi mesleki sağlık risklerine yol açar. Atık gaz sistemi, pop-off valfinden tahliye edilen fazla anestezi gazlarını ve ekspirasyon havasını toplayarak aktif veya pasif tahliye hatlarıyla bina dışına atar; böylece ameliyathane havasının kirlenmesi önlenir.",
+          "slideNumber": 24
+        }
+      ]
     }
   ]
 }
